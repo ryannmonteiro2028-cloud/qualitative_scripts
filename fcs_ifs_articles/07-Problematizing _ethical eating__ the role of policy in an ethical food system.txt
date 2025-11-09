@@ -1,0 +1,419 @@
+Food, Culture & Society
+An International Journal of Multidisciplinary Research
+ISSN: 1552-8014 (Print) 1751-7443 (Online) Journal homepage: www.tandfonline.com/journals/rffc20
+Problematizing "ethical eating": the role of policy in an ethical food system
+Daniela Spagnuolo
+To cite this article: Daniela Spagnuolo (2022) Problematizing "ethical eating": the role of policy in an ethical food system, Food, Culture & Society, 25:5, 934-952, DOI: 10.1080/15528014.2021.1939960 To link to this article: https://doi.org/10.1080/15528014.2021.1939960
+Published online: 17 Jun 2021. Submit your article to this journal Article views: 1049 View related articles View Crossmark data Citing articles: 3 View citing articles
+Full Terms & Conditions of access and use can be found at https://www.tandfonline.com/action/journalInformation?journalCode=rffc20
+
+FOOD, CULTURE & SOCIETY 2022, VOL. 25, NO. 5, 934­952 https://doi.org/10.1080/15528014.2021.1939960
+
+Problematizing "ethical eating": the role of policy in an ethical food system
+Daniela Spagnuolo
+Department of Politics & Public Administration, Ryerson University, Toronto, Canada
+
+ABSTRACT
+The concept of "ethical eating" has become prominent within pub lic discourse. It refers to a form of ethical consumption whereby consumers can feel that they have directly impacted the food system through their food choices. However, the terms and prac tices often used to define "ethical eating" are incomplete and exclude other ethical issues within the food system that are more complex and have less clear solutions than those offered through ethical consumption. Through a content analysis of 100 newspaper and magazine articles discussing the practice of "ethical eating," as well as a review of literature on this topic, this article argues that issues within the food system cannot be solved through ethical consumption alone. Instead, there must be an increased role for public policy to address ethical concerns within the food system. Through examining organic, meat-avoidant, fair trade, and local diets as the most frequently mentioned terms associated with "ethical eating," three case studies are presented highlighting the tensions associated with access to eating ethically, Indigenous food sovereignty, and production of ethical food. This paper argues that addressing these ethical issues requires public policy to tackle the root causes and ensure all are served within the food system.
+
+KEYWORDS Ethical eating; public policy; organic; food insecurity; plant-based; Indigenous; food sovereignty; fair trade; local food
+
+Introduction
+Numerous articles, books, and influencers have popularized the concept of "ethical eating" and offered consumers prescriptions for how their consumption choices and diets can allegedly lead to a more "ethical" food system. While many of the foods and ways of eating that come out of this phenomenon may have a somewhat beneficial social and environmental effect and may not be explicitly unethical, prescriptions for "ethical eating" often fail to account for the complexities of ethics within the food system.
+Food ethics is an interdisciplinary study of how food is produced, distributed, marketed, prepared, and consumed and the corresponding impact of these processes on human, animal, and planetary health and well-being (Fanzo and McLaren 2020). Food choices are ethical choices due to their intersection with complex economic supply chains, which presumably cause better or worse outcomes for people, animals, and the environment (Thompson 2015). While there is undoubtedly an ethical ele ment to all consumption choices, this article sets out to problematize the role of
+CONTACT Daniela Spagnuolo daniela.spagnuolo@ryerson.ca
+© 2021 Association for the Study of Food and Society
+
+FOOD, CULTURE & SOCIETY
+
+935
+
+individual consumption choices in the broader food system. While the presumptions behind "ethical eating" put significant weight behind the choices of individual con sumers, the realities of the food system are such that it is untruthful to claim that any particular food choice or way of eating can be clearly defined as either "ethical" or "unethical."
+Through a content analysis of 100 newspaper and magazine articles, this paper identifies that some of the most commonly used terms associated with "ethical eating" in these popular sources include ones that describe organic foods; vegetarian, vegan, and otherwise meat-avoidant diets; fair trade foods; and local foods. This article problema tizes these examples of "ethical eating" through three case studies examining access to ethical food, ethical eating and Indigenous food sovereignty, and the production of ethical foods in order to demonstrate that ethical issues within the food system are inherently policy issues that cannot be solved through individual consumer choice alone. Rather, to create an ethical food system, public policy is needed ensure that food is accessible, that food sovereignty is preserved for marginalized populations, and that labor conditions are just and do not exploit workers.
+
+Materials and methods
+In order to address the issues with what is considered to be "ethical eating," we must start by analyzing what "ethical eating" entails according to the sources where consumers are likely to encounter the term. While there is no single agreed-upon definition for "ethical eating," this section attempts to compile a working definition that captures the most common characteristics of "ethical eating" as it is presented in the media, which will be the foundation for the analysis presented in this paper. This definition will then be examined in relation to three case studies that address ethical issues within the food system that do not feature prominently in the language used to describe "ethical eating" identified in the content analysis.
+In order to begin this process, I conducted a content analysis using a sample of 100 articles in magazines and newspapers searched through the Ryerson University Library and Archives database. These 100 articles were identified using the search term "ethical eating," which generated 727 results sorted by relevance. The sample consisted of the first 100 most relevant articles generated by the search and within that sample, exclusion criteria was defined by duplication of articles within the database or lack of access to full article text. All articles within the sample were from English language sources published within Canadian, American, and UK publications within a date range of 1997 and 2018.
+The unit of analysis for this study was words or short phrases that were associated with "ethical eating" within the article. The terms that were included were mainly adjectives used to define food products, their means of production, or ways of eating. These terms were chosen for inclusion because this analysis seeks to understand the infrastructures of ethical eating, in order to come to a working understanding of what it means to eat ethically in practice. Thus, where an article described a moral choice to eat ethically (ex: by describing such ways of eating as "enlightened"), this study chose to focus on what kinds of food were considered more moral or ethical, rather than the values behind the decision to practice this way of eating.
+
+936
+
+D. SPAGNUOLO
+
+This distinction requires us to clarify what is meant by "morality" and "ethics." There are many theories of morality and ethics across the discipline of philosophy, however exploring a specific ethical theory is beyond the scope of this paper. Rather, this paper is based on an overall understanding of morality and ethics as measures of "goodness" or "badness." While the meanings of morality and ethics can often be blurred themselves, many scholars regard morality as the values and customs of a society that define what is right or wrong (Fisher 2004). Ethics, as a term, can also be used in multiple ways, one of which is in reference to an activity and involving critical inquiry into ethical issues (Fisher 2004). This is the use of ethics which will be examined throughout this paper. In the context of ethical eating, consumer choice to eat ethically may be driven by morality, but for the purpose of this section, I sought to define what constituted an ethical product, diet, or production system, and as such, terms that were used to describe these elements were included in the analysis.
+Six categories were established at the beginning of the study for grouping the terms identified through the content analysis. These categories were Health, Environment, Access, Animal Consumption, Production, and Other Terms. The table below (Table 1) illustrates how each category was defined, the ethical implications of the category, and the terms that were grouped into the category. As terms were identified through the content analysis, they were coded and organized into relevant categories using Excel. This allowed for an assessment of the frequency with which terms from each category appeared in the sampled articles.
+A number of articles included terms from more than one category. The graph below (Figure 1) demonstrates the number of articles that included at least one term that fell into the respective category. This graph illustrates that most articles framed ethical eating using terms that fell into the Environment, Animal Consumption, and Production categories.
+
+Number of Articles in Each Category
+
+Other
+
+19
+
+Production
+
+36
+
+Animal Consumption
+
+39
+
+Access
+
+14
+
+Environment
+
+44
+
+Health
+
+9
+
+0
+
+5
+
+10 15 20 25 30 35 40 45 50
+
+Number of Articles
+
+Figure 1. Number of articles in each category.
+
+Table 1. Ethical implications of term categories.
+
+Category
+
+Definition
+
+Ethical Implications
+
+Example of Terms
+
+Health
+
+This category included terms that described ethical A healthy diet plays a role in providing answers to "health*," "fresh," "raw," "food as medicine," "varied
+
+eating as practices related to an individual's physical issues of sustainability, ethics, and the health and
+
+diet"
+
+health.
+
+well-being of society (Ristovski-Slijepcevic,
+
+Chapman, and Beagan 2008).
+
+Environment This category included terms that described ethical An ethical diet conserves, protects, and regenerates "sustainab*,""local," "organic*," "eco*," "environment*,"
+
+eating as practices that resulted in environmental
+
+natural resources, landscapes and biodiversity
+
+"earth*," "natural," "eat the view," "green,"
+
+benefits.
+
+(Academy of Nutrition and Dietetics, American
+
+"pollution*," "slow food*," "water*," "regional*," "100
+
+Nurses Association, American Planning Association, mile*," "waste*," "recyclable packaging,"
+
+& American Public Health Association 2012).
+
+"biodynamics," "climate change," "low impact,"
+
+"pesticide absorption"
+
+Access
+
+This category included terms that described ethical An ethical diet is one that is physically accessible,
+
+"human rights," "expensive*," "just*," "less available,"
+
+eating as practices that lead to improved food access affordable, health-promoting, and culturally
+
+"alleviation of poverty," "donations," "less
+
+and security.
+
+appropriate for everyone (Academy of Nutrition and convenient," "equity," "affordable," "access"
+
+Dietetics, American Nurses Association, American
+
+Planning Association, & American Public Health
+
+Association 2012).
+
+Animal
+
+This category included terms that described ethical An ethical diet respects animal rights.
+
+"farm," "free*,""veg*," "animal*," "humane*," "meat*,"
+
+Consumption eating as practices related to improved treatment of
+
+"ethical*," "wild," "grass-fed," "non-endangered,"
+
+animals or adoption of a diet that included less or
+
+"pasture*," "hormone*," "hunted," "conscientious
+
+eliminated the consumption of products from
+
+carnivore," "furnished cages," "plant-based," "bottom
+
+animals.
+
+feeders," "line-caught," "dolphin friendly"
+
+Production
+
+This category included terms that described ethical An ethical diet is one that is produced in just conditions "fair*," "season*," "community," "GM*," "sourc*," "artis*,"
+
+eating as practices that support just conditions for and provides fair treatment and payment to all
+
+"labor*," "shade-grown," "certifi*," "small-scale,"
+
+the production and producers of food
+
+workers.
+
+"(buying) produce from developing countries,"
+
+"foraged," "Rainforest Alliance," "hand-made,"
+
+"manufacturing (process)," "sun grown," "100% NZ,"
+
+"halal," "food labeling," "workers are paid decent
+
+wages," "Marine Stewardship Council (endorsement)"
+
+Other
+
+This category included any other practices that were Includes all other terms used to define "ethical eating" "social*," "co-op," "system," "support of deserving
+
+used to describe ethical eating that did not fit into that did not fall into the above categories.
+
+economies," "values-driven," "CSAs," "satisfying,"
+
+the previous five categories.
+
+"food sovereignty," "middle part of the food chain,"
+
+"fasting," "abstinence," "simple," "spending more
+
+time, "making most food yourself"
+
+FOOD, CULTURE & SOCIETY
+
+An asterisk (*) after the root of a term means that this term includes all related terms and iterations of the term (ex: "health*" included "health," "healthy," and "health food").
+
+937
+
+938
+
+D. SPAGNUOLO
+
+This trend is further reinforced when we look at how frequently individual terms from each article were sorted into each category. Each term used to define "ethical eating" within each of the articles was sorted into the relevant category. This represented the frequency with which terms from each category were used to define "ethical eating" across the sampled articles, as shown in Figure 2. Many articles used more than one term to define ethical eating, however the terms most frequently used still fell into the Environment, Animal Consumption, and Production categories, with 105, 100, and 68 mentions of terms falling into these categories respectively. Terms least frequently fell into the Health and Access categories, with 10 and 19 mentions of terms from these categories respectively.
+
+Mentions of Terms by Category
+120 105 100
+100
+
+80 68
+60
+
+40
+
+19
+
+20
+
+10
+
+0
+
+Health
+
+Environment
+
+Access
+
+Figure 2. Mentions of terms by category.
+
+Animal
+
+Production
+
+Consumption
+
+32 Other
+
+When considering individual terms, the most commonly used terms across the sample of articles also fell into the Environment, Animal Consumption, and Production category. The most common terms were those related to sustainability (34 mentions), "local" and "organic" (25 mentions each), and those related to how animals are raised (21 mentions of terms related to farms and farm conditions, 20 mentions of being "free" of something ­ including cages or hormones, or free range, etc.). "Vegetarian," "vegan," and "plant-based" diets cumulatively captured 19 mentions. Notably, terms referring to reducing, eliminating or being more conscientious about meat consumption added 9 more mentions relating to quantity or quality of meat and seafood consumption. Additionally, terms encompassing the term "fair" (ex: "Fair Trade," "fair wages and labor conditions," "fair share," etc.) within the Production category were also frequently mentioned within the literature, capturing 18 mentions throughout the sample of articles.
+Findings from this content analysis were supplemented by a review of relevant literature on the themes identified from these findings (which will be discussed further in the Results section). Scholarly literature, as well as news sources and government and nonprofit reports were used to inform three case studies based on some of the least frequently mentioned terms, which illustrate how the findings from the content analysis could be contextualized in relation to other ethical issues within the food system that do
+
+FOOD, CULTURE & SOCIETY
+
+939
+
+not fit as neatly into the discourse around "ethical eating." These case studies cover issues related to access, food sovereignty, and just treatment of workers in the production process, which, as demonstrated through the content analysis, are often under- or misrepresented in the way "ethical eating" is described in newspaper and magazine media.
+
+Results
+These findings show not only which terms appear most prominently in the articles where consumers are likely to encounter ideas around ethical eating, but also demonstrate an interesting pattern in ethical eating discourse. The most prominent terms identified through the content analysis ­ "local," "organic," "vegetarian," "vegan," "fair" and related terms ­ all seem to demonstrate that the practices that define ethical eating allow the consumer to feel as though their choice directly contributes to creating a more ethical food system. Local, organic, and fair trade foods are often clearly labeled as such, and come with the understanding that these products contribute to positive environmental, labor, and economic practices. Likewise, vegetarian, vegan, plant-based, and otherwise meat-avoidant diets are seemingly directly connected to the reduced demand for animal products, and thereby are associated with benefits for animal welfare and the environment.
+The seemingly direct connections to perceived ethical benefits position "ethical eat ing" within the broader discourse of ethical consumption. Ethical consumption is a discourse and set of practices through which consumer practices are shaped by a desire to make ethical change through consumption (Kennedy, Baumann, and Johnston 2019). By extension, the "ethical consumer" exercises their moral principles through their consumption choices (Kennedy, Baumann, and Johnston 2019). Through the terms and vocabulary associated with "ethical eating," ethical consumers are able to use their buying choices to signify support for a food system other than conventional global supply chains (Carolan 2020). However, these direct connections between "ethi cal" food purchases and ethical food system outcomes are not as straightforward and simple as they appear, as will be demonstrated throughout this paper.
+While it emerges from the results of the content analysis that "ethical eating" cannot be neatly captured in a single definition or set of behaviors or qualities, for the purposes of this paper, I propose a working definition of "ethical eating" based on the most prominent terms identified through the content analysis. Thus, "ethical eating" within the context of this paper is defined as a set of qualities or practices surrounding food and diet that are presented to consumers as having a direct connection to supposedly positive ethical impacts within the food system. In this paper, the qualities of "ethical eating" that will be focused on are local, organic, fair trade, and various iterations of plant-based or otherwise meat-avoidant diets, because of their prominence in the media discourse and their exemplification of this working definition.
+These terms will be examined in the following section in relation to some of the least frequently mentioned terms associated with "ethical eating" in the sample examined. "Access" and "food sovereignty" were each mentioned once, while "just treatment" was only mentioned twice. Despite the low frequency of these terms being applied to descriptions of "ethical eating" in the sample, these terms are relevant to prominent ethical issues within the Canadian and global food system. These terms may not be used frequently in newspaper and magazine articles to define ethical eating, but poverty and
+
+940
+
+D. SPAGNUOLO
+
+income inequality, colonialism, and unjust transnational labor relations remain signifi cant ethical issues in the food system, as exemplified in the Discussion section. These case studies have been selected due to their relationship to both the most prominent terms used to define "ethical eating" and some of the least prominent terms. Thus, these case studies have been defined by the results of the content analysis and are informed by a review of scholarly literature, news coverage, and nonprofit and government reports.
+
+Discussion
+To assess the limitations of this working definition of ethical eating, this paper draws attention to three issues within the Canadian context that seem to be excluded from how ethical eating is represented in magazine and newspaper articles. First, attention will be paid to the accessibility of ethical diets, followed by the tensions between animal welfare and Indigenous food sovereignty, and lastly the relationship between ethical food and its often unethical production. Thus, this section explores the ways through which domi nant definitions of ethical eating described in terms like "local," "organic," "fair trade," and various meat-avoidant diets obscure other ethical issues within the food system ­ such as some of the less frequently used terms to define ethical eating, including "access," "food sovereignty," and "just treatment." These ethical issues have solutions largely beyond the scope of ethical consumption and as such require policy intervention to address the systemic issues of poverty and income inequality, colonialism, and unjust transnational labor relations.
+
+Access to eating ethically
+In order to eat ethically, one must be able to access and prepare ethical foods. Accessibility of ethical food can be understood in terms of both cultural capital and cost. Food consumption can be an expression of cultural capital, which refers to a set of socially rare and distinctive tastes, skills, knowledge, and practices that are widely recognized as high status signals for social and cultural exclusion (Kennedy, Baumann, and Johnston 2019). The work of Joseé Johnston, Michelle Szabo, and Alexandra Rodney points to the ways consumers use ethical eating to distinguish themselves in relation to others based on cultural and moral boundaries drawn by education, intelligence, man ners, tastes, cultural competency, and moral character (2011).
+Scholarship cited by Kelly J. Hodgins and Evan D.G. Fraser notes that many alter native food systems are perceived as being elitist, culturally and ethnically exclusive, and that low income communities disproportionately face financial and temporal barriers to access (2017). This is likely because "ethical" food products are often found in higher income areas and are priced at a premium. In fact, several studies have found an increased willingness to pay (WTP) if a product has ethical attributes, with Benjamin L. Campbell, Saneliso Mhlanga, and Isabelle Lesschaeve finding that labels like "Canada Organic" and "Verified Organic" generate premiums of 0.16 USD/lb. and 0.19 USD/lb. in Canadian dollars respectively (2013, 534; Campbell et al. 2010), and Leila HamzaouiEssoussi and Mehdi Zahaf finding that most Canadian consumers are willing to pay a premium price of up to 45% for organic foods (2012, 14).
+
+FOOD, CULTURE & SOCIETY
+
+941
+
+While it may be promising to see that consumers are willing to spend more to purchase food produced under more ethical conditions, with 12.7% of households in Canada experiencing some level of food insecurity in 2017­2018, this option remains unavailable to 4.4 million Canadians (Tarasuk and Mitchell 2020, 3). Food insecurity has further been exacerbated during the COVID-19 pandemic, with Statistics Canada data from May 2020 finding that the percentage of Canadians who live in a household where there was food insecurity in the past 30 days had risen to 14.6% (2020). For these households, as well as others facing financial, social, and cultural barriers, ethical eating is a choice they are excluded from making.
+The inaccessibility and unaffordability of ethical food takes on a new element of concern when understandings of ethical and healthy eating overlap, as in the case of organic foods. In the content analysis conducted for this study, 10 terms defining ethical eating practices were related to health and healthy eating. Research has shown that health issues are among the most important factors that influence organic food choice, along side personal values around chemical use, taste, and environmental impact (HamzaouiEssoussi and Zahaf 2012). However, poverty and low income act as a significant barrier to being able to prepare a healthy, ethical version of a home cooked meal, as the foods considered to be healthy such as fresh produce, whole grains, and lean meats are frequently prohibitively expensive (Bowen, Elliot, and Brenton 2014, 23). An American study found it costs 1.50 USD more per day to eat a healthy diet instead of an unhealthy diet, adding up to an additional 550 USD per year per person (Bowen, Elliot, and Brenton 2014, 23). Adding in the even higher premiums paid for "ethical" options which, in the case of organic foods, can range from 14%-174% in Canada (Hamzaoui-Essoussi and Zahaf 2012, 6), it becomes clear how unattainable these ways of eating are for poorer families. Consequently, there is little proof that "ethical" alternative food systems are actually any better than conventional food systems at ensuring accessibility of healthy food for low income populations, and in reality, they often are much worse (Hodgins and Fraser 2017).
+Thus access to eating ethically is often seen as a mark of privilege, denoting that the consumer is able to not only differentiate between what is ethical and what is not due to their social and cultural capital, but also that they have both economic and physical access to spaces where ethical food can be purchased and consumed. For many others, gaining access to healthy food or even a sufficient quantity of food at all is a struggle. In the face of systemic income inequality and poverty, how ethical can organic and other "ethical eating" diets be if they do not allow the most marginalized people to take part in them?
+
+The ethics of food sovereignty
+There are also other ways in which people are excluded or marginalized from ethical eating narratives. While animal welfare and environmental impacts of the meat industry are undoubtedly ethical issues, access to traditional diets can also be framed through an ethical lens, particularly in the case of Indigenous peoples.
+A recent example that illustrates the tensions surrounding conceptualizing a vegetarian diet as ethical is the controversy invoked by Toronto restaurant Ku-Kum Kitchen's serving of seal tartare. Although there are no federal regulations against serving seal meat in restaurants, Ku-Kum Kitchen was met with a petition calling for the
+
+942
+
+D. SPAGNUOLO
+
+restaurant to remove the dish from their menu, arguing that the Canadian seal hunt is "inhumane" (CBC News, October 10, 2017). This argument, however, was countered by Indigenous activists who were disheartened that these campaigns targeted businesses like Ku-Kum Kitchen that are reclaiming Indigenous culture, identifying this as a situation for reconciliation and respect (CBC News, October 10, 2017). The chef at Ku-Kum Kitchen, Joseph Shawana released a statement in response to the petition saying that the choice to serve seal meat was a "way of paying homage to our Northern brothers and sisters," outlining the extensive research he conducted to secure a supplier for sourcing the meat, and commenting on his experience as a hunter which taught him to respect and thank the animals that gave up their lives through use of the entire animal (CBC News, October 10, 2017).
+The case of Ku-Kum Kitchen, which ended up closing down in 2019, illustrates the complexity behind promotion of a vegetarian, vegan, or otherwise predominantly plantbased diet as ethical, specifically with regards to the activism that often accompanies these diets. The focus on Ku-Kum Kitchen's serving of seal as a site of protest while countless other restaurants continue to serve farmed meat from other animals ­ most produced with significantly less respect for the animal ­ points to the hypocrisy and inconsistency inherent with such movements. The fact that Ku-Kum Kitchen is an Indigenous restaurant also carries with it implications surrounding the unjust treatment of Indigenous peoples and the ways colonization has been practiced through food by the Canadian state.
+Settler colonialism is a distinct form of colonialism that functions through the creation of permanent settlements that lay claim to stolen land and resources, and establishes a distinct national settler identity predicated upon the erasure of Indigenous people (Ray et al. 2019, 56). Settler states, like Canada, have worked consistently to fundamentally alter the relationship between Indigenous peoples and their land, culture and food (Ray et al. 2019, 56). Within the residential schooling system, Indigenous children faced intense racism for their consumption of traditional foods and were forced into eating foods that were unfamiliar to many of them, such as domesticated meats, cheese, wheat flour, and sugar, thereby estranging them from their traditional, healthy diets (Coté 2016, 3). In addition to residential school systems, provincial governments passed hunting and fishing laws in direct violation of treaties to inhibit the ability of Indigenous peoples to hunt and fish, further blocking access to traditional foods (Ray et al. 2019). These institutionalized actions are part of the Canadian state's cultural genocide of the Indigenous populations of this land, defined within the Truth and Reconciliation Commission as "the destruction of those structures and practices that allow the group to continue as a group" (2015, 1). Colonialism has thus actively worked to alienate Indigenous peoples from their ability to practice their cultures and ways of life through their traditional land, diets, and food systems. This has profoundly impacted Indigenous peoples for whom food sovereignty and relationships with traditional foods cannot be separated from their cultures, languages, social life, spirituality, and total identity (Carmen 2016).
+Food sovereignty refers to the call for the right of all peoples to healthy and culturally appropriate food, and the right to define their own food and agricultural systems (Coté 2016, 1). "Indigenizing" food sovereignty moves beyond a rights based discourse and emphasizes the cultural responsibilities and relationships of Indigenous people to the environment, as well as the ways in which these communities restore relationships
+
+FOOD, CULTURE & SOCIETY
+
+943
+
+through revitalizing Indigenous foods and ecological knowledge systems through the assertion of control over their own food and practices (Coté 2016, 1). In this way, Indigenous food sovereignty acts as a framework that enables Indigenous groups to make their own decisions about their food systems, serving as continuation of antic olonial struggles (Grey and Patel 2014, 431).
+Given the ongoing colonization and inequity that Indigenous peoples face, food sover eignty is a radical anti-colonial project (Grey and Patel 2014). Through Indigenous food sovereignty, links to colonialism are situated alongside commitment to land and relations, and the need to have self-determination over the food grown, harvested, and gathered by Indigenous communities (Cidro, Martens, and Guilbault 2016). Restoring the food sover eignty of Indigenous peoples is thus essential to reconciliation and an important ethical act. This is not however, mentioned in most mainstream ethical eating discourse, with only one article making mention of "food sovereignty" as a term to define ethical eating. In fact, in the case of Ku-Kum Kitchen, the pursuit of Indigenous food sovereignty is positioned as being oppositional to the ideals the dominant discourse and certain activist groups pro mote. As a result, the public discourse around ethical eating excludes Indigenous peoples, when in fact, their food sovereignty remains a pressing ethical issue.
+While many activists arguing for vegetarian, vegan, and otherwise meat-avoidant diets do rightly draw attention to the climate impacts of meat consumption, and it is true that the global food system is one of the biggest drivers of climate change, accounting for one third of all greenhouse gas emissions, it is important to recognize that Indigenous peoples are the populations for whom the social and environmental costs of climate change have been and will be the greatest (Settee 2020). The disconnection of Indigenous peoples from their land is instrumental to the ongoing process of colonization, illustrating for Indigenous peoples the dangers of the commodification and de-sanctification of the earth (Coté 2016). Restoring Indigenous land rights and recognizing the fundamental need for decolonization of both food systems and relationships to the land is essential to environ mental responsibility and sustainability. Addressing these interconnected issues requires a commitment to nation-to-nation collaboration between Indigenous people and settler governments in which Indigenous people are vested with decision-making rights and power to develop policies and mitigation strategies (Settee 2020).
+As part of this process, it is necessary to adopt an Indigenous food systems approach which recognizes that relationships with the land have been negatively impacted by colonialism, globalization, and neoliberalism, and seeks to decolonize these relationships so that Indigenous people can self-determine their relationship to their food and food systems (Ray et al. 2019). Thus, the ability to engage with traditional foods, including meats, is crucial to Indigenous food sovereignty, and the consumption of these foods, from community settings to Indigenous-run restaurants, should be recognized as a decolonial act that is in keeping with environmental justice ­ rather than the subject of attacks.
+
+Producing ethical food
+While the previous sections dealt with ethical concerns around how food is consumed, this section considers the ethical dimensions of how food is produced. Often, labeling is used to signify to consumers that a product has been ethically produced, and is used by consumers to easily identify food products that align with their ethical priorities. This
+
+944
+
+D. SPAGNUOLO
+
+practice exemplifies the Marxist concept of commodity fetishism, in which capitalism is naturalized through masking the relations of commodity production, and presenting the commodity itself as a means of escaping the dissatisfaction and unhappiness caused by the estrangement of capitalist society (Gunderson 2014). Although labels signaling ethical production and inviting ethical consumption are presented as a means of defe tishization and a way to counter this alienation by providing information about how a product was produced, Ryan Gunderson argues that ethical consumerism in fact acts as an additional layer of commodity fetishism by masking the harms of capitalism and presenting the solution to these harms as the commodity itself (2014).
+One significant example of how commodity fetishism operates is through fair trade products. Like many certification labels, fair trade certification is granted by nonstate agencies to agricultural producers who comply with a set of prescribed standards, submit to regular checks on their compliance with the standards, and pay administrative fees to an international body to cover the overhead of certification (Besky 2014, 24). According to the Fairtrade International website, the objective of fair trade standards are to ensure that producers receive prices that cover their average cost of sustainable production; provide a Fairtrade Premium which can be invested in projects that enhance social, economic and environmental development; enable pre-financing for producers; facilitate long-term trading partnerships with greater producer control; and set clear core and development criteria that ensure the conditions of production and trade for the product were socially and economically fair and environmentally responsible (2020, July 21).
+While fair trade certification would appear to be an effective mechanism to ensure that workers producing commodity goods around the world are receiving fair wages and just treatment, the realities are not so simple. The concept of fair trade emerged in the 1940s and 1950s and was characterized by national and international capital controls, interna tional market regulation for commodities, and calls in official international forums for a new international economic order that would bring major changes to the international trade system based on strong state intervention for the benefit of producers in the Global South (Fridell 2006). However, the goals of fair trade changed toward the end of the 1980s as fair trade networks sought to gain access to the conventional markets they once hoped to reform. This change was brought about by the desire to increase the size of fair trade markets, but also was the result of the changing political, economic, and ideological climate created by neoliberal reforms (Fridell 2006).
+This shift brought with it the emergence of fair trade labeling, which was coordinated under Fair Trade Labeling Organizations International (FLO), an umbrella organization that certified conventional corporations that met FLO's fair trade criteria (Fridell 2006). These criteria included a minimum guaranteed price, social premiums paid by the buyer to assist producer communities in developing social and physical infrastructure, prohibi tion of child labor, environmental sustainability, strict labor standards, and various regulations aimed at ensuring democratic participation in cooperatives and unions (Fridell 2006, 10). While labeling has resulted in financial successes for fair trade net works, its success relies on it being a voluntary alternative to state regulation (Fridell 2006). This means that while fair trade producers gain access to improved conditions, the overall labor conditions throughout the industries in question do not have the same guaranteed assurances as those provided by fair trade certification. Consistent with the reforms of neoliberal governance, certification of goods becomes a way for civil society to
+
+FOOD, CULTURE & SOCIETY
+
+945
+
+take on a state-like role in social and economic development spheres that have been neglected by the state (Naylor 2014).
+Many neoliberal public institutions and transnational corporations have exemplified this through employing tokenistic support for fair trade networks as a means of masking their devotion to a broader neoliberal agenda that is directly opposed to the needs of small farmers and rural workers (Fridell 2006). The idea that production conditions can be regulated through voluntary third party monitoring and labeling embraces several of neoliberalism's key principles ­ namely the primacy of the market as a mechanism for addressing environmental and social ills, the privatization of regulatory functions pre viously the realm of the public sphere, and the assertion of individual rights and responsibilities by consumers (Brown and Getz 2008).
+Thus, while fair trade labeling appears to tell one story to consumers about the ethical production of a product, that label carries a much more complex social and economic relationship between various levels of governance, production, and policy that is less apparent to the consumer. Although the consumer believes that they are making an ethical choice for farmers and producers in the Global South, that purchase in reality feeds into deeper entrenchment of the dichotomy between those who are served by the neoliberal economic system and those exploited by it.
+Fair trade in practice then, often does not live up to its stated intention of disrupting power disparities and instead can reinforce these unequal relationships. It also further reinforces the binary between two distinct and geographically separated groups ­ con sumers in the Global North and producers in the Global South (Naylor 2014). Although it is mediated by the market rather than the state, fair trade certification remains a regulatory mechanism that can be argued to simultaneously discursively construct and attempt to "fix" the Global South (Naylor 2014). Thus while fair trade certification seeks to reassure consumers that their choices offer a step toward improved labor conditions in the Global South, in reality the purchases of consumers do very little to disrupt the entrenched power imbalances that continue to disadvantage workers.
+While fair trade concerns the unequal labor relationships between the Global North and Global South, food production within Canada is also fundamentally shaped by transnational labor markets and inequalities. Authors like Michael Pollan romanticize local food as the result of independent, small-scale, family farming. However this narrative conceals the reliance of Canadian agriculture on migrant labor (Zimmerman 2015). Canada's agriculture and agri-food sector contributed 114 USD billion to the country's GDP and made up 64 USD billion of Canada's exports in 2017­2018 (MacAulay 2018). Small and medium sized farmers in Canada have largely been over taken by large, incorporated farm businesses and massive multimillion dollar corpora tions that dominate large sectors of the industry (Migrant Workers Alliance for Change 2020). These processes have been largely enabled through the exploitation of over 54,734 temporary foreign workers in the agricultural sector (Statistics Canada 2018). Despite romanticized ideals of "local" food production, the reality is that this term is yet another example of commodity fetishism meant to make consumers feel good about their role in supporting the Canadian economy, small businesses, and sustainable food grown close to home, while obscuring the unethical conditions that temporary migrant farm workers suffer under as they produce local food in Canada.
+
+946
+
+D. SPAGNUOLO
+
+In 2017, 27.4% of employees in crop production were foreign workers (Lu and Hou 2019). The Seasonal Agricultural Worker Program (SAWP) is currently the main migrant labor scheme supplying farm labor in Canada. Through SAWP, workers from Mexico and 11 Caribbean nations come to Canada to work in primary agriculture over 8 months between January 1st and December 15th of each year before returning to their home countries (Employment and Social Development Canada 2020, July 13).
+Horticultural production in Canada operates in a highly competitive marketplace driven by changes in global trade promoting liberalization and deregulation (Preibisch 2007). While the power of food retailers and transnational agricultural companies rises, the farmer's share of the food dollar has actually decreased, and although retail prices have increased significantly for most commodities as a result of these forces, the increased retail costs have not resulted in a corresponding increase in the prices paid to farmers (Preibisch 2007). As a result, farm operators have sought out more flexible labor arrangements to stay competitive as the sector becomes increasingly dominated by larger, corporate, export-oriented firms (Preibisch 2007). SAWP is thus billed by the Canadian government as necessary for providing a supplementary source of reliable and qualified seasonal labor that improves Canada's prosperity (Glassco 2012).
+In practice however, the growth of SAWP remains detrimental to the long-term goals of achieving an inclusive society and labor supply in Canada. The conditions associated with remaining in SAWP can exemplify the notion of precarious legal status. Precarious status is conceptualized by the absence of work authorization, residence permit, and access to social rights and services; the dependence on another person to remain in Canada; and the inability to sponsor family members (McLaughlin and Hennebry 2013, 180). While SAWP workers do have work authorization in Canada, their employment is still categorized as precarious due to the uncertainty that their employment will be sustained, lack of control over labor and employment conditions, limited regulatory protection, and low income (McLaughlin and Hennebry 2013).
+The reality of SAWP is that it is a program under which employers hold extreme power over this highly precarious workforce. Employers are able to use discriminatory hiring practices that would be contrary to the provincial and federal human rights codes that protect other workers in Canada (Preibisch 2007). In fact, workers are often excluded or exempted from much of the provincial legislation in place to protect workers' rights. In Ontario, where temporary foreign workers make up 41.6% of agricultural workers in the province (Lu and Hou 2019), migrant workers are excluded from the Labor Relations Act, and are unable to collectively bargain as part of a union, a decision upheld after a lengthy legal battle at the Supreme Court in 2012 (McLaughlin, Hennebry, and Haines 2014). This leaves workers with few avenues to advocate for their rights or demand changes in policy that could protect against their exploitation. Even in jurisdic tions like British Columbia where in the early 2000s, workers including SAWP employees from Greenway Farms Ltd., Floralia Plant Growers Ltd., and Sidhu & Sons Nursery Ltd. were able to secure collective representation with Local 1518 of the UFCW, the supre macy of SAWP agreements meant little protection in practice for workers who wished to challenge their termination of employment for just cause (Vosko 2018). Since SAWP allows for an employer to terminate employment for "any significant reason" (p.894), even if a worker were to make a grievance application, there would be no mechanism to
+
+FOOD, CULTURE & SOCIETY
+
+947
+
+prevent their repatriation prior to an arbitration hearing, thus preventing any recourse (Vosko 2018).
+The immense power employers hold over workers allows employers to enact practices that would be illegal for Canadian citizens, such as choosing the gender and origin country of their workforce to promote productivity and impede solidarity (Preibisch 2007). Farm owners may also engage in extra-legal practices such as the confiscation of passports, overt and covert surveillance, imposition of curfews, and policies forbidding visitors or drinking that further contribute to a climate of injustice and coercion (Cohen and Caxaj 2018). These practices do not just impact individual workers but also give employers significant power over labor-sending states resulting in competition between national officials to deliver productive, disciplined workers who can send back remit tances that are considered crucial to their home country's economy (Preibisch 2007).
+When employers and the state have little incentive to protect the rights, health, and safety of workers, they become vulnerable to the demands of a system that seeks to provide a seemingly limitless supply of fit, healthy workers who are easily removed, returned, and replaced once any problem or concern arises (McLaughlin and Hennebry 2013). Thus, although SAWP technically allows for unlimited reentry season after season, this is dependent on a worker's ability to satisfy their employers and continuously meet criteria for re-admission. The threat of not being able to meet these conditions limits the rights of workers and encourages them to restrict their behavior and tolerate unfair working practices out of fear of repatriation or receiving an unfavorable employer feedback evaluation, thereby preventing them from returning to work in Canada the following year (Vosko 2018).
+The mistreatment and exploitation of migrant workers in Canada has been exacer bated even further by the COVID-19 pandemic, during which migrant farm workers remain some of the most vulnerable populations affected by the pandemic. Although at the time of writing this paper, much is still unknown about how the pandemic will play out and evidence is quickly changing and evolving, a June 2020 report from Migrant Workers Alliance for Change reports that housing conditions, racism, and intimidation, surveillance, and threats from employers have worsened under COVID-19. This is in addition to reports that many workers were not given proper pay or food and were not able to adequately socially distance during the 14 day quarantine period required upon their arrival to Canada (Migrant Workers Alliance for Change 2020). COVID-19 has also intensified workloads and many migrant farm workers are reporting that they are working for weeks without days off, that they are being forced to work long hours, and are suffering increased strains, injuries, and sickness due to the intensified pace of work demanded by employers (Migrant Workers Alliance for Change 2020). The toll of this mistreatment is huge. As of November 2020, at least 1,600 migrant farm workers have been infected with COVID-19 across Canada, and there have been three reported deaths (Keung, November 5, 2020). Ultimately, even amidst the COVID-19 pandemic, migrant workers are still seen as expendable labor and still fail to be protected by their employers and federal and provincial governments.
+Temporary farm labor migration schemes like SAWP have been justified on the argument that they bolster food security for both Canada and the home countries of migrant laborers by addressing labor shortages in Canada and infusing foreign currency through remittances into the economies of workers' home countries. However, it has
+
+948
+
+D. SPAGNUOLO
+
+been found that the conditions of the program continue to impose structural barriers to healthy food access, and leave migrant workers experiencing negative health conse quences (Weiler, McLaughlin, and Cole 2017). While food security places emphasis on access to sufficient quantities of food, and existing evidence suggests that SAWP may provide temporary improvements in this area, the program does nothing to address the structural roots of poverty, including those that push workers into migrant labor (Weiler, McLaughlin, and Cole 2017). In light of the severe mistreatment and exploitative con ditions under which Canada's "local" food is produced, it is hard to maintain that a local diet is inherently ethical.
+Both the "fair trade" and "local" labels mask the highly unequal transnational labor relations within the global food system. While these labels are used to signify to consumers that a commodity is the result of superior production relationships based on human rights and environmental sustainability, this narrative is incomplete. In reality, the commodities produced through fair trade and local production still hide stories of exploitation and inequality along their journeys from farm to table. This is why the notion of ethical consumerism can be so misleading. In offering a simple solution for defetishizing the consumer's relationship to food, ethical eating absolves the consumer of responsibility for undertaking transformational change within the food system. This is not to say that it should be up to an individual consumer to solve the issues caused by a neoliberal global economy. However, in presenting ethical eating as a solution to these issues, we substitute calls for political action with personal absolution.
+
+Conclusions
+Evidently, eating ethically is not as simple as making the "right" choices at a supermarket or restaurant. Rather it is a highly socialized, cultural, classed and racialized process which allows access to some and denies it to others. The ability of a person to eat "ethically" according to the definition derived from newspaper and magazine media sources is based on proximity, access, and cultural acceptance of foods that are under stood to be ethical within a framework which low income and Indigenous populations are often excluded from. In addition, ethical food is often produced through highly unequal power relationships both globally and within migrant labor schemes in Canada. These examples do not necessarily depict mainstream understandings of ethical food and diets as inherently unethical, but rather, they illustrate what ethical issues within the food system are missed when ethical eating is conceptualized as a consumption-based practice. By illuminating these examples of complexity within the "ethical eating" definition analyzed through this article, we see how the dominant understandings of local, organic, fair trade, vegetarian, and vegan diets obscure and perpetuate issues of inequality, colonialism, and injustice within the broader food system.
+So where does this leave us with the question of eating ethically? The purpose of this paper is not to argue for a new definition of "ethical eating," but rather, by identifying the shortcomings of "ethical eating" according to the definition analyzed in this article, I argue that we must move beyond consumption based models for creating an ethical food system and move the responsibility for ethical models of food consumption and production from the market to the policy sphere. As Gunderson argues, there is inherent suspicion associated with the idea that ethical consumption ­ a mechanism of market
+
+FOOD, CULTURE & SOCIETY
+
+949
+
+reformism and capitalism ­ can solve ecological, or other ethical problems (2014). Thus, any positive outcomes of defetishization through "ethical eating" are only partial in their scope, rightly pointing to the irony of the theory that there could possibly be a market solution to commodity fetishism (Gunderson 2014).
+In recognizing that the global food system today is largely a result of capitalist, neoliberal, and colonial policies that have granted power to some while excluding, marginalizing, and exploiting others, it is important that the solutions to creating a more ethical food system come from enacting policies at various levels of governance that tackle the intersecting causes of inequality and injustice within the food system. While individual consumer choices to eat organic, local, fair trade, vegan, vegetarian, or otherwise plant-based diets do have some positive social and environmental impacts, they are insufficient to drive systemic and structural change. The people and groups discussed throughout this paper who are affected by unequal food systems will not have their problems solved by the same market forces that created them. Instead, policymakers must enact policies that eliminate the unethical practices and systems that result in income inequality, colonialism, and unjust trade systems and labor migration programs. By taking policy action toward a more ethical and just system of food consumption and production we can ensure that everyone within the food system is served.
+
+Acknowledgments
+This paper would not have been possible without the many mentors, colleagues, and friends who provided invaluable advice and encouragement throughout this process. My immense gratitude first and most importantly to Dr. Cecilia Rocha for her mentorship throughout this project. A deep gratitude always to Dr. Adrian De Leon for believing in this article long before it was ever written. Additional thanks to Dr. Fiona Yeudall, Dr. Grace-Edward Galabuzi, Dr. John Shields, and Dr. Janet Lum for their feedback on this research in all its previous iterations. Thank you as well to Natasha Ramoutar for her support in this process. And finally, thank you to all those who have generously taken the time to edit and provide vital feedback on this paper: Anum Dhalwani, Clara Bradley, Sarah Edmunds, Chantel Cole, Stephanie Croisiere, Jazba Singh, Ling Lam, and Stephanie Spagnuolo.
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+
+Notes on contributor
+Daniela Spagnuolo is a Policy Advisor, an experienced researcher, and a community organizer. Her research focuses on food policy, sexual and reproductive health rights, and municipal policy. Daniela received her undergraduate degree from the University of Toronto Scarborough in International Development Studies and Political Science and holds a Master of Arts in Public Policy and Administration from X University.
+References
+Academy of Nutrition and Dietetics, American Nurses Association, American Planning Association, & American Public Health Association. 2012. Principles of a Healthy, Sustainable
+
+950
+
+D. SPAGNUOLO
+
+Food System. W.K. Kellogg Foundation. https://www.apha.org/~/media/files/pdf/topics/ healthy_sustainable_food_systems_principles_2012may.ashx Besky, S. 2014. The Darjeeling Distinction: Labour and Justice on Fair-Trade Tea Plantations in India. Berkely: University of California Press. Bowen, S., S. Elliot, and J. Brenton. 2014. "The Joy of Cooking?" Contexts 13 (3): 20­25. doi:10.1177/1536504214545755. Brown, S., and C. Getz. 2008. "Privatizing Farm Worker Justice: Regulating Labor through Voluntary Certification and Labelling." Geoforum 39 (3): 1184­1196. doi:10.1016/j. geoforum.2007.01.002. Campbell, B. L., I. Lesschaeve, A. J. Bowen, S. R. Onufrey, and H. Moskowitz. 2010. "Purchase Drivers of Canadian Consumers of Local and Organic Produce." HortScience 45 (10): 1480­1488. doi:10.21273/HORTSCI.45.10.1480. Campbell, B. L., S. Mhlanga, and I. Lesschaeve. 2013. "Perception versus Reality: Canadian Consumer Views of Local and Organic." Canadian Journal of Agricultural Economics/Revue Canadienne Dagroeconomie 61 (4): 531­558. doi:10.1111/j.1744-7976.2012.01267.x. Carmen, A. 2016. "'Protecting and Restoring Indigenous Peoples' Food Sovereignty." Cultural Survival Quarterly 40 (4): 8. Carolan, M. 2020. "Ethical Eating as Experienced by Consumers and Producers: When Good Food Meets Good Farmers." Journal of Consumer Culture. 1­21. Cidro, J., T. Martens, and L. Guilbault. 2016. "Traditional Indigenous Food Upskilling as a Pathway to Urban Indigenous Food Sovereignty." In Indigenous Perspectives on Education for Well-being in Canada, edited by F. Deer and T. Falkenberg, 41­57. Winnipeg: ESWB Press. Cohen, A., and S. Caxaj. 2018. "Bodies and Borders: Migrant Women Farmworkers and the Struggle for Sexual and Reproductive Justice in British Columbia, Canada." Social Inequality and the Spectre of Social Justice 29: 90­117. Coté, C. 2016. "`Indigenizing' Food Sovereignty. Revitalizing Indigenous Food Practices and Ecological Knowledges in Canada and the United States." Humanities 5 (3): 1­14. doi:10.3390/ h5030057. Employment and Social Development Canada. 2020. "Hire a Temporary Worker through the Seasonal Agricultural Worker Program: Overview." July 13. https://www.canada.ca/en/employ ment-social-development/services/foreign-workers/agricultural/seasonal-agricultural.html Fairtrade International. "Aims of the Fairtrade Standards." Accessed 21 July 2020. https://www. fairtrade.net/standard/aims Fanzo, J., and R. McLaren. 2020. "An Overview of the Ethics of Eating and Drinking." In Handbook of Eating and Drinking, edited by H. L. Meiselman, 1­21. Cham: Springer. Fisher, J. 2004. "Social Responsibility and Ethics: Clarifying the Concepts." Journal of Business Ethics 52 (4): 391­400. Fridell, G. 2006. "Fair Trade and Neoliberalism: Assessing Emerging Perspectives." Latin American Perspectives 33 (6): 8­28. doi:10.1177/0094582X06294109. Glassco, C. 2012. "Harvesting Power and Subjugation: Canada's Seasonal Agricultural Workers Program in Historical Context." Master's thesis, Trent University. ProQuest Dissertations Publishing. Grey, S., and R. Patel. 2014. "Food Sovereignty as Decolonization: Some Contributions from Indigenous Movements to Food System and Development Politics." Agriculture and Human Values 32 (3): 431­444. doi:10.1007/s10460-014-9548-9. Gunderson, R. 2014. "Problems with the Defetishization Thesis: Ethical Consumerism, Alternative Food Systems, and Commodity Fetishism." Agriculture and Human Values 31 (1): 109­117. doi:10.1007/s10460-013-9460-8. Hamzaoui-Essoussi, L., and M. Zahaf. 2012. "Canadian Organic Food Consumers' Profile and Their Willingness to Pay Premium Prices." Journal of International Food & Agribusiness Marketing 21: 1­21. doi:10.1080/08974438.2011.621834. Hodgins, K. J., and E. D. G. Fraser. 2017. "`We are a Business, Not a Social Service Agency.' Barriers to Widening Access for Low-income Shoppers in Alternative Food Market Spaces." Agriculture and Human Values 35 (1): 149­162. doi:10.1007/s10460-017-9811-y.
+
+FOOD, CULTURE & SOCIETY
+
+951
+
+Johnston, J., M. Szabo, and A. Rodney. 2011. "Good Food, Good People: Understanding the Cultural Repertoire of Ethical Eating." Journal of Consumer Culture 11 (3): 293­318. doi:10.1177/1469540511417996.
+Kennedy, E. H., S. Baumann, and J. Johnston. 2019. "Eating for Taste and Eating for Change: Ethical Consumption as a High-Status Practice." Social Forces 98 (1): 331­402.
+Keung, N. 2020. "COVID-19's Heavy Toll Pushed Ottawa to Propose These Changes to How Migrant Farm Workers are Housed." The Star, November 5. https://www.thestar.com/news/ canada/2020/11/05/covid-19s-heavy-toll-pushed-ottawa-to-propose-these-changes-to-howmigrant-farm-workers-are-housed.html
+Lu, Y., and F. Hou. 2019. Temporary Foreign Workers in the Canadian Labour Force: Open versus Employer Specific Work Permits. Statistics Canada catalogue no. 11-626-X No. 102. Economic Insights. Ottawa: Statistics Canada.
+MacAulay, L. 2018. Agriculture and Agri-Food Canada 2017­2018 Departmental Results Report. Ottawa: Agriculture and Agri-Food Canada. https://www.agr.gc.ca/resources/prod/doc/pdf/ drr-rrm_2017-18-eng.pdf
+McLaughlin, J., and J. Hennebry. 2013. "Pathways to Precarity: Structural Vulnerabilities and Lived Consequences for Migrant Farmworkers in Canada." In Producing and Negotiating NonCitizenship: Precarious Legal Status in Canada, edited by L. Goldring and P. Landolt, 175­194. Toronto: University of Toronto Press.
+McLaughlin, J., J. Hennebry, and T. Haines. 2014. "Paper versus Practice: Occupational Health and Safety Protections and Realities for Temporary Foreign Agricultural Workers in Ontario." Perspectives interdisciplinaires sur le travail et la santé 16 (2): 2­17.
+Migrant Workers Alliance for Change. 2020. Unheeded Warnings: COVID-19 & Migrant Workers in Canada. Toronto: Migrant Workers Alliance for Change. https://migrantworker salliance.org/wp-content/uploads/2020/06/Unheeded-Warnings-COVID19-and-MigrantWorkers.pdf
+Naylor, L. 2014. "`Some are More Fair than Others': Fair Trade Certification, Development, and North-South Subjects." Agriculture and Human Values 31 (2): 273­284. doi:10.1007/s10460013-9476-0.
+Preibisch, K. L. 2007. "Local Produce, Foreign Labor: Labor Mobility Programs and Global Trade Competitiveness in Canada." Rural Sociology 72 (3): 418­449. doi:10.1526/003601107781799308.
+Ray, L., K. Burnett, A. Cameron, S. Joseph, J. LeBlanc, B. Parker, A. Recollet, and C. Sergerie. 2019. "Examining Indigenous Food Sovereignty as a Conceptual Framework for Health in Two Urban Communities in Northern Ontario, Canada." Global Health Promotion 26 (3): 54­63. doi:10.1177/1757975919831639.
+Ristovski-Slijepcevic, S., G. E. Chapman, and B. Beagan. 2008. "Engaging with Healthy Eating Discourse(s): Ways of Knowing about Food and Health in Three Ethnocultural Groups in Canada." Appetite 50 (1): 167­178. doi:10.1016/j.appet.2007.07.001.
+Settee, P. 2020. "The Impact of Climate Change on Indigenous Food Sovereignty." In Indigenous Food Systems: Concepts, Cases, and Conversations, edited by P. Settee and S. Shukla, 211­228. Toronto: Canadian Scholars.
+Statistics Canada. 2018 "Table 32-10-0219-01 Jobs Filled by Temporary Foreign Workers in the Agriculture Sector, and Agricultural Operations with at Least One Temporary Foreign Worker, by Province." https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210021901
+Statistics Canada. 2020. "Food Insecurity during the COVID-19 Pandemic, May 2020." StatCan COVID-19: Data to Insights for a Better Canada. Statistics Canada Catalogue Number 4528000. https://www150.statcan.gc.ca/n1/en/pub/45-28-0001/2020001/article/00039-eng.pdf?st= 095U47of
+Tarasuk, V., and A. Mitchell. 2020. Household Food Insecurity in Canada, 2017­18. Toronto: Research to identify policy options to reduce food insecurity (PROOF). https://proof.utoronto. ca/wp-content/uploads/2020/03/Household-Food-Insecurity-in-Canada-2017-2018-FullReportpdf.pdf
+Thompson, P. B. 2015. From Field to Fork: Food Ethics for Everyone. Corby: Oxford University Press.
+
+952
+
+D. SPAGNUOLO
+
+Truth and Reconciliation Canada. 2015. Honouring the Truth, Reconciling for the Future: Summary of the Final Report of the Truth and Reconciliation Commission of Canada. Winnipeg: Truth and Reconciliation Commission of Canada.
+Vosko, L. F. 2018. "Legal but Deportable: Institutionalized Deportability and the Limits of Collective Bargaining among Participants in Canada's Seasonal Agricultural Workers Program." ILR Review 71 (4): 882­907. doi:10.1177/0019793918756055.
+Weiler, A. M., J. McLaughlin, and D. C. Cole. 2017. "Food Security at Whose Expense? A Critique of the Canadian Temporary Farm Labour Migration Regime and Proposals for Change." International Migration 55 (4): 48­63. doi:10.1111/imig.12342.
+Whalen, J. 2017. "Seal Meat on the Menu at Toronto Restaurant Sparks Duelling Petitions, Online Debate." CBC News, October 10. http://www.cbc.ca/news/canada/toronto/seal-meat-debatekukum-1.4347858
+Zimmerman, H. 2015. "Caring for the Middle Class Soul." Food, Culture & Society 18 (1): 31­50. doi:10.2752/175174415X14101814953729.
+
+

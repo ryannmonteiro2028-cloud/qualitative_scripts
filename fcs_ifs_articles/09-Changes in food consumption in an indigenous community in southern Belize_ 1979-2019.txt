@@ -1,0 +1,724 @@
+Food, Culture & Society
+An International Journal of Multidisciplinary Research
+ISSN: 1552-8014 (Print) 1751-7443 (Online) Journal homepage: www.tandfonline.com/journals/rffc20
+Changes in food consumption in an indigenous community in southern Belize, 1979-2019
+Patrick Cleary, Kristin Mercer, Kareem Usher, Richard Wilk & Joel Wainwright
+To cite this article: Patrick Cleary, Kristin Mercer, Kareem Usher, Richard Wilk & Joel Wainwright (2022) Changes in food consumption in an indigenous community in southern Belize, 1979-2019, Food, Culture & Society, 25:1, 89-107, DOI: 10.1080/15528014.2021.1884403 To link to this article: https://doi.org/10.1080/15528014.2021.1884403
+© 2021 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group. Published online: 29 Mar 2021.
+Submit your article to this journal Article views: 3781
+View related articles
+View Crossmark data
+Citing articles: 7 View citing articles
+Full Terms & Conditions of access and use can be found at https://www.tandfonline.com/action/journalInformation?journalCode=rffc20
+
+FOOD, CULTURE & SOCIETY 2022, VOL. 25, NO. 1, 89­107 https://doi.org/10.1080/15528014.2021.1884403
+
+Changes in food consumption in an indigenous community in southern Belize, 1979-2019
+Patrick Clearya, Kristin Mercerb, Kareem Usherc, Richard Wilkd and Joel Wainwright a
+aDepartment of Geography, Ohio State University; bDepartment of Horticulture and Crop Sciences, Ohio State University; cCity and Regional Planning, Ohio State University; dOpen Anthropology Institute
+
+ABSTRACT
+In recent years, scholars have studied the complex social and economic transformations of Belizean Maya livelihoods resulting from the historical legacies of British and Spanish colonization and the consolidation of capitalist social relations. However, little research has considered how the pathways through which indigen ous Maya households procure food are being transformed. This paper examines changes in indigenous livelihoods over time, draw ing upon results of household food surveys in Aguacate, Belize, from 1979 and 2019, and interviews with villagers about changes in the food system. We hypothesized that the principal changes would be an increased consumption of purchased food, a decrease in the percentage of maize in the diet, an increase in the consumption of meat, and an increase in food produced in agricultural monocultures (or outside of the milpa). Fieldwork sup ported these hypotheses. We found a decrease in the frequency of the household daily consumption of corn, and an increase in the frequency of daily wheat flour, rice, and chicken consumption. Interviewees tended to emphasize the last of these changes, blam ing the growing consumption of store-bought chicken for per ceived negative changes in village health. Several community members tied these changes to other broader transformations of the political economy.
+
+KEYWORDS Food security; household economy; Belize; Q'eqchi' Maya; milpa
+
+When subsistence farmers switch to commercial agriculture and wage labor, the quality of their diet often suffers (Dewey 1981). Indigenous people making the transition from a self-sufficient diet based on hunting and small-scale farming often experience hunger, food insecurity and a loss of dietary diversity when they join the urban working poor or become part of a rural proletariat (Anderson et al. 2016). The health consequences can be severe (see, e.g., Valdés-Ramos and Solomons 2002; Leatherman and Goodman 2005; Piperata et al. 2011; Wiedman 2012; Lemke and Delormier 2017; Cidro et al. 2018). Yet most studies documenting these changes are based on comparing contemporary com munities with different economies, without the benefit of long-term historical informa tion on how diets have changed in a single study site. Comparing contemporary communities is often the only practical way to study change in food systems, in the absence of long-term documentary evidence, despite recognition of the disadvantages of
+CONTACT Joel Wainwright wainwright.11@osu.edu
+© 2021 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group. This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License (http://creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial re-use, distribution, and reproduction in any med ium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way.
+
+90
+
+P. CLEARY ET AL.
+
+reconstructing an historical process using these methods. As a solution, we have taken advantage of a dietary survey in 1979/80 (Wilk 1981) to resurvey the same indigenous Q'eqchi' village in southern Belize in 2019.
+The indigenous villages of the southern two districts of Belize have consistently been the poorest in the country, with limited access to medical services, education, and other services. They also have restricted access to farmland because of long-term government policies to place indigenous communities on "Indian Reservations" while selling large tracts of surrounding lands to foreigners and non-indigenous Belizeans. Over the last century the indigenous people have moved into a mixed subsistence/cash crop farming economy, and many have gone further to take up wage labor on citrus and shrimp farms, and in the burgeoning tourist industry, mainly on the coast and offshore islands (most jobs were disrupted in March 2020 by COVID-19). Many have moved to fast-growing roadside villages closer to the coastal tourist areas. How has this complex and mixed history of economic and cultural change affected indigenous foodways, and what have been the health consequences? How has the shift toward wage labor and the consumption of purchased food changed diet and nutrition?
+As a contribution to answering these questions, we evaluate household food con sumption as well as how people evaluate the nutritional value of foods. We know that in the first half of the 20th century, indigenous communities were subject to periods of hunger caused by hurricanes, drought and crop failure. Child mortality rates were extremely high (over 200 per 1000), and infectious diseases were common (Wilk 1981, 1997).1 But we have little data on the trajectory of diet and nutrition from that time; the colonial government paid little attention to the southern part of the country. Belize was a formal British colony from 1862 to 1981. The earliest extant studies of nutrition appear around the time of independence.
+A 1979 assessment of food and nutrition security in Belize by the Caribbean Food and Nutrition Institute found that 60% of households in the Toledo District consumed less than 90% of the recommended daily allowance for energy and 20% of Toledo households consumed less than 60% of RDA for calories (Caribbean Food and Nutrition Institute (CFNI) 1979, 37­38). Q'eqchi' and Mopan people comprised about 57% of the district population at the time, which also included more prosperous East Indian, Garifuna and Creole who were concentrated in the district capital, Punta Gorda (Woods, Perry, and Steagall 1997). In the rest of the country, only 5% of households consumed less than 60% of RDA for energy (Ibid.). Insufficient protein was pronounced in the Toledo District, with 20% of households in the Toledo District consuming less than 60% of protein RDA (as compared with 3% of households in Belize as a whole). Maya communities also had the highest rates of impoverishment (Wilk 1981).2 More recent national nutrition studies find that growth stunting correlates with poverty and is most common in the heavily indigenous Toledo District and among the Maya (Statistical Institute of Belize [SIB], Government of Belize, and UNICEF 2017, 30­2).3 In 2017, five percent of Maya children in Toledo suffered "severe" stunting (Ibid.).
+The increasing homogeneity of global food supplies, rapid climate change, and various threats to peasant livelihoods in Latin America have led many scholars to express concerns about indigenous peoples' nutritional health and food security.4 The Government of Belize and a number of social science researchers concur (Caribbean Food and Nutrition Institute (CFNI) 1979; Palacio 1982; Avila and Sibrian 1997;
+
+FOOD, CULTURE & SOCIETY
+
+91
+
+Government of Belize Ministry of Agriculture and Fisheries, Ministry of Health and Sports 1997a; Government of Belize Ministry of Agriculture and Fisheries, Ministry of Health and Sports 1997b; Wilk 1997; Zarger 2009; Palacio 2000; Penados and Tzec. 2012; [UNDP] United Nations Development Programme 2013; Renwick 2015).5 While trends in neighboring countries and among other indigenous peoples are worrying, there is little quantitative information on diet and foodways in southern Belize. While there have been some studies of Belizean cuisine (e.g. Wilk 2006; Spang 2019), in 2003 an FAO report on Belize noted: "little is known about the actual food consumption pattern of Belizeans" (2003, 3). While Belize has met many of its Millennium Development Goals, it has fallen well short of its targets for the eradication of extreme poverty and hunger ([UNDP] United Nations Development Programme 2013).
+Quantitative evidence is not required in order to advocate for food security. Still, if we are to explain the complex changes underway across the region, we need the sort of evidence that can only come from historically grounded research. It is clear that diets across Latin America are undergoing rapid change, particularly with the simultaneous proliferation of supermarkets and farmers markets and the persistence of hunger (YatesDoerr 2015). These changes have had complex and uneven consequences (Kuhnlein and Receveur 1996; Leatherman and Goodman 2005; Khoury et al. 2014; Lemke and Delormier 2017).
+After gaining formal political independence from the United Kingdom in 1981, the nation-state of Belize is navigating a political landscape fraught with boundary conflicts with Guatemala, complex cultural identities, indigenous land rights, and rapid climate change. In varied ways, all these contribute to challenging community resilience and food security. Here we explore the changing foodways and household food security of indigenous households in southern Belize in the past half century. This paper stems from long-term research by a number of scholars on indigenous livelihoods among the Mopan and Q'eqchi' Maya-speaking communities of southern Belize.6 By studying Aguacate from 1979 to 2019, we aim to improve our understanding of the changes taking place within the household, the center of social and economic life in Maya villages and, in so doing, to contribute to the literature on indigenous food security (Piperata et al. 2011; Lam et al. 2019).
+As with indigenous forest communities throughout the Americas, customary practices have changed in complex ways since European colonization through population dis placement and the incorporation of livelihoods, labor power, and agricultural commod ities into the capitalist market system.7 Thus, the contemporary livelihoods and land management practices of the present-day residents of Aguacate have some continuities with the pre-Columbian past, as well as the long processes of adjustment and adaptation to a changing world.8
+We hypothesized that we would find three principal changes, based on other studies of rural dietary changes in indigenous communities in the region. First, we expected that community members would consume more purchased and processed foods. Second, and following from the first hypothesis, we expected to find a decline in consumption of meat and fish from wild sources and a consequent increase in frozen or tinned meat and chicken in the diet. Third, we expected to find a declining consumption of corn reflecting the decline of subsistence farming in the community and the ready availability of cheaper wheat flour and rice.
+
+92
+
+P. CLEARY ET AL.
+
+The community of Aguacate
+Our focus on changing pathways of food consumption began at the request of the thenleaders of one particular village, Aguacate.9 In 1996, Domingo Cal, a longtime resident of the village, interviewed the heads of each of the 55 households in the village and wrote the following village history10:
+About one hundred years ago, the village was called Moho River Aguacate. Most people came from Guatemala and a few came from Pueblo Viejo to be the first settlers of Aguacate village. During those days the indigenous people in Guatemala were slaves; many escaped and returned to Toledo seeking survival [. . .]. In the old days, people traveled in dorys [dugout canoes] on the Aguacate River and the Moho River. It took them a week of paddling to go from Aguacate to Punta Gorda Town. Then in the late [1970s] the road was built, and after that the community center, the health post, and a concrete Catholic church (Toledo Maya Cultural Council (TMCC) and Toledo Alcaldes Association (TAA) 1997).
+Wilk's 1980 census of the village counted 159 people living in 30 dwellings, down from 229 in 1921. At the 2000 national census, Aguacate was home to 570 people (of whom 561 spoke Q'eqchi' or Mopan as their first language). In the 2010 census, the population had fallen to 369 people, living in 64 households. The decline of population is due principally to voluntary outmigration, as villagers ­ particularly the young, male, and relatively educated ­ seek employment and other opportunities in less remote areas of Belize.
+Geography is fundamental to this shift. The village lies at the boundary of the highland and lowland areas of Toledo district, within a shallow valley formed by the Moho river. The predominant land cover is lowland tropical broadleaf forest, some of which covers karstic limestone hills. Today most of the forests surrounding Aguacate are secondary, as they have long been used by local farmers to produce annual crops as part of the rotating fallow system, with some fraction used for tree crops.11 Until recently, nearly all house holds in Aguacate grew most of their own food in milpas (swidden fields), by harvesting foods from the forests, and by hunting and fishing. The majority of households in Aguacate still grow corn, beans, and root and vegetable crops for home consumption. Most also grow rice and cacao, and raise pigs to sell, though market prices have stagnated over the last three decades. Many raise chickens and pigs and plant small orchards of fruit trees for domestic consumption and some raise horses for transport.12
+A key issue for all the Mopan and Q'eqchi' communities in Belize is control of land. The lands around Aguacate have never been alienated or privatized, though leases were granted on some plots before the reserves were demarcated in 1924. Today they are collectively owned and managed by the community, which allows established residents to use specific plots for shifting cultivation, orchards, and annual cropping, in a flexible system that adjusts to changes in population, farming methods, and the natural environment.13 Where a parcel of land is used by a specific household, it is typically said to be "for" the head of that household. Where farmers plant corn every year or two, they have usufruct rights to the land until they stop using it: the right of use of land does not constitute fee simple property.14 The establishment of certain crops ­ on seasonally flooded riverbank plots, and in cacao farms and cattle pastures ­ places land under the control of a specific household for decades. Customary tenure allows for limited transfers of orchards and pastures among community members, but prohibits permanent aliena tion to outsiders or ownership for those who have left the village.
+
+FOOD, CULTURE & SOCIETY
+
+93
+
+Methodology
+Our research was inspired and supported by the customary leaders of Aguacate village, who expressed concerns about the health consequences of changing community diet.15 After hearing their concerns, we collaborated to repeat Wilk's 1979 food survey. Our research plan was ratified by the community in two public meetings. At these meetings we explained to the community, and later to our individual respondents, that we sought to repeat Wilk's food survey to learn more about how the food eaten in the village today has changed from 40 years ago.
+The goal of Wilk's research was to perform a detailed study of the Q'eqchi' subsistence and cash cropping systems and compare three communities with different degrees of population pressure on land resources and levels of access to markets for their products and consumables (Wilk 1981, 1997). Between March and December 1979, Wilk lived in Aguacate village and he continued to visit the village intermittently until May 1980 to complete a year's recording of labor and production. The data-gathering involved inter views, a community census, weekly logs of agricultural labor, community maps and participant observation of farm labor, hunting, fishing, and other aspects of daily life.
+In September 1979 he decided to conduct a short survey of food consumption because he wanted to know if households were self-sufficient in basic foodstuffs and how much imported food they were buying from shops. At the time, three men in the village had curtailed their corn farming and focused on rice as a cash crop, while they operated small shops to sell basic food items like white flour, cooking oil, sugar, and salt as well as soft drinks, soap, thread and yarn, white (slaked) lime, toys, and basic agricultural tools like machetes, axes, and files. He wanted to know if these commercial households were eating substantial amounts of imported food, in contrast with their subsistence-farming neighbors.
+Between mid-September and the end of December 1979, Wilk asked five literate men to keep daily records of everything they ate during and between meals for periods of 2 to 4 weeks. He visited each week and collected their notebooks, distributed new notebooks and pens, and went over their answers to make sure they had recorded snacks and wild foods eaten while walking through the bush or visiting town. The sample was necessarily limited to younger men who were willing and literate; he asked two young women to keep records as well, but their records proved incomplete. As was his practice with all self-recording methods, each subject was paid five Belizean dollars (US$ 2.50) a week. They recorded a total of 111 days of meals. These data were supplemented by his attendance at many family and ceremonial meals in eight different Q'eqchi' villages, and many interviews about food preferences and preparation.
+Our methodology for the 2018­2019 survey followed Wilk's, with minor modifica tions (see Table 1). Since time constraints allowed only 13 days in the village, the number of participants was increased to 12 families recruited by the village schoolteacher so that the number of data points (i.e. households x days) would be similar to the 1979 study: 111 household-day observations in 1979; 130 in 2019. Each participant family was given a blank notebook and pens. Subjects wrote everything that everyone in the household ate for 11 days, each meal filling one page in the family notebook. Patrick Cleary visited each family two or three times to check in on the data recording and conduct interviews about food provisioning and consumption.16 These interviews were conducted in English or
+
+94
+
+P. CLEARY ET AL.
+
+Table 1. Differences in the two studies.
+
+Study year
+December 2018January 2019
+1979
+
+N participants
+12 households or approximately 106 individuals
+5 households
+
+Participants & gender
+Families including men, women, and children
+Young literate men
+
+Days of recorded diet (days x hh) 130
+111
+
+Spanish, with English- or Spanish-speaking family members occasionally translating for those subjects who only spoke Q'eqchi'. Semi-structured interviews averaging 50 minutes were organized around seven questions:
+
+(1) Do you eat the same as your grandparents? What has changed? (2) Do you spend as much time making meals as your grandparents did? What has
+changed in the kitchen? (3) I think people might eat less corn than their grandparents did. Is that
+a problem?17. (4) Do people get food the same way as before? What has changed? (5) Why has food changed? (6) How do you deal with these changes? (7) How do these changes in food affect the health of people in the village?
+
+We lacked the means to measure and compare the precise mass of food consumed at each meal.18 Instead, we focus on the relative changes in food consumption by comparing average frequencies for each foodstuff between 2019 and 1979. To ensure that we were working with comparable frequencies across years, for each year we calculated the number of family-days that each foodstuff was reported as consumed. To find the frequency of consumption of a given foodstuff in a given year (fyear), we divided the number of family days on which a given foodstuff was consumed by the total number of family-days in which families were surveyed (total family-days = 111 in 1979 and 130 in 2019); we used the following formula:
+
+fyear
+
+¼
+
+Family À days foodstuff was consumedyear Total number of family À days
+
+We then calculated the percent change in frequency between years as a value relative to the 1979 baseline. To do so, we subtracted the frequency of consumption in 1979 from that in 2019 and divided it by the frequency of consumption in 1979; we then multiplied by 100 to turn it into a percentage. Since we could not statistically compare frequencies of consumption in 1979 to that in 2019, we also calculated a related metric for which we had replication: the mean number of days a family eats a particular foodstuff. By calculating this metric for each year, we were able to use a one sample t-test to check for statistical significance with 11 degrees of freedom. In this test, we compared the 2019 mean (and associated error from 12 households) with the mean from 1979 (five households) for which we have no estimate of variation. We calculated a t-value for each foodstuff as:
+
+FOOD, CULTURE & SOCIETY
+
+95
+
+tcalculated
+
+¼
+
+À Familydays2019
+12
+
+Familydays1979 5
+
+Standard pDfeifivffiiation2019
+
+12
+
+Results
+Our data show that people are now eating a more diverse diet with more protein than they were forty years ago. Our principal finding is that, between 1979 and 2019, there was a shift away from corn in the Aguacate diet, substituted mainly by rice and wheat flour. In the 1979 study, corn tortillas were eaten on 98.2% of days; in 2019, the percentage fell to 89.2% (Table 2). We also found a statistically significant difference in the number of times a given family ate corn tortillas over our study period (Table 3). The rise in wheat flour consumption, mainly in the form of bread and tortillas (29.2%), was also statistically significant. Another major change in the diet was that beans, a very rare meal in 1979, were ubiquitous in 2019 with a 264% increase in consumption (Table 2), a statistically significant rise (Table 3). This trend may have been exaggerated by a particularly poor bean harvest in 1979 and the relatively high price of beans at the time. Since then, Mennonites and other producers in Belize have reduced the price of red and black beans and they are found more generally in the diet.
+Meat consumption changed dramatically between the two samples. In 1979 Wilk was surprised by the large contribution of wild game, fish and river snails, which appeared in
+
+Table 2. Frequency of consumption of various foodstuffs in Aguacate, Belize in 1979 and 2019, as well as the associated percent change in consumption over time. Foodstuffs are ordered by their % change in frequency over time.
+
+Foodstuff
+
+Family-days (1979) Family-days (2019) 1979 freq. 2019 freq. % change in freq. over time
+
+Vegetables
+
+5
+
+Pork
+
+5
+
+Kool-aid
+
+3
+
+Iguana
+
+2
+
+Packaged biscuit
+
+3
+
+Beans
+
+15
+
+Plantain
+
+5
+
+Fish
+
+9
+
+Chicken
+
+19
+
+Poch (corn dumpling)
+
+5
+
+Eggs
+
+19
+
+Rice
+
+31
+
+Wheat bread
+
+7
+
+Flour tortillas
+
+37
+
+Mats (corn porridge)
+
+5
+
+Corn tortillas
+
+109
+
+Cohune nuts
+
+4
+
+Chile
+
+62
+
+Gibnut (halau)
+
+14
+
+Hard candy
+
+4
+
+Beef
+
+19
+
+Bottled soft drink
+
+1
+
+Lunch meat, canned
+
+5
+
+Palm heart
+
+6
+
+Palm stems
+
+4
+
+Peccary
+
+9
+
+River snails
+
+2
+
+Root crops
+
+3
+
+42
+
+0.045
+
+0.323
+
+24
+
+0.045
+
+0.185
+
+14
+
+0.027
+
+0.108
+
+9
+
+0.018
+
+0.069
+
+13
+
+0.027
+
+0.100
+
+64
+
+0.135
+
+0.492
+
+18
+
+0.045
+
+0.138
+
+30
+
+0.081
+
+0.231
+
+55
+
+0.171
+
+0.423
+
+13
+
+0.045
+
+0.100
+
+42
+
+0.171
+
+0.323
+
+55
+
+0.279
+
+0.423
+
+12
+
+0.063
+
+0.092
+
+56
+
+0.333
+
+0.431
+
+6
+
+0.045
+
+0.046
+
+116
+
+0.982
+
+0.892
+
+4
+
+0.036
+
+0.031
+
+52
+
+0.559
+
+0.400
+
+11
+
+0.126
+
+0.085
+
+1
+
+0.036
+
+0.008
+
+0
+
+0.171
+
+0.000
+
+0
+
+0.009
+
+0.000
+
+0
+
+0.045
+
+0.000
+
+0
+
+0.054
+
+0.000
+
+0
+
+0.036
+
+0.000
+
+0
+
+0.081
+
+0.000
+
+0
+
+0.018
+
+0.000
+
+0
+
+0.027
+
+0.000
+
+617.2 309.8 298.5 284.2 270.0 264.3 207.4 184.6 147.2 122.0 88.7 51.5 46.4 29.2
+2.5 -9.1 -14.6 -28.4 -32.9 -78.7 -100.0 -100.0 -100.0 -100.0 -100.0 -100.0 -100.0 -100.0
+
+96
+
+P. CLEARY ET AL.
+
+Table 3. Tests of significance on changes in average number of days particular foodstuffs were consumed in a household in Aguacate between 1979 and 2019. Foodstuffs are ordered as in Table 2.
+
+Foodstuff
+
+1979 mean days con sumed by family
+
+2019 mean days con sumed by family
+
+2019 s.d. t-value p-value
+
+Vegetables
+
+1
+
+Pork
+
+1
+
+Kool-aid
+
+0.6
+
+Iguana
+
+0.4
+
+Packaged biscuit
+
+0.6
+
+Beans
+
+3
+
+Plantain
+
+1
+
+Fish
+
+1.8
+
+Chicken
+
+3.8
+
+Poch (corn dumpling)
+
+1
+
+Eggs
+
+3.8
+
+Rice
+
+6.2
+
+Wheat bread
+
+1.4
+
+Flour tortillas
+
+7.4
+
+Mats (corn porridge)
+
+1
+
+Corn tortillas
+
+21.8
+
+Cohune nuts
+
+0.8
+
+Chile
+
+12.4
+
+Gibnut (halau)
+
+2.8
+
+Hard candy
+
+0.8
+
+Beef
+
+3.8
+
+Bottled soft drink
+
+0.2
+
+Lunch meat, canned
+
+1
+
+palm heart
+
+1.2
+
+palm stems
+
+0.8
+
+Peccary
+
+1.8
+
+River snails
+
+0.4
+
+Root crops
+
+0.6
+
+3.500 2.000 1.167 0.750 1.083 5.333 1.500 2.500 4.583 1.083 3.500 4.583 0.917 4.667 0.500 9.667 0.333 4.333 0.917 0.083 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+
+3.227 1.080 2.075 0.924 1.585 1.247 1.323 1.893 1.656 1.256 1.658 1.847 0.759 2.321 0.764 1.795 0.624 3.543 0.759 0.276 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+
+2.683 0.011 3.207 0.004 0.946 0.182 1.312 0.108 1.056 0.157 6.481 <0.0001 1.309 0.109 1.281 0.113 1.638 0.065 0.230 0.411 -0.627 0.272 -3.033 0.006 -2.205 0.025 -4.079 0.001 -2.268 0.022 -23.415 <0.0001 -2.592 0.013 -7.886 <0.0001 -8.593 <0.0001 -8.982 <0.0001 N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A
+
+32.4% of family days ­ a similar level of consumption found for domestic meat and eggs (40.5% of household-days). In 2019, non-game meat consumption was substantially higher than recorded by Wilk, with chicken and pork consumption rising 147% and 309%, respectively (Table 2), while the consumption of wild foods declined. It is notable that on the other hand, the consumption of vegetables increased significantly over time (Tables 2 and 3), though this may have been a seasonal effect.19 Additionally, eight foods reported in 1979 did not appear in the 2019 study, including beef (Table 2).
+Store-bought foods appeared on the menu most of the days recorded for the five households in the 1979 survey (Table 2). However, there was a significant difference in the variety and frequency of store-bought foods between shop owners and ordinary villagers. The three farmers recorded eating one of five imported food items 19 times during the 57 days of recorded meals, while the shopkeepers ate one of eleven different imported food items 89 times during the 54 days of recording (they ate multiple different imported foods on a single day). This means that of the total number of times an imported food was eaten (108 total), the shopkeepers were the consumers 82.4% of the time. Even at this early point in the nutritional transition, there was inequality in the amount of purchased food in the diet, rather than a gradual change in everyone's access. This also demonstrates that averages can be deceiving when tracking secular change in diets.
+The men counted the number of corn tortillas they ate: an average of 12.8/day. Wilk weighed a large sample of tortillas, finding a mean of 78 g/tortilla, calculating average consumption of corn by men of ~998 g per day (providing ~3600 calories). The women
+
+FOOD, CULTURE & SOCIETY
+
+97
+
+who recorded meals reported a smaller average of 636 g of tortillas or poch (corn masa cooked in a banana leaf) per day over 20 days of recording. In our 2019 survey, Cleary weighed a large sample of tortillas which averaged only 43.5 g each. Without accounting for differences in age and gender, the average individual consumed 253 g of tortillas or poch per meal. At the average meal, a total 2130 g of tortillas were consumed by nine family members.20 While the frequency of corn consumption is down, and the average weight of tortillas has declined, when people do eat corn, they are eating similar quantities as they did during the 1979 study.
+
+Sources of error
+The data we gathered have four possible sources of bias. First, in household interviews, some questions were left unanswered, and the variable quality of the data in the notebooks proved a challenge in analyzing the data. The notebooks were a family project with children playing a major role, so certain items may have been omitted according to family dynamics. As we will discuss in detail below, community members held a negative view of "junk" foods and therefore may have underreported them. For example, drinks like Billiken beer and Coca-Cola were almost definitely underreported, perhaps because adults did not want to admit to their children that they were consuming something unhealthy or immoral.
+Second, owing to time constraints, our study was held around a holiday (New Year's Eve). During festive periods in Belize, meats such as pork may be overrepresented in village diets; each of the four village churches hosted parties for which pigs were slaughtered and roasted. Third, the presence of researchers in the village may have changed the diet of some villagers. Simultaneously to the study period, a soil scientist, a linguist, and a biologist were carrying out their own research in the village. The soil scientist's partner befriended another participant family and experimented with them in cooking pizza and crepes during the study period. However, given the large size of the dataset, we do not believe the integrity of the study has been substantially weakened. Fourth, the interviews were conducted in English for eleven subjects and Spanish for one. Whenever a family member was unable to speak either of these languages, another family member would translate questions to them. Women were more likely than men to need translation. This limited our findings on changes in the household division of labor. A more serious source of bias is that Wilk's recording was done with a sample of men, while the later sample included all members of households. However, men generally eat the same dishes that are eaten by other household members, so the frequencies are comparable.
+The amount of meat or fish in meals is somewhat overrepresented in Wilk's sample because people tended to stretch small portions over several meals rather than eating them all at once. Seasonal variation is missing from his tabulation which was made at a time when there was a higher supply of meat from hunting, recently harvested corn, and some vegetables from the main swidden farm, while plantains and root crops were not bearing. Both surveys also missed the peak times of clearing land and planting corn when people tend to eat more pork and chicken at the ceremonial meals offered by the family hosting the day's workgroup.
+
+98
+
+P. CLEARY ET AL.
+
+Discussion
+Aguacate remains a predominantly agricultural village. A similar survey in the commu nities closer to citrus and shrimp farms and major tourist areas, and accounting for sojourners who may be living in another village while they support family members in rural communities like Aguacate may yield different results. Additional research by Wilk in these villages in 2011 found most households subsisting on foods they bought in stores, particularly wheat flour, frozen chicken and canned meats, along with higher consump tion of sugar and salt. One of his students, working in a village health post, reported high levels of obesity, diabetes, high blood pressure, and kidney problems, which are closely related to changes in the diet. These have become major sources of morbidity and mortality in rural Belize in general (Moran-Thomas 2019).
+Our findings confirm our hypotheses, but also raise new questions, particularly from the content of interviews. In our conversations, villagers tend to frame the changes in food consumption as a reflection of their moral failure. They often blame their own laziness, greed, or moral corruption for these changes in diet, which they identify as the source of negative health outcomes. In the view of today's adults, youth are not eating enough of the healthy local food that comes from and fuels hard work. This matches the discourse of "Nutritionism" which places responsibility for changing diets on poor food choice by individuals (Scrinis 2013). In other studies, changes in food consumption by indigenous people tend to be explained as a consequence of general "modernization," which includes declining subsistence farming and the availability of cheap foods. We believe it is important to resist easy narratives that reflect the neoliberal and Christian ideologies of personal responsibility for problems that are actually structural and eco nomic, effectively blaming the victim. Instead of modernization theory or moralism, we should search for explanations in the social, spatial and material relations of production and consumption. Many people in Aguacate blame negative changes in village health, such as obesity and diabetes, specifically on the growing consumption of processed chicken. These diseases, increasingly common in all of Belize and Central America, have complex causes, of which diet, and chicken in particular, plays only part.21 Since the diet of rural people responds to health education, government initiatives, economic policy, multinational food production and marketing and the development of infrastruc ture, we must be very cautious in allocating responsibility for what is generally called an "obesity epidemic" (Wilk 2008).
+In Aguacate, foods are classified as either "local," produced by villagers on communal property or "from outside" and purchased with cash. The latter includes all the foods in the five shops in the village, as well as in town during market days. While the frequency of eating outside food has gone up, the more serious change is the erosion of the boundary between the moral economy of communal subsistence and the anonymous and deperso nalized cash economy. Yet the boundary persists in an ideology that sees local food as healthy, while imported and processed products are treated with great suspicion. Wilk wrote after his 1979 fieldwork that the Q'eqchi' "are careful to divide what they consider the sacred realm of corn from modern and profane rice . . . . For the [Q'eqchi'], corn means tradition, subsistence, and stability, and they go out of their way to separate these meanings from the world of wealth, new religions, government intervention, and markets represented by rice" (Wilk 1997, 139). We may update this observation by including
+
+FOOD, CULTURE & SOCIETY
+
+99
+
+produced meat and flour amongst the profane foods, adding that corn is less meaningful for new generations not raised working on the maize milpa.
+Our data also reflect the greater integration in 2019 between rural and urban markets. The staple foods of urban Belize are rice, beans, and chicken (typically stewed, baked, or fried). All are much more likely to be consumed each day in Aguacate in 2019 than in 1979. As Cal alluded to in the Maya Atlas (Toledo Maya Cultural Council (TMCC) and Toledo Alcaldes Association (TAA) 1997), a major element in this change is the improvement of the road network in southern Belize (Wilk 1984; Wainwright et al. 2015). In living memory, the travel time from Aguacate to Punta Gorda, the nearest market town, has been reduced from a days-long boat trip to a ninety-minute bus ride. An all-weather bridge now allows people to get in and out of the village in the rainy season when the rivers flood. Trucks arrive several times a week, delivering frozen chicken, Coca-Cola, candy, and chips for sale in the shops. The accessibility of the village to merchants and vendors has been a key ingredient in the transformation of the diet. Just because rice, beans, and processed meats become available to the village does not mean people will automatically incorporate them into their diets. In order for the village shops to operate, the traffic on the road needs to go both ways: salespeople must be selling food for money in the shops and laborers need to sell labor, rice, cacao, and livestock for money in the towns, or across the border to Guatemala when prices there are higher.
+The growth of a cash economy in the community has probably driven many changes in the organization of labor, the perception of time and convenience, and the adoption of foods that require less time to prepare (e.g. Weismantel 1989). Villagers reported that young men spend increasing parts of the year "jobbing out," that is, working for wages in the cities in sectors like construction, tourism and shrimp farms, then returning to the village to harvest corn and live with their families. They become semi-proletarians; their wages supplement the subsistence they derive from the land. As semi-proletarianization becomes increasingly frequent, new tastes for urban foods like fried chicken, rice, and beans are acquired by men working outside the village, who, upon their return home, incorporate them into village life. Children who now attend high school outside the village are also exposed to new foodstuffs and food habits among their non-indigenous peers. One interviewee speculated about why these specific tastes are acquired: "They think that's what rich people do." Chicken, rice, and beans are aspirational dishes, signs of urban sophistication and national identity in comparison with foods from the "bush" (see Wilk 2006). Yet they are also a source of some anxiety ­ particularly the chicken.22 Four of the twelve interviewees specifically named the brand of frozen chicken as the cause of negative changes in health, and a popular folk belief is that it lowers the age at which girls enter puberty.23
+Village nutritional discourse is presently in flux. Wilk noted the widespread belief in the 1970s that white rice and bread held greater nutritional value than tortillas, and that sweet soft drinks were healthy drinks for babies. By contrast, in 2019 we found a dramatic change; feeding children "food from the shop" was seen to represent laziness and bad parenting. The corn tortilla is seen as "stronger" and a more efficient provider of energy than the flour tortilla. Wilk (2009) examined the discourse surrounding food sold by Chinese Belizeans in Belize, arguing that "tradition often crystallizes and takes a `timeless' form at times of cultural crisis when people perceive their way of life to be under attack".
+
+100
+
+P. CLEARY ET AL.
+
+The re-valorization of the corn tortilla and the belief that the flour tortilla is "weaker" would align with the perception of an attack upon tradition.24
+The improvement of the road has brought frozen chicken; jobbing out has brought the money to buy frozen chicken. What has brought "jobbing out"? When asked why young people "job out," some subjects once again turned to moralism, explaining that people are greedy for money and commodities.25 Others thought that young people prefer jobbing to the hard work and risk of farming. However, the most popular response was that farming is getting harder, making it impossible to feed a family from agriculture alone. They blamed this on growing grass weed competition, worsening insect and animal predation, and climate change. Agricultural extension workers have noted all of these as real problems facing farmers in Toledo district (see also IPCC 2018; Peller 2021). Severe drought conditions in 2020 led the government to prohibit farmers from burning their swidden fields. The growing need for cash is also driven by the growing expense of sending children to school and getting basic medical care and higher transportation costs for crops, animals and people. Modern sanitation also requires payments for tap water, electricity, refuse disposal, and outhouses.
+If we accept that economic and climate change are squeezing peasant livelihoods in Aguacate and compelling a new generation to job out, we discover that time is another potential reason for changes in food consumption. Household gender dynamics are central here.26 In many interviews, men and women said they purchased "outside" foods not because they wanted to, but because of their lack of time to obtain and prepare the preferred "local" foods. In his early research Wilk argued that the repro ductive labor of women was complementary to the agricultural labor of men. Couples and extended families collaborated to share labor and childcare, tending domestic animals, building and maintaining houses, and harvesting and processing cash crops. As household labor dynamics change, particularly as more young men live and work outside the village, many of these tasks devolve onto young women and older parents, who now have many more demands on their time. We need more research in order to understand precisely how changes in work and time pressure are affecting buying, preparing, serving and consuming food. This causal relationship is most often assumed in the literature rather than being based on detailed case studies (Murcott, Belasco, and Jackson 2013).
+Aguacate's food pathways can also be interpreted from the perspective of shifting global food systems. The contemporary global food regime ­ defined by production of food as a commodity for global markets, mediated by global agribusiness ­ has con tributed to the "de-peasantisation" of the countryside (McMichael 2009; Holt-Giménez and Shattuck 2011). Across Latin America, millions of rural poor have been swept from rural, agrarian livelihoods. In response to these trends, the indigenous rights movement in southern Belize emphasized education and activism to support community-based control over the local environment and food production (Penados and Chatarpal 2015; Penados and Tzec 2012; Wainwright Forthcoming), a strategy overlapping with food movements elsewhere (Allen and Wilson 2008; Guthman 2011). This strategy has been successful at winning land rights in Aguacate, but it has not prevented out-migration, nor changed the underlying poverty of the community.27
+Our aim has been to understand and quantify the changes in the foodways identified by the residents of Aguacate. These reflect greater integration between rural and urban
+
+FOOD, CULTURE & SOCIETY
+
+101
+
+life, the increased prevalence of commodified food and the wage-labor that pays for it, and an accordant shift in the household behaviors that make up the gendered division of labor. The response to these changes in village discourse has been pessimism and fear of a public health crisis (focused symbolically on the factory-farmed chicken), with no consensus on how to respond. Almost half of the people interviewed thought that greater nutritional education was needed in schools. A community health worker stated that nutritional education programs for mothers have helped reduce the proportion of babies born underweight. Other responses included experimental methods to improve crop yields and producing enough local chicken to challenge the dominance of frozen factoryfarmed birds. One 11-year-old girl proposed that all the shops that sell imported food in the village should be closed. In the face of rapid climate change and the steady erosion of economic conditions for rural households, it is difficult to see these as effective solutions. One villager said: "If we became dependent on imported food ­ what if we get lazy and we just want to buy food? Might be a day when we can get no more flour . . . What if all the farmers job out? Who will plant the food?" The challenges for the future remain formidable and complex.
+
+Notes
+1. Infectious diseases caused a great deal of mortality and morbidity, particularly malaria, tuberculosis, influenza and measles.
+2. There is some evidence that stunting and hunger in Maya households have declined from the previous generation (cf. Caribbean Food and Nutrition Institute (CFNI) 1979; Avila and Sibrian 1997; Government of Belize 1997a, 1997b; Food and Agricultural Organization [FAO] 2003; Palacio 2000), but the variation in studies may result from different methods. In Guatemala, which neighbors Belize to the west, indigenous children are approximately twice as likely to have their growth stunted as their non-indigenous peers (Fukuda-Parr 2016).
+3. There are two indigenous Maya language groups in southern Belize; here and elsewhere, the Government lumps them together as "Maya", while anthropologists and social scientists distinguish between Q'eqchi' and Mopan (many of whom live in mixed communities).
+4. On homogeneity: (Khoury et al. 2014); on indigenous peoples' nutritional health: (Damman, Eide, and Kuhnlein 2008; Altieri and Toledo 2011; Esparza-Romero et al. 2015; Rocha, Silva, and Nascimento 2016; Arnés et al. 2019; FAO, IFAD, UNICEF, WFP and WHO 2019).
+5. In the face of such entrenched inequalities, some advocates aim to raise the profile of indigenous peoples in the movement for food sovereignty (see, e.g., Grey and Patel 2015; Copeland 2019).
+6. There has been a concentration of research efforts in these communities, which have been studied by a lengthy procession of anthropologists, geographers, rural sociologists and agri cultural scientists. This provides an unusual opportunity to look at a changing agri-food system and some of its causes and consequences.
+7. On indigenous forest communities and food security in Latin America, see Piperata et al. (2011), Altieri and Toledo (2011) and Ceddia,, Gunter, and Corriveau-Bourque. (2015).
+8. On the colonization of southern Belize and its afterlives in present-day villages like Aguacate, see Jones (1989), Toledo Maya Cultural Council (TMCC) and Toledo Alcaldes Association (TAA) (1997), Wilk (1997), Bolland, (2003), and Wainwright (2008, 2015, forthcoming). On conceptions of Maya heritage in Aguacate, see Novotny (2015).
+9. For discussions of the history of the village, see the dissertations by Wilk (1997) and Novotny (2015).
+
+102
+
+P. CLEARY ET AL.
+
+10. Cal did so as a community-elected representative of the Maya Atlas project. On this project, see Toledo Maya Cultural Council (TMCC) and Toledo Alcaldes Association (TAA) (1997) and Wainwright (2008, Chapter Six).
+11. On Maya livelihoods of southern Belize, see Wilk (1997); Toledo Maya Cultural Council (TMCC) and Toledo Alcaldes Association (TAA) (1997); on changes to the forests in the Toledo uplands, see Wainwright et al. (2015); on changes in Aguacate, see Novotny (2015).
+12. On these customary agricultural practices, see, e.g., Wainwright (2008), Zarger (2009), and Grandia (2012).
+13. A series of legal decisions have upheld indigenous land rights for Maya communities in southern Belize. See Chief Justice A. Conteh, `Judgment in the Supreme Court of Belize: Consolidated Claims No. 171 and 172 of 2007; Chief Justice A. Conteh, `Judgment of the Supreme Court of Belize: Claim no. 366 of 2008; Caribbean Court of Justice, "Consent Order between the Government of Belize and the Maya communities of Toledo", April 22, 2015.
+14. Usufruct rights permit use of a commonly-managed resource. Some lands in the village have been demarcated for long-term ownership by households in the village, and control of some of these parcels have been transferred between households. For instance, the fertile lowlands to the east of Aguacate are mainly divided and parceled. This change came through the Toledo Small Farmer Development Project in 1993, after government leased ~30-acre parcels to farmers (see Wainwright 2008, chapter five). Some farmers successfully raised citrus and rice; some of these plots have been converted to pasture and milpa. Some of these titles have changed owners; hence, some households control several blocks of land within the village. Yet, so far as we are aware, none of these parcels have been alienated to outsiders as fee simple property.
+15. Naturally, we reported our findings, and shared copies of this draft manuscript. 16. In addition to gaining some basic research training and experience, each family received one
+hundred Belizean dollars (US$50) for participation. The family which took the most detailed notes was given a soccer ball as a prize. 17. We asked question 3 in this form ­ a leading question ­ because the village leaders who encouraged our study had repeatedly express concern that "the people eat less local corn"; we wanted to gauge perceptions of why this may be problematical. 18. Asking subjects to place each piece of food onto a scale immediately before eating would have been an invasive and unwieldy process and could have risked changing their typical dietary habits. By having each household member record food consumed per meal, we sought to avoid 2­7 days recall methods, which, while common, are also generally inaccu rate. We did collect a sample of tortillas consumed in each household (data Wilk also collected in his earlier research), to estimate the total mass of maize consumed per house hold, but these data are not included here. 19. When Wilk was in Aguacate, most vegetables were planted in a patch adjacent to or within the major wet season swidden field (k'at kal) and harvested through May, June and July (and so would have been unavailable during his food consumption survey. 20. In 1979, all corn was ground by hand with either a hand mill or a metate. In contrast, today the corn is mostly ground by machines, producing a masa (dough) with a different texture. 21. Five of the twelve interviewees cited an uptick in diabetes as a result of the new diet. On diabetes in Belize, see Moran-Thomas (2019); on diabetes and changing indigenous diets, see Wiedman (2012) and Esparza-Romero et al. (2015); on perceptions of chickens in Q'eqchi' households, see Kockelman (2015). 22. Villagers' anxiety about the future of the village may also be colored by the history of the struggle for land rights over the past three decades. On this struggle, see Wainwright (2008). 23. Suspicion of factory produced chicken could be said to be a global issue, which includes urban as well as rural dwellers. Chera finds a remarkably similar discourse about the danger of chicken in southern India (2020). 24. On corn v wheat tortillas and cultural identity, see Pilcher (1998).
+
+FOOD, CULTURE & SOCIETY
+
+103
+
+25. On Belizeans' decisions to grow food versus sell labor power, see Chibnik (1980), Wilk (1981, 1997), and Moberg (1991).
+26. Out-migration has been, to date, mainly a strategy open to men. Unequal distribution of educational resources plays a key role. Very few Maya families can afford to send all their children to secondary education (even if the children all qualify, which is also rare); on the grounds that high school educated boys can at least join the military or police, families typically send their boys. On gender, nutrition and changing food pathways in indigenous communities, see Lemke and Delormier (2017) and Fukuda-Parr (2016); on gender and household dynamics in Maya communities in southern Belize, see Wilk (1997) and McClusky (2001).
+27. The data in Statistical Institute of Belize [SIB], Government of Belize, and UNICEF (2017) shows that, by various indicators, rural Toledo is the poorest part of Belize. One important exception is the rate of unemployment. In September 2019, the national unemployment rate was 10.4%, while in Toledo it was only 5.4% (Statistical Institute of Belize [SIB], Government of Belize, and UNICEF 2017). There are so few decent employment opportu nities in Toledo that practically all skilled laborers ­ except those employed by the Government ­ migrate to the growth poles in Belize, Stann Creek, and Cayo Districts.
+
+Acknowledgments
+The authors thank the people of Aguacate, who inspired and facilitated this research. Additionally, for comments on the manuscript, we thank Henry Peller, Will Jones, and three anonymous reviewers. For supporting our fieldwork, we thank Nydia Leon and Lauren Salisbury.
+
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+
+Funding
+This work was supported by the National Geography Committee for Research & Exploration [9888-16]; Ohio State InFact Program [2017]; Office of International Affairs, Ohio State University [2010] and College of Arts and Sciences, the Ohio State University.
+
+Notes on contributors
+Patrick Cleary is a Bachelor of Arts graduate of the Ohio State University, where he studied geography and economics. His research is in Latin American political economy.
+Kristin Mercer is Associate Professor in the Department of Horticulture and Crop Sciences at the Ohio State University. Her lab investigates how ecological processes and evolutionary forces influence important issues in agricultural sustainability, such as conservation of crop genetic resources and climate change adaptation.
+Kareem Usher is Assistant Professor in the City and Regional Planning Section of the Knowlton School at the Ohio State University. Dr. Usher's research focuses on urban food systems and he engages this topic at the intersection of food access, social justice, regional governance and community economic development.
+Richard Wilk is Distinguished Professor and Provost's Professor Emeritus at Indiana University. He has also taught at the University of California and New Mexico State University and held
+
+104
+
+P. CLEARY ET AL.
+
+visiting positions in Sweden, France, Singapore and the UK. His most recent book, Critical Approaches to Superfoods, is co-edited with Emma McDonell.
+Joel Wainwright is Professor in the Department of Geography at the Ohio State University. He is author of Decolonizing Development: Colonial Power and the Maya, Geopiracy: Oaxaca, Militant Empiricism, and Geographical Thought, and (with Geoff Mann) Climate Leviathan: A Political Theory of our Planetary Future.
+
+ORCID
+Joel Wainwright
+
+http://orcid.org/0000-0002-4401-9606
+
+References
+Allen, P., and A. B. Wilson. 2008. "Agrifood Inequalities: Globalization and Localization." Development 51 (4): 534­540. doi:10.1057/dev.2008.65.
+Altieri, M., and V. M. Toledo. 2011. "The Agroecological Revolution in Latin America: Rescuing Nature, Ensuring Food Sovereignty and Empowering Peasants." Journal of Peasant Studies 38 (3): 587­612. doi:10.1080/03066150.2011.582947.
+Anderson, I., B. Robson, M. Connolly, F. Al-Yaman, E. Bjertness, A. King, M. Tynan et al. 2016. "Indigenous and Tribal Peoples' Health. The Lancet-Lowitja Institute Global Collaboration): A Population Study." The Lancet 388 (10040): 131­157. doi:10.1016/S0140-6736(16)00345-7.
+Arnés, E., M. Astier, O. M. González, and C. Hernández, Díaz-Ambrona. 2019. "Participatory Evaluation of Food and Nutritional Security through Sustainability Indicators in a Highland Peasant System in Guatemala." Agroecology and Sustainable Food Systems 43 (5): 482­513. doi:10.1080/21683565.2018.1510871.
+Avila, M., and R. Sibrian. 1997. "Proceedings: Report of a National Seminar on Food and Nutrition Security." AB, MC 4800/ASR 1639.
+Bolland, O. N. 2003. Colonialism and Resistance in Belize: Essays in Historical Sociology. Mona, Jamaica: University of West Indies.
+Caribbean Food and Nutrition Institute (CFNI). 1979. An Assessment of the Food and Nutrition Situation in Belize, Jamaica. AB, MC 5571.
+Ceddia, M. G., U. Gunter, and A. Corriveau-Bourque. 2015. "Land Tenure and Agricultural Expansion in Latin America: The Role of Indigenous Peoples' and Local Communities' Forest Rights." Global Environmental Change 35: 316­322. doi:10.1016/j.gloenvcha.2015.09.010.
+Chera, M. 2020. "Country Chicken and Multiple Knowledges: Foucauldian Resistance in Young Tamil Women's Cultural Critique of Globalized Food." Food, Culture & Society 23 (2): 209­228. doi:10.1080/15528014.2019.1682900.
+Chibnik, M. 1980. "Working Out or Working In: The Choice between Wage Labor and Cash Cropping in Rural Belize." American Ethnologist 7 (1): 86­103. doi:10.1525/ae.1980.7.1.02a00060.
+Cidro, J., T. R. Martens, L. Zahayko, and H. Lawrence. 2018. "First Foods as Indigenous Food Sovereignty: Country Foods and Breastfeeding Practices in a Manitoban First Nations Community." Canadian Food Studies/La Revue Canadienne Des Études Sur L'alimentation 5 (2): 25­43. doi:10.15353/cfs-rcea.v5i2.249.
+Copeland, N. 2019. "Linking the Defense of Territory to Food Sovereignty: Peasant Environmentalisms and Extractive Neoliberalism in Guatemala." Journal of Agrarian Change 19 (1): 21­40. doi:10.1590/ S0080-623420160000300014.
+Damman, S., W. B. Eide, and H. Kuhnlein. 2008. ""Indigenous Peoples' Nutrition Transition in a Right to Food Perspective."." Food Policy 33 (2): 135­155. doi:10.1016/j.foodpol.2007.08.002.
+Dewey, K. 1981. "Nutritional Consequences of the Transformation from Subsistence to Commercial Agriculture in Tabasco, Mexico." Human Ecology 9: 151­187. doi:10.1007/BF00889132.
+Esparza-Romero, J., M. Valencia, R. Urquidez-Romero, L. Chaudhari, R. Hanson, W. Knowler, E. Ravussin, P. Bennett, and L. Schulz. 2015. "Environmentally Driven Increases in Type 2
+
+FOOD, CULTURE & SOCIETY
+
+105
+
+Diabetes and Obesity in Pima Indians and Non-Pimas in Mexico over a 15-year Period: The Maycoba Project." Diabetes Care 38 (11): 2075­2082. doi:10.2337/dc15-0089. FAO, IFAD, UNICEF, WFP and WHO. 2019. The State of Food Security and Nutrition in the World 2019. Rome: FAO. http://www.fao.org/3/ca5162en/ca5162en.pdf Food and Agricultural Organization [FAO]. 2003. "Belize: Nutrition Country Profile." http://www. fao.org/tempref/AG/agn/nutrition/ncp/blz.pdf Fukuda-Parr, S. 2016. "Re-framing Food Security as if Gender Equality and Sustainability Mattered." In Gender Equality and Sustainable Development, edited by M. Leach. Taylor & Francis, 82­104. London, New York, USA: Routledge. Government of Belize Ministry of Agriculture and Fisheries, Ministry of Health and Sports. 1997a. "The Children of Toledo: A Food and Nutrition Perspective." August 1997. AB, MC 4803/ASR 1636. Government of Belize Ministry of Agriculture and Fisheries, Ministry of Health and Sports. 1997b. "The Declaration of Dangriga: A Food and Nutrition Security Policy and Plan for Belize." June 1997. AB, MC 4807/ASR 1635. Grandia, L. 2012. Enclosed: Conservation, Cattle, and Commerce among the Q'eqchi' Maya Lowlanders. Seattle: University of Washington Press. Grey, S., and R. Patel. 2015. "Food Sovereignty as Decolonization: Some Contributions from Indigenous Movements to Food System and Development Politics." Agriculture and Human Values 32 (3): 431­444. doi:10.1007/s10460-014-9548-9. Guthman, J. 2011. Weighing In: Obesity, Food Justice, and the Limits of Capitalism. Thousand Oaks, CA: University of California Press. Holt-Giménez, E., and A. Shattuck. 2011. "Food Crises, Food Regimes and Food Movements: Rumblings of Reform or Tides of Transformation?" The Journal of Peasant Studies 38 (1): 109­144. doi:10.1080/03066150.2010.538578. IPCC. 2018. "Global Warming of 1.5°C: An IPCC Special Report on the Impacts of Global Warming of 1.5°C above Pre-industrial Levels and Related Global Greenhouse Gas Emission Pathways." Masson-Delmotte, Valerie., Panmao Zhai, Hans Otto Pörtner, Debra Roberts, James Skea, Priyadarshi Shukla, Anna Pirani, et. al. Accessed 19 November 2020 https://www.ipcc.ch/ sr15/chapter/spm/ Jones, G. 1989. Maya Resistance to Spanish Rule: Time and Resistance on a Colonial Frontier. Albuquerque: University of New Mexico Press. Khoury, C., A. Bjorkman, J. Hannes Dempwolf, R.-V. L. Guarino, R. Loren, L. Rieseberg, P. Struik, and P. C. Struik. 2014. "Increasing Homogeneity in Global Food Supplies and the Implications for Food Security." Proceedings of the National Academy of Sciences 111 (11): 4001­4006. doi:10.1073/pnas.1313490111. Kockelman, P. 2015. The Chicken and the Quetzal: Incommensurate Ontologies and Portable Values in Guatemala's Cloud Forest. Durham, NC: Duke University Press. Kuhnlein, H. V., and O. Receveur. 1996. "Dietary Change and Traditional Food Systems of Indigenous Peoples." Annual Review of Nutrition 16 (1): 417­442. doi:10.1146/annurev. nu.16.070196.002221. Lam, S., W. Dodd, K. Skinner, A. Papadopoulos, C. Zivot, J. Ford, P. Garcia, S. Harper, and I. H. A. C. C. Research Team. 2019. "Community-based Monitoring of Indigenous Food Security in a Changing Climate: Global Trends and Future Directions." Environmental Research Letters 14 (7): 073002. doi:10.1088/1748-9326/ab13e4. Leatherman, T., and A. Goodman. 2005. "Coca-colonization of Diets in the Yucatan." Social Science & Medicine 61 (4): 833­846. doi:10.1016/j.socscimed.2004.08.047. Lemke, S., and T. Delormier. 2017. "Indigenous Peoples' Food Systems, Nutrition, and Gender: Conceptual and Methodological Considerations." Maternal & Child Nutrition 13 (e12499): 2. doi:10.1111/mcn.12499. McClusky, L. 2001. `Here, Our Culture Is Hard': Stories of Domestic Violence from a Mayan Community in Belize. Austin, TX: University of Texas Press. McMichael, P. 2009. "A Food Regime Genealogy." Journal of Peasant Studies 36 (1): 139­169. doi:10.1080/03066150902820354.
+
+106
+
+P. CLEARY ET AL.
+
+Moberg, M. 1991. "Marketing Policy and the Loss of Food Self-Sufficiency in Rural Belize." Human Organization 50 (1): 16­25. doi:10.17730/humo.50.1.e838344080r3h265.
+Moran-Thomas, A. 2019. Traveling with Sugar: Chronicles of a Global Epidemic. Berkeley: University of California Press.
+Murcott, A., W. Belasco, and P. Jackson, eds. 2013. The Handbook of Food Research. London and New York: Bloomsbury Publishing.
+Novotny, C. 2015. "Social Identity across Landscapes: Ancient Lives and Modern Heritage in a Q'eqchi Maya Village." Doctoral dissertation, University of North Carolina at Chapel Hill.
+Palacio, J. O. 1982. "Food and Social Relations in a Garifuna Village." Doctoral dissertation, University of California, Berkeley.
+Palacio, M. 2000."Food Security and the Poverty Paradox at the Local Level: The Case of North and South Belize." Accessed https://www.slideshare.net/MyrtleP/food-security-and-the-povertyparadox 28 February 2020.
+Peller, H. 2021. "Soil Fertility, Agroecology, and Social Change in Southern Belize." Doctoral Dissertation, Ohio State University.
+Penados, F., and A. Tzec. 2012. Indigenous People and Climate Change: Impact of Climate Change on Food Security in Two Q'eqchi Maya Communities in Southern Belize. Punta Gorda, Belize: Sarstoon Temash Institute for Indigenous Management.
+Penados, F., and M. Chatarpal. 2015. "Food Security and Maya Land Rights: Crafting Paths of `Development with Identity'." Stabroek News, November 9. https://www.stabroeknews.com/ 2015/11/09/features/food-security-and-maya-land-rights-crafting-paths-of-development-withidentity/
+Pilcher, J. 1998. Que Vivan Los Tamales!: Food and the Making of Mexican Identity. Albuquerque, NM: UNM Press.
+Piperata, B., J. E. Spence, P. Da-Gloria, and M. Hubbe. 2011. "The Nutrition Transition in Amazonia: Rapid Economic Change and Its Impact on Growth and Development in Ribeirinhos." American Journal of Physical Anthropology 146 (1): 1­13. doi:10.1002/ajpa.21459.
+Renwick, S. 2015. "Prioritisation of Food Security by Decision-makers in the Caribbean, A Study of Three Caribbean Territories: Trinidad and Tobago, Belize and Barbados." CAES 30th West Indies Agricultural Economics Conference, Trinidad. July 2013.
+Rocha, T. E. D. S., R. P. D. Silva, and M. M. D. Nascimento. 2016. ""Changing Dietary Habits among Akwen Xerente."." Revista Da Escola De Enfermagem Da USP 50: 96­100.
+Scrinis, G. 2013. Nutritionism: The Science and Politics of Dietary Advice. Crows Nest: Allen & Unwin.
+Spang, L. 2019. Bite Yu Finga!: Innovating Belizean Cuisine. Kingston, Jamaica: University Press of the West Indies.
+Statistical Institute of Belize [SIB], Government of Belize, and UNICEF. 2017. Belize Multiple Indicator Cluster Survey, 2015-2016, Final Report. Belmopan, Belize: Government of Belize.
+Toledo Maya Cultural Council (TMCC) and Toledo Alcaldes Association (TAA). 1997. Maya Atlas: The Struggle for Maya Lands in Southern Belize. Berkeley: California.
+[UNDP] United Nations Development Programme, 2013. "Millenium Development Goals Report." Belmopan, Belize. Accessed 17 November 2020. file:///C:/Users/WAINWR~1.11/ AppData/Local/Temp/1/MDG%20Report%20and%20Post%202015%20Agenda%20Belize% 202013.pdf
+Valdés-Ramos, R., and N. W. Solomons. 2002. "Preventive Nutrition: Its Changing Context in MesoAmerica." Nutrition Research 22 (1­2): 145­152. doi:10.1016/S0271-5317(01)00356-6.
+Wainwright, J. 2008. Decolonizing Development: Colonial Power and the Maya. Oxford: Blackwell. Wainwright, J. 2015. "The Colonial Origins of the State in Southern Belize." Historical Geography
+43: 122­138. Wainwright, J. Forthcoming. "The Maya and the Belizean State, 1997­2004: Reflections on the
+Indigenous Rights Question after 20 Years." Latin American and Caribbean Ethnic Studies. Wainwright, J., S. Jiang, K. Mercer, and D. Liu. 2015. "The Political Ecology of Land-use Change
+along a Highway Corridor in Southern Belize." Environment & Planning A 47 (4): 833­849. doi:10.1068/a140125p.
+
+FOOD, CULTURE & SOCIETY
+
+107
+
+Weismantel, M. J. 1989. "The Children Cry for Bread: Hegemony and the Transformation of Consumption." In The Social Economy of Consumption, edited by B. S. Orlove and H. J. Rutz, 105­124. Lanham MD: University Press of America.
+Wiedman, D. 2012. "Native American Embodiment of the Chronicities of Modernity: Reservation Food, Diabetes, and the Metabolic Syndrome among the Kiowa, Comanche, and Apache." Medical Anthropology Quarterly 26 (4): 595­612. doi:10.1111/maq.12009.
+Wilk, R. 1981. "Agriculture, Ecology, and Domestic Organization among the Kekchi Maya." Ph.D. dissertation, Department of Anthropology, University of Arizona, Tuscan.
+Wilk, R. 1984. "Rural Settlement Change in Belize, 1970­1980: The Effects of Roads." Belizean Studies 12: 1­9.
+Wilk, R. 1997. Household Ecology: Economic Change and Domestic Life among the Kekchi Maya in Belize. Dekalb, IL: Northern Illinois University Press.
+Wilk, R. 2006. Home Cooking in the Global Kitchen: Caribbean Food from Buccaneers to Ecotourists. Oxford: Berg Publishers.
+Wilk, R. 2008. "Global Junk: Who Is to Blame for the Obesity Epidemic?" RAE-Revista De Administração De Empresas, Brazil 58 (3): 332­336. doi:10.1590/s0034-759020180311.
+Wilk, R. 2009. "Difference on the Menu: Neophilia, Neophobia and Globalization." In The Globalization of Food, edited by D. Inglis and D. Gimlin, 185­196. Oxford: Berg Publishers.
+Woods, L. A., J. M. Perry, and J. W. Steagall. 1997. "The Composition and Distribution of Ethnic Groups in Belize: Immigration and Emigration Patterns, 1980-1991." Latin American Research Review 32 (3): 63­88.
+Yates-Doerr, E. 2015. The Weight of Obesity: Hunger and Global Health in Postwar Guatemala. Oakland, California: University of California Press.
+Zarger, R. 2009. "Mosaics of Maya Livelihoods: Readjusting to Global and Local Food Crises." NAPA Bulletin 32 (1): 130­151. doi:10.1111/j.1556-4797.2009.01032.x.
+
+

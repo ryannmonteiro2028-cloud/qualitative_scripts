@@ -1,0 +1,1494 @@
+Food, Culture & Society
+An International Journal of Multidisciplinary Research
+ISSN: 1552-8014 (Print) 1751-7443 (Online) Journal homepage: www.tandfonline.com/journals/rffc20
+Food networks in migrant families: mixed methods to analyze the relationship of ingredients and food consumption strategies in Argentina
+Mora Castro, Giorgina Fabron & Diego Díaz Córdova
+To cite this article: Mora Castro, Giorgina Fabron & Diego Díaz Córdova (2022) Food networks in migrant families: mixed methods to analyze the relationship of ingredients and food consumption strategies in Argentina, Food, Culture & Society, 25:3, 391-413, DOI: 10.1080/15528014.2021.1890889 To link to this article: https://doi.org/10.1080/15528014.2021.1890889
+Published online: 19 Apr 2021.
+Submit your article to this journal
+Article views: 432
+View related articles
+View Crossmark data
+Citing articles: 3 View citing articles
+Full Terms & Conditions of access and use can be found at https://www.tandfonline.com/action/journalInformation?journalCode=rffc20
+
+FOOD, CULTURE & SOCIETY 2022, VOL. 25, NO. 3, 391­413 https://doi.org/10.1080/15528014.2021.1890889
+
+Food networks in migrant families: mixed methods to analyze the relationship of ingredients and food consumption strategies in Argentina
+Mora Castro a, Giorgina Fabron b and Diego Díaz Córdova c
+aSchool of Health Sciences, Arturo Jauretche National University ­ CONICET, Florencio Varela, Buenos Aires, Argentina; bInstitute of Archaeology, Buenos Aires University, Buenos Aires City, Argentina; cDepartment of Community Health, Lanus National University, Buenos Aires, Argentina
+
+ABSTRACT
+This paper presents an analysis of food practice and representations of a particular migration process of rural families in South America that has moved, during the last 30 years, from Central Andean uplands to suburb lowlands in the Southern metropolitan area of Buenos Aires (Argentina). We implemented a mixed methods strat egy, combining a qualitative methodology with an ethnographic perspective (including participation in local activities within both areas of interest), a quantitative approach (including database ana lysis with dish information), and social network analysis, which allowed us to formalize the links between ingredients, territories, local memories, and the importance of food sovereignty as well as collective identity in the context of migration.
+The results allowed us to identify: a) ingredient replacement in the original territory, due to the incorporation of food industry, modifying both the products consumed and the time dedicated to these activities; b) ingredient replacement in the destination territory, given the lack of access to most of the required elements to recreate family food; c) food alliances established between Jujuy migrant families and other Central Andean migrant populations; and d) the importance of a subset of ingredients and species that families try to hold in both territories.
+
+KEYWORDS Food strategies; food sovereignty; migration; social network analysis
+
+Introduction
+Migrant families'1 trajectories are key to observing the dynamic relationship between social groups and their territories. As a global tendency, since the last decades, great amounts of population chose to dwell within large cities mainly looking for better job opportunities and an improvement in the quality of life. South America and Argentina, in particular, are not an exception to such a tendency and, therefore, the number of migrant families has been increasing the margins of the metropolitan areas in the country, contributing to an exponential growth of urban populations. In the last 30 years, the most important flow of migration came from Andean areas (INDEC 2012). According to the last census in 2010, 19% of the immigrant people living in Argentina were born in
+CONTACT Mora Castro moradelpilarcastro@gmail.com; mora.castro@conicet.gov.ar
+© 2021 Association for the Study of Food and Society
+
+392
+
+M. CASTRO ET AL.
+
+Bolivia (almost 350.000). In 1991, they were 9%; in 2001 15%, so the increment is noteworthy (INDEC 2012). Internal migration in Argentina from Central Andean provinces shows that all of them have a negative ratio, meaning people are moving away from these regions. Generally, they move to capital cities, in this sense Buenos Aires attracts more people than other cities in the country (INDEC 2012).
+One particular aspect deeply affected in the migration process is food practices and representations of these groups. In this work, we analyzed the slow but consistent migration of a large group of small-scale family farmers from the Andean region (from Argentine provinces and abroad) to the Southern Buenos Aires Metropolitan Area (lowlands). We conducted our fieldwork in Quebrada de Humahuaca, in Jujuy Province. Source and target geographical areas are more than 2,000 km away from each other (Figure 1).
+The study of migrant Andean families' food practices and representations presents a privileged stage to understand how they value and maintain culinary knowledge over space and time, through different strategies displayed in lowlands, which combine knowledge transmission and adaptability to the place of arrival. Furthermore, we explored the possibility of identity strengthening and reaffirmation nested in food sovereignty (Coté 2016) based on consumption, at least in some respects. Food Sovereignty is a theoretical framework whose origins were in peasant and indigenous communities (Díaz Córdova 2014). It was intended to express the sight of these peoples,
+
+Figure 1. Migrant families in both territories: Lowlands (Florencio Varela ­ Buenos Aires Province) Highlands (from 2,500 to 3,500 m.a.s.l. Humahuaca and Tilcara ­ Jujuy Province, where we conducted our ethnographic research).
+
+FOOD, CULTURE & SOCIETY
+
+393
+
+the right to produce and consume adequate, cultural, and nutritional food, not ruled by commodity markets. As Hoover mentioned, Food Sovereignty is "having access to healthy, affordable, culturally appropriate food" articulating the idea "that you have control over your own food" (2017, 20) so if you cannot produce your food, then you are not in a sovereign frame. Highland migrants came to the city with an agricultural knowledge that they might try to implement in the new place. However, not always this can be accomplished, due to several reasons, job and work, available land, and so on. In this sense, some of our interviewees in the lowlands have mentioned that specific plant species of their place of origin (e.g., maize or Andean potatoes) cannot be cultivated because in the soil of the new place "do not grow well enough" (C., personal commu nication, September 16, 2016). Despite having this cultural capital, the interviewees can resort to other strategies to replace products either by buying at fairs or by shipments from their own relatives (Castro and Fabron 2018).
+In particular, with migrants' families that slowly become urban ethnic commu nities, a culturally appropriated food includes the sense of belonging that these families share with the people that still inhabit their home territory and those dwelling in lowlands as well. In this singular situation, identity must be recreated in the destination territory and food-related issues play a fundamental role in everyday life (Fischler 1988).
+In an attempt to address this analytical concern, we consider food as a "situated event" (Aguirre 2005), that is to say an articulated set of social practices and processes, their products, and outputs that includes raw material and natural resources for food elabora tion and consumption. In addition, it comprises particular inherited representations, beliefs, knowledge, and practices that those individuals, within a specific socio-cultural group, learn and share; in which certain regularities and features are established (Contreras Hernández and Gracia Arnaiz 2005).
+Cooking is a major component in social and economic reproduction, so it reflects differences between migrant's source and destination. Changes in food patterns show similarities and differences in the household's practices and representation, reflecting structural conditions, social trajectories, and individual experiences (Smith-Morris 2016). The analysis of food dynamics in the place of arrival also allows us to see the flexibility of identities within the cosmopolitanism that features current cities, where migrant people actively re-build their identities and re-define their values, norms, and practices. This process can be noticed in food-related issues as a symbolic means through which emotions, traditions, cultural values, political strengths, and economic constraints express (Duque-Páramo 2008, 293).
+The aim of studying changes in the identity-building process of a particular migrant population through their food practices and representations involves the role of collective and individual memories of their home territory. This presents major challenges in two different but connected aspects. On the one hand, as Nazarea mentions
+"there is a significant difference between merely discursive and performative because the embodiment is not primarily textual; rather the sentient body is culturally consumed by a world filled with forces, smells, textures, sights, sounds and tastes, all of which trigger cultural memory" (2006, 327).
+On the other hand, Holtzman argues
+
+394
+
+M. CASTRO ET AL.
+
+"the extent to which food intrinsically traverses the public and the intimate (pointing that) eating always has a deeply private component, unlike other most private activities food is integrally constituted through its open sharing, whether in rituals, feasts, reciprocal exchange or contexts in which it is bought and sold" (2006, 373).
+In this article, we introduce an anthropology of food perspective, with an emphasis on the material aspects of ingredients, observation of food strategies on both sides (where the people dwell and where they come from), and different ways of preparations. Following a consolidated analytical tradition, in this study, we consider a mixed methods strategy (Bellotti 2015) regarding the analysis of dishes from both contexts through Social Network Analysis (SNA) (Wasserman and Faust 2018). This data was obtained mainly from primary sources, based on interviews and ethnographic observations looking for the food context and the main ingredients.
+The results of the analysis led us to understand: a) the identity building process in migrant context through the elaboration and consumption of particular dishes; b) specific issues within both territories in terms of the culinary grammar (Aguirre 2005) and their transmission modes; c) the "food alliance" that these families implement with other upland communities migrant families (e.g., from the Bolivian high plateau).
+It is important to note that, although "family networks" make it possible to sustain (through different mechanisms) the flow of key ingredients for the migrant population, this does not mean that it limits the capacity to explore other foods. The incorporation of new ingredients and food-related practices can be understood " . . . as the medium in which the identity is lived out in praxis and reinforced in everyday life" (Tam 1997, 292). Also, within this perspective, flavors and cooking mixes can be seen as an "adaptation" to new life conditions (James 1994), especially when considering migrants as "agents of dietary change" (Mintz and Du Bois 2002, 7).
+
+Case study and context
+The areas connected through the migrant families are very different from each other. In the source/uplands, resources are concentrated in more familiar plots, with long-period ties, usually based on kinship. In the target/lowlands, these ties are rather weak and the strategies that families could implement are not tested in this new context.
+The territory where we conducted our ethnographic research is located in the Andean region, in two Departments of Jujuy Province (Humahuaca and Tilcara), between 2460 and 2900 m.a.s.l.2 Mainly, the population is dispersed in the rural countryside (40%) (Golovanevsky and Ramírez 2014) and there is a certain concentration at the head of the small towns. The links between rural and urban are strong in this area, mostly due to kinship ties and double residence practices.
+If we take a long-term perspective, agricultural activities have had a very important presence since, at least, the last 3,000 years (Nielsen 2001). In this area, farming is a family and rural activity, with a vast space occupied and complemented with cattle, and it is usually for self-consumption, exchanging, or trading the surplus. Currently, the activities within the family farms do not fulfill families' needs, so another kind of income is required (salaries from working outside the farm, pensions, and social programs).
+The territory of arrival is located in the Metropolitan Area of Buenos Aires, in one district at the peri-urban second cordon (Florencio Varela), which presents a growing
+
+FOOD, CULTURE & SOCIETY
+
+395
+
+urban infrastructure and increasing demography with high indices of overcrowding and unsatisfied basic needs (Barsky 2013).
+Florencio Varela is a wide reception area, with different communities (from Paraguay, Bolivia, Portugal, Spain, Italian, and Japan) which have had a major impact on the socioeconomic local dynamic. In particular, Andean population began to migrate during the XX Century, especially during the `40s, where industrial job opportunities started up at the margins of Buenos Aires (Canelo 2006). This situation was detrimental to family farming activities all over the country (Fabron, Castro, and Díaz Córdova 2018).
+Broadly speaking, farming at the peri-urban locations is related to vulnerable groups. Simultaneously, this particular economic activity enables the use and exchange of ancestral knowledge and the symbolic and economic reproduction of the family group. This can be observed in the species they grow, the seasonal elaboration and consumption of specific food, and those meals prepared and desired for particular celebrations.
+It is noticeable that in both areas agricultural production corresponds to the family farming range, with a small-scale production, developed by family members and whose products go to domestic uses and local trading (Barsky 2013; Fabron and Castro 2019). It is a lifetime dedicated to that way of living, which involves a vast complexity to be reproduced in the new place, as S. mentions
+" . . . everything [in both areas] is dedicated to that, everything to agriculture . . . it is a sacrifice . . . you have to find all the ways . . . then as they come from being farmers . . . you live with your agriculture, you do not live working as a construction worker . . . from October to December, you dedicate yourself to cultivation. January, February, March, you take care of it, April, May, June, you start harvesting. June, July, you start to dry the things you took out" (S., personal communication, September 18, 2016).
+
+Materials and methods
+The methodological strategy to carry out this research had different moments of data collection, processing, and systematizing information and analysis lasting for 4 years (2014­2017). The Ethics Committee of the Arturo Jauretche National University approved this study and all the participants gave their informed consent so the testimo nies would be included in this research.
+Mixed methods approach was adopted, from which we consistently combine qualita tive and quantitative tools. On the one hand, the qualitative approach was based on data collection, gathering different types of information through ethnographic fieldwork in both areas. During these field studies, 42 in-depth interviews were done, multiple observations in public spaces (fairs, markets, and places where food was sold, consumed, or exchanged) as well as private ones (households, community centers). We have participated in different local activities, both as spectators (fairs and shows) and as organizers (workshops, visits, lunch, and supper). All the information gathered during fieldwork was complemented with data obtained through secondary sources, like histor ical information, statistics, photographs, and cartographies of the areas.
+On the other hand, we implemented quantitative methods for data processing and systematization for those food and dishes mentioned during interviews or observed. We recorded this information in a database and we used R framework (R Core Team 2017)
+
+396
+
+M. CASTRO ET AL.
+
+(Grosjean 2014), which let us manipulate data accurately through native functions, particularly the igraph package (for social network analysis) (Csardi and Nepusz 2006) and RQDA package (for qualitative analysis) (Huang 2018).
+In this article, we focus on social network analysis (SNA) methodology and so we emphasize the steps and procedures used to analyze and interpret available data. It is important to mention that although the qualitative methods used are addressed in detail in another paper (Díaz Córdova, Fabron, and Castro, forthcoming), we follow ethno graphy coding data in the usual way (Agar 2004). This ethnographic information is the key input for the social network model we present here.
+The data process began with a transformation from the original files (interview transcriptions, fieldwork observations, historical records, field notes) in a spreadsheet format to get the data available and readable with R, in order to carry on our SNA model. We start reading the ".csv" files (source spreadsheet) and then split by commas, the field denominated "ingredient" which is a reference to the meal component. The next step was to order the new data frame by ingredient. After that, we looked for a join between ingredients and then we eliminated the duplicates. With these operations, we have the data ready to use with igraph package, and so to start the SNA process.
+For generating a file that can be read by our other software for SNA and, consequently to visualize and run some metrics about data, we use several R packages like dplyr (to manipulate data) (Hadley et al. 2018) sqldf (SQL databases) (Grothendieck 2017) and igraph. We decided not to use R to visualize data because the team was most comfortable with Visone Software (Baur 2008).
+Social network analysis allowed us to implement the relational approach for food networks through their ingredients: dishes and the relationship within a particular territory. Graph metrics showed particular subgroups among elements showing central and peripheral dishes and ingredients. The results of this analysis were first, the building of a diagram that shows the geographical distribution of the dishes mentioned and, second, a graph informed by those dishes and their ingredients.
+
+Diagram
+This diagram (Figure 2) represents dishes according to their geographical position. We have not made any distinction between herbs, condiments, food, and medicines. We have included in the diagram all the elements that were described by the interviewees or observed in both settings. The diagram shows three major subgroups of dishes elaborated or consumed in: Quebrada de Humahuaca only (28 ­ down right), Florencio Varela District only (11 ­ down left), and both areas (31 ­ up).
+As we can see, this is a rough visualization of dishes (as nodes) connected with each other only if they were mentioned/observed in the same territory (see Appendix). There are a total of 70 dishes/herbs/spices, and over 50% are replicated within migrant families in the metropolitan area of Buenos Aires. In addition, a great number of dishes (28) that were mentioned in highlands are not prepared in lowlands. Finally, those dishes pre sented only in Florencio Varela have a strong influence on the Bolivian community currently inhabiting the same metropolitan area.
+
+FOOD, CULTURE & SOCIETY
+
+397
+
+Figure 2. Geographical distribution of dishes/herbs/spices mentioned and/or observed.
+Ingredients network
+With the geographical location of dishes defined, we have developed an analysis to go deeper into the relationship of the ingredients. Although it is not completely new, these kinds of networks have just a few antecedents (Teng, Lin, and Adamic 2012; Ahn et al. 2011; Díaz Córdova 2016). In our project, we identified elaboration patterns and pre valence of different elements that are the basis of food in these regions (Figure 3).
+For this particular graph, nodes also represent dishes. Unlike the diagram above, for the ingredient network, we discarded many of the fruits and herbs mentioned because those elements are consumed without any other (like poko or anise). In this sense, the number of nodes has been reduced according to these criteria highlighting relations among ingredients and not particular elements. Thus, links express whether these dishes
+
+Figure 3. Dishes connected by shared ingredients.
+
+398
+
+M. CASTRO ET AL.
+
+share ingredients, spices, and condiments in their preparations. This particular organiza tion and analysis of the information points toward identifying the ways of dishes' preparation in both contexts, searching for food practices and representations based on ingredient combination.
+The formal description is the following: 59 nodes, 368 links (one big component, one dyad, and two isolated nodes). The relations between the nodes are symmetric and undirected (i.e., two different dishes share the same ingredient, so they are registered symmetrically), uniform (the value of the link remains the same), and simple (there is only one kind of link measured in this graph, it is not multiplex). Regarding nodes (Appendix), color identifies four subgroup detections: 1) intense blue are those of the central core (Borgatti and Everett 2000) (those nodes with more connections among them than with other nodes in the network), 2) red nodes meaning those with a lower clustering coefficient (but with a strong betweenness centrality), 3) green peripheral nodes (with lower grade centrality) and, 4) purple nodes are those isolated ones. The size of the node reflects the centrality degree percentage calculated over the network (bigger percentage, bigger size).
+To build this network we made three small exclusions of ingredients. From a total of 97, we first excluded the following ingredients: water, salt, oil, and sugar. These particular elements produce a significant skew to the density and connectedness of our sample. In this sense, we decided to eliminate them and focus on the list of ingredients that were distinctive to the registered dishes. Then, we also left out another four elements that were mentioned as consumed but were not included in any particular recipe ("maíz ocho rayas -eight line maize", llama fat, llama head, and lamb guts). We have made another exclusion regarding the ingredients for infusions (herbal tea) because they do not con form to a dish (based on our own goals), and other meals that do not figure in diagram or graph (see Table 1). Thus, this network is the final cut of the data collected, with 89 ingredients that conform the 59 dishes registered for the analysis.
+
+General indexes
+The description of the main relational metrics of the ingredient network (Figure 3) is shown in Table 2. Overall, the big component presents a strong core of 22 nodes with an average centrality degree of 22 (10 points higher than the total average). In addition, the algorithm detected 10 different subgroups, all connected to each other, identifying the core and peripheral nodes.
+It is worth mentioning that the graph shows a low density regarding all the possible relations between dishes. The nodes at the periphery present the following distribution:
+
+Table 1. Food, nets, and dishes. Ingredients they do not conform a dish and other meals that do not figure in diagram or graph.
+
+No mention in dishes
+
+No occurrence in diagram
+
+Ancañoca/ichar Anka Menta Muña muña Oca Quinchamal Rica rica Yerba buena Maíz ocho rayas (eight lines maize) Llama fat Llama head Lamb guts
+
+Papaya Pelones Tuna
+
+FOOD, CULTURE & SOCIETY
+
+399
+
+Table 2. Relational Measurements in Social Network Analysis (Visone Software).
+
+Network Mesures
+
+Value ## What this measure shows?
+
+Comments
+
+Density
+Average degree Average betweennes
+Components Nodes in max core Nodes in periphery Clustering Coefficient
+(Modularity ­ Girvan Newman)
+
+0.215 Is the proportion of existing One of the main characteristics of a network
+
+links considering all the
+
+potential ones
+
+12.475 Average links of all nodes in Considering all nodes and all links displayed
+
+the big component
+
+14.198 The shortest distance
+
+How well connected in the structure is
+
+between two particular a particular node
+
+nodes
+
+4
+
+Connectedness
+
+1 big component, 1 dyad, and 2 isolated nodes
+
+22
+
+Cohesiveness
+
+These dishes share more ingredients, showing
+
+a common base for preparations
+
+33
+
+Cohesiveness
+
+These dishes a lower amount of ingredients with
+
+the rest of the network
+
+10 different Subgroups of the big
+
+Algorithms identify groups inside the network
+
+subgroups component
+
+that whose nodes are more connected
+
+(GN = 3)
+
+between each other, then with the rest of the
+
+nodes
+
+Table 3. Regions where to find dishes identified as the peripheral nodes of Ingredients Network (red nodes).
+
+Periphery (red nodes)
+
+Florencio Varela
+
+Humahuaca & Tilcara
+
+Totals:
+
+9
+
+13
+
+Chunio
+
+X
+
+X
+
+Tijtincha
+
+-
+
+X
+
+Tamales
+
+X
+
+X
+
+Yagua
+
+X
+
+X
+
+Anticucho
+
+X
+
+-
+
+Charque soup
+
+-
+
+X
+
+Quinoa salad
+
+X
+
+X
+
+Breaded veal
+
+X
+
+X
+
+Spicy chicken
+
+X
+
+X
+
+Stuffed round courgette (beef)
+
+-
+
+X
+
+Mote
+
+X
+
+X
+
+Mote with cheese goat
+
+-
+
+X
+
+Charque
+
+X
+
+X
+
+Mote Junket
+
+-
+
+X
+
+red nodes are informed by 9 dishes that can be found in Florencio Varela (lowlands) and 13 in Humahuaca and Tilcara (highlands, where we did our fieldwork) (see Table 3). In addition, green nodes with the lowest betweenness centrality are mainly dishes from highlands: 15 against 6 (see Table 4).
+Results The analysis through social network perspective allowed us to identify four main results:
+Ingredient replacements in the origin territory, considering food industry appearance in regards to both their products and their time In Central Andeans, origin territory, there is a longue-dureé food history. More precisely in North Western Argentina (NWA), where we conducted our ethnography, the first
+
+400
+
+M. CASTRO ET AL.
+
+Table 4. Regions where to find dishes identified as the super peripheral nodes of Ingredients Network (green nodes).
+
+Super periphery (green nodes)
+
+Florencio Varela
+
+Humahuaca & Tilcara
+
+Totals:
+
+6
+
+15
+
+Tocori
+
+X
+
+-
+
+Cottage
+
+-
+
+X
+
+Calapi
+
+-
+
+X
+
+Bread ­ dough
+
+X
+
+X
+
+Peeled maize
+
+X
+
+X
+
+Ulpada
+
+-
+
+X
+
+Amaranth
+
+-
+
+X
+
+Anchi
+
+-
+
+X
+
+Api
+
+X
+
+X
+
+Apileche
+
+-
+
+X
+
+Stuffed round courgette (chicken)
+
+-
+
+X
+
+Cheese with broad bean
+
+X
+
+X
+
+Toasted broad bean
+
+-
+
+X
+
+Tortilla blood sausage
+
+-
+
+X
+
+Blood sausage
+
+-
+
+X
+
+Piri
+
+-
+
+X
+
+Bolivian peanut
+
+X
+
+-
+
+inhabitants arrived in this zone about 11,000 years before present, they were hunters and gatherers. Later, 5,000 years before present, agriculture was adopted. This area was selfsustainable until the end of the nineteenth century, when the very first industrial meals were introduced. In this early stage of industrial food, people consumed noodles, sugar, and yerba mate (Ilex paraguariensis), but most of their food pattern was provided by local production (Reboratti 2003).
+By the mid-twentieth century, the influence of industrial food was greater than before. By the end of the twentieth century, the influence was huge. New technology in refrigerated trucks and the construction of new roads in the area made it possible that industrial food was accessible in this zone. Milk products, meat, and other fresh food, produced outside NWA, were accessed to the detriment of local productions. At the same time, people in this area started to depend more and more on currency, so they needed to find jobs where they were paid for. This led to a decrease in agricultural activities and a negative feedback that made people more and more dependent on industrial food and on cash flow (Reboratti 2003; Tuomainen 2009).
+Despite the growing influence of industrial food, local food is currently still important; corn is a kind of staple food in this area (although in the rest of Argentina, wheat is the staple food) and is used in different dishes that are recognized as "traditional". Here we can hear the voice of one highland inhabitant telling us the secrets of corn
+"Q: of course, we can't see drying corn
+A: no, it is not their time, in March or April you start to dry the corn, it will mature and you must remove the leaves, you must cut, harvest the corn
+Q: but it is `choclo` or corn?
+A: it is corn, first the doll, then choclo and then corn" (S., personal communication, December 7, 2016).
+
+FOOD, CULTURE & SOCIETY
+
+401
+
+The same thing happens with other food, like "ají" (hot pepper) or "llama meat" (Lama glama meat). Food patterns are mixed in Quebrada de Humahuaca, industrial and local production are used together without much consideration of previous recipes. In this sense, rice has been incorporated into the diet, replacing the consumption of local cereals or pseudo-cereals (like "quinoa", Chenopodium quinoa), as well as, the increase in ultra-processed meats (e.g., hamburgers, sausages, chips, even "pufitos" a kind of colorful sweet cheeto) (Díaz Córdova 2015).
+Since the early beginnings of the twenty-first century, international and national tourism have started to choose Quebrada de Humahuaca as the main destination. This brought huge changes in the area, like new buildings (hotels and restaurants), an increase in water consumption, new tourism-related jobs, and an increase in the value of land and in the price for some food considered as "traditional". These dishes got more exposure becoming tourism-oriented food. All these changes affected social dynamics and the ways people prepare and consume their meals. Access has been modified, making it easier to obtain industrial foods in almost any town in Quebrada de Humahuaca. Time associated with food practices has also changed its value: now the time we spend cooking is less important than in the past. Consequently, currently, fast foods and easiest ways to prepare dishes and obtain ingredients are a better strategy for modern families (both in rural and urban scenarios) giving place to other types of consumption, as one of the interviewees told us that "We used to have wheat and eat ´wheat soup´ but today we don't eat it because we don't have time to cultivate it" (D., personal communication, May 23, 2017).
+
+Ingredient replacements in the destination territory, considering the lack of access to a great variety of food required to replicate food, although commensality logics are maintained
+Over the past three decades, a profound change in food practices has taken place. It included new food supply in the everyday diet (fresh or industrial). This process made people slowly abandon traditional and local food practices, which presumably has negatively affected social local health. However, both in rural and urban areas there is a strong cultural memory regarding local foods as a central element for their personal and community territorial identity (Soleri, Cleveland, and Aragón Cuevas 2008; Treakle and Krell 2014; Beyers 2008), and many people recreate, for special occasions, those meals they remember having made by their mothers or grandmothers in highland homes.
+Highland families that currently dwell in the metropolitan area of Buenos Aires have abandoned, in a quite significant way, daily food practices from their home territory, incorporating new elements within the migration context. However, dishes from their family territory are made by replacing ingredients (maize for rice or noodles) and modifying the cooking base (replace animal fat for vegetable oil, wood-burning stove for the gas stove), trying to keep the seasoning base as similar as possible. Thus, availability and access to raw materials are key issues that different communities have managed to overcome, especially through fairs and "ethnic" retailers (often first genera tions of migrants) (Koc and Welsh 2014) who provide the community with their own cuisine elements. Migrant families always mention their constant craving for local food (even those family members of the following generations who have never been there). For
+
+402
+
+M. CASTRO ET AL.
+
+instance, mote (a kind of corn) is easy to transport from one place to another, however, is not that simple to include it to everyday meals: "When I was younger I ate spicy mote, wheat, green potato stew more often, as well as chilcan3 and ulpada.4 My mother taught me how to cook. Now she only prepares these meals from time to time in August" (J., personal communication, May 22, 2017). Another experience that expresses some differ ences in preparations shows that
+" . . . the mote is corn, white corn, they are big, there are others that are small, well, these are big, and with cheese, the cheese is . . . not the creamy cheese . . . there is another tough cheese that I don't know what it is called here, there we call it ´quesillo´, there are different ones, there are sheep's, cow's, more is served with the sheep's, it is tastier and tough" (O., personal communication, June 19, 2017).
+The community memory of dishes made of maize, potatoes, or peppers is one of the substantial elements that link all those families together and strengthen the connection with their home territory. As we can see in Figure 2, more than 50% of the food mentioned are shared between families in both territories, which might suggest a strong continuity of food practices from their home territory. Simultaneously, many dishes mentioned in highlands are not replicated in lowlands and, according to fieldwork, this is due to three main causes: a) those are considered by interviewees as food "of yore" b) they required long processes of elaboration and c) many of them are especially made for particular celebrations.
+When it comes to Andean celebrations, both food and beverages have an important place. In this sense, the chicha (or "Andean beer") is a very important drink with a preHispanic origin and is widespread throughout South America. The chicha "is a beverage made from corn fermented with a low alcohol content ­ made from boiled, chewed and fermented corn in vessels of ceramics" (Cremonte, Otero, and Gheggi 2009, 76). This process of elaboration with saliva has also been modified; however, its preparation process requires a lot of time for every step of its production (ibid), so currently, during celebrations, its consumption is accompanied by other drinks such as wine.
+One particular celebration is All Saints Day (November 1st), which is experienced differently according to each family. However, there are key elements that cannot be missed:
+
+" . . . We always had that tradition, a week before my mom starts to cook and wait for the souls the entire day, so we put together an altar at home with pictures, flowers and food that the deceased loved while alive . . . wine, soup, coca for chewing . . . " (H., personal commu nication, November 8, 2015).
+
+"A: In All Saints Day, for example it is tradition to make bread with different forms. You have to make dough and then the bread in the form of the person who died (or other thing) . . . for example, my father passed away some years ago and my mother every November prepares it . . . We do that because we believe his spirit travels and stays two days in the family and you have to make him his favorite food, you cook for him . . .
+Q: And what did your dad like? What do you cook for him?
+A: Spicy chicken, that is what we cook here for him [in Florencio Varela] . . . " (D., personal communication, June 19, 2017).
+
+FOOD, CULTURE & SOCIETY
+
+403
+
+In contrast to a distinct appreciation regarding types of food around Andean festiv ities, such as the Pachamama celebrations in August, there are typical dishes that are no longer cooked because of their difficulty or lack of time,
+" . . . that's what people from the North [in Jujuy] used to have for the time in August, they make ´Tijtinchas5´ and mommy knew how to make a soup and loved it (. . .) like now on May 25th the ´locro´ . . . of course that, while she was making that soup, we were looking for stones and putting them on the fire, on the coals . . . " (N., personal communication, May 26, 2017).
+
+The "food alliance" that these families implement with other upland communities migrant families (e.g., from the Bolivian high plateau)
+The diagram (Figure 2) shows that the food consumed in Florencio Varela has a strong footprint from the Bolivian community that currently inhabit the metropolitan area of Buenos Aires. That is to say, that migrant families from Jujuy and other Andean regions use the influence of this community in the area to obtain ingredients and spices that resemble the ones they know (or kept in their family memory) to produce, elaborate, and consume food. The availability of these important goods in this particular region is organized in fairs, retailers, and family members that bring periodically food supplies (although not exclu sively) to sell or share inside the community. On this subject, some of our interviewees in the lowlands have mentioned that when "My mother and/or my grandmother comes to visit me, she brings different stuff, like potato, condiments, even so tamales and when I go I try to do the same" (M., personal communication, September 10, 2014). Or "When my mother comes, she brings the tomatoes frozen, she buys them and she brings them to me. Until recently she sent me api (a beverage made from purple corn)" (P., personal commu nication, June 19, 2017).
+The continuous use of this "circuit" turns into a distinctive incorporation of cultural food patterns that are not present in the historical trajectory of the Central Andeans migrant population.
+Interestingly enough, while in lowlands this "food alliance" is one of the most important strategies to obtain raw ingredients to replicate the known food culture, in the territory of origin there is a strong willingness to differentiate those Argentinian Andean food patterns from Bolivian Andean families. Thus, the distinction between these ecological neighbors consist of small but significant details, for instance, the order of dishes or the incorporation or elimination of some flavors (first the soup and then the main dish, avoid specific spices like coriander).
+Despite this fact, Bolivian dishes represented in the diagram (Figure 2) are scarcely expressed in our sample. In this sense, we would have expected a greater amount of dishes in this area given that ingredients and preparation knowledge are widely available.
+The importance of a group of ingredients and spices that are intended to be kept in both territories
+From the combined analysis of the Diagram (Figure 2) and the Graph (Figure 3), we can identify those elements that have a higher frequency or appearance in fieldwork. Table 5
+
+404
+
+M. CASTRO ET AL.
+
+Table 5. Elements´ frequency of mentions and frequency of incorporation in a dish.
+
+Element
+
+# times mentioned as ingredient
+
+# frequency in dishes
+
+Spices
+
+12
+
+36
+
+Potatoes (in every way)
+
+5
+
+26
+
+Meats (chicken, lamb, cow, llama, pork)
+
+10
+
+22
+
+Cereals in general
+
+5
+
+17
+
+Herbs
+
+8
+
+8
+
+Fruits
+
+5
+
+5
+
+Quinoa
+
+1
+
+4
+
+Animal Giblets
+
+6
+
+8
+
+shows most of the ingredients grouped by the different ways in which they were mentioned, for instance, potatoes fried, frozen (chunios), straight, in stews, and so on or several types of meat in their different outcomes. In addition, this chart presents how many times these elements are incorporated in the dishes analyzed above. Therefore, there are five ways in which maize was mentioned or observed and there are twenty-two dishes that have it incorporated in their recipe.
+The dishes with the higher centralization indexes are soups, casseroles, and hotpots. As expected, those with a bigger amount of ingredients are those with higher centrality. However, it was only when we crossed the information regarding ingredients and frequencies that we could identify that the most significant ingredients are maize, potatoes, and meats. As well, Andean food uses a very large variety of spices, which are daily used in both territories. In this sense, one interviewee who has relatives in other part of the Andean Area, specifically in the high plateau in Bolivia, said:
+"Q: And how do you prepare the "spicy chicken"?
+A: Here [in Florencio Varela]? I usually prepare it with sweet pepper and it results a little spicy, but when I was there [in Central Andes]. I have realized I was making it in the wrong way . . .
+Q: And so how is it?
+A: There, they use a pot ´ají´, and it is very very spicy . . .
+Q: That is too spicy . . . and do you use everything, even the seeds?
+A: Yes, but you throw the seeds into the fire and you need to burn the ´ají´ and the seeds a little, then you wash the ´ají´ and you burn it again. After that, you must grind it, here I use the blender but there my grandma uses the ´batán´. The ´batán´ is a grindstone. There are different kinds of grindstone . . . " (O., personal communication, May 10, 2016).
+On the contrary, the quinoa that became very popular during the last decade is not frequently used in highlands nor in lowlands. Although currently quinoa plays a key role as a tourist attraction, being a local asset and a global commodity, few people actually use it.
+Fruits are not widely popular in our sample. Part of the fruits mentioned is not originally from any of these territories. Papaya and platano are generally localized in Bolivian rainforest food practices (not in the Andes). Oranges are fully incorporated in the local population, mainly due to institutionalized circuits such as schools. Finally,
+
+FOOD, CULTURE & SOCIETY
+
+405
+
+poko6 is the only upland local fruit with a strong sense of place and a particular representation of highland territories.
+In addition, the important herbs are ancañoca, yerba buena, muña muña, anka, rica rica and mint, all of them easily found in highlands. All of them have a special use, mainly for infusions, sometimes accompanying the yerba mate and some even for medicinal purposes.
+
+Discussion and conclusions
+We would like to conclude with a discussion over three main issues that our findings suggest.
+
+Data collection, processing, and analysis
+Methodological strategy for this research involved mixed methods, which provide opportunities to integrate qualitative and quantitative data and procedures at every stage of the research project (Creamer 2018, 2). This integration is grounded in the very conception of the research design that included methodological triangulation and a recursive engagement when incorporating new data (primary or secondary sources) or new analysis (results or outputs).
+Other methodological challenges were (partly) coped with addressing non-textual memories and incorporating material culture as one of the primary elements of analysis. All the information regarding food practice and representations was obtained by ethno graphic fieldwork, interviews, and observations: every recipe was narrated or cooked in the framework of the project, situated both in public places and in private ones. This allowed us to see memory mechanisms and senses of belonging that are absolutely anchored in ways of cooking and "familiar" flavors. It also made us closer to the territories where all food practices take place and are connected through different paths, looking for a way to remain active.
+In addition, every record was systematized through R software, making it possible to manage a considerable volume of information. That is how we were able to process all dishes, ingredients, culinary features, geographical allocation. This part of the approach allowed us to quantify information in the stories and the use of certain strategies for cooking, flavoring, sharing, exchanging, replacing, and forgetting.
+At the end of the process, we built the ingredient network through the Social Network Analysis method, implementing a relational approach where every dish is connected through the inclusion of the same ingredients. This methodological decision highlights the importance of particular ingredients, which influence centrality measures of certain dishes and subgroup formation including the big component. These and other metrics understudy bring about the analysis of emergent properties, such as the impact of network structure in both territories and the implications for food access within the migrant context considering peripheral nodes.
+
+Dishes and Ingredients in highlands and lowlands
+On the one hand, ingredients' replacement in the highlands is related to the prestige associated with industrial food over food elaborated with local and non-industrial ingredients. On the
+
+406
+
+M. CASTRO ET AL.
+
+other hand, not surprisingly this coexists with strong local identity recognition displayed in tourism spots. Although it seems contradictory, many people go along with both tendencies. In this context, these food replacement strategies and changes are framed within processes of globalization, which can be "manifested not only in the content of food items but also in how they are served" (Tam 1997, 299) and at the same time, it can be considered as " . . . a complex set of meanings and intentions that individuals subjectively use to assert who they are" (James 1994, 54). These individual experiences, including both differentiation and identification, allow us to observe that food consumption is being shaped through changes in the "culinary grammars" that are at the core of the process of gastronomic hybridization.
+A few questions remain unanswered, according to the logic of each territory: how is considered the value of time dedicated to food cooking or consuming? How much time is well spent? What kind of "food behavior" makes you closer to the so-called "modernity"? How prestige operates in the balance between time for preparation and consumption? From the `70s onwards, industrial food was incorporated into the options at local shops, making an irreversible shift, especially in highland urban areas. From then on, processed food would be available, making it possible to replace certain long-time-consuming ingredients (such as maize or spices) for get-it-at-the-shop products (rice, noodles, and sweets).
+Ingredient replacement in lowlands is related to the lack of access and the positive inclination toward a less-time consuming food elaboration. Both reasons displace those dishes that are hard to elaborate or to obtain for industrialized food in everyday diet. At some point, urban context favors the setting for "modernity", where hardly anybody produces the food they consume and everything is fast, against the idea of slowness and self-autonomy that rural areas carry with.
+Finally, Bolivian food in Jujuy highlands is negligible, and this is a very interesting fact about differences between Andean regions. However, in Florencio Varela and surround ing areas, it is greatly appreciated because it establishes the accessibility and the oppor tunity to buy elements in lowlands to reproduce the food from home territory. For example, one of the interviewee said,
+"G. also knew where they sell those things from Bolivia and she is from Jujuy and they are just there . . . One day she went to the fair after visiting me . . . and there it was all the stuff [from Bolivia and Jujuy] and then bought ´red api´ that is like the corn flour, they sell it there" (P., personal communication, June 19, 2017).
+This represents flexible identity processes and a relational sociocultural position dis played in many migration phenomena, in which roles and other foods are reconfigured.
+
+Culinary culture and food sovereignty
+The case analyzed in this article shows that migrant populations in lowlands tend to consume those meals and ingredients originated in highlands, actively keeping strong bonds between both territories while recreating their social and individual identities. As an always changing cultural trait, the identity-building process is shaped by different dimensions and elements (Barth 1969), including food practices which frequently add new features, abandon others, or resignify them in different places or times. In other words: mixing ingredients, practicing different ways of cooking, using multiple material
+
+FOOD, CULTURE & SOCIETY
+
+407
+
+kitchen utensils are the rules. However, far away from considerations that tend to simplify these phenomena alleging some sort of "purity" in food culture (or even an "essence" in identities), we argue that this kind of blend is not at all random. Every time a new ingredient is added, it is then part of a larger set, a unified one (not necessarily coherent) which, in turn, was deconstructed and recombined (Appadurai 1988).
+As mentioned above, part of this migrant society would like to fit global modernity and others would strengthen local identities. This may look like a contradiction, jeopardizing the idea of food sovereignty. Tourism industry pushes local food practices to revalue, at the same time that many people's daily habits tend to "modern" practices (plastic table cutlery, ultra-processed food consumption, heterogeneous technol ogy, etc.).
+As the food is a "situated event" and the sovereign framework includes the right to produce and consume adequate cultural and nutritional food, we argue that the access and control over the food they have is the key to food sovereignty in the context of migration. However, food sovereignty is a concept that is implemented in different ways, all around the peasant and indigenous world. In a sense, it is a goal to achieve and there are several paths to accomplish that. Ethnographic data suggest that migrant families are very aware of the health and cultural danger in keeping industrial food patterns. Then, they try to recreate food patterns, learned in their homeland and from their family. Nevertheless, it is not an easy task nowadays, and they struggle to fulfill their require ments at different levels, including individual and collective ones.
+Food practices and representations analyzed in this article revealed the possibility for identity reaffirmation ­ maintenance of a food sovereignty, not as the concept tradition ally discussed (i.e., family farming, coping with local needs, sustainably produced, culturally adequate, fair trade, etc.) (Díaz Córdova 2014; Gorban 2010) but from the practice of consumption. This possibility is deployed within the migrant territory, where the relationship between people and land is modified: the appropriation of the landscape is re-dimensioned at the urban conglomerate. Our analysis suggests a firm food identity, which is sustained by a strong sense of commensality, who prefer a compact set of dishes that refers to a particular territory with a defined relationship. This food identity is relocalized in a new context, taking new features and looking for ways to keep the social memory and the home territory closer.
+
+Notes
+1. The movement of a group of people related by kinship ties, creating a social structure in the form of a chain as a strategy for migration. This strategy "is based on the expectation of solidarity and reciprocal exchange to guarantee the social reproduction of its members" (Comas d'Argemir and Pujadas Muñoz 1991, 41).
+2. Although we conducted in these areas our fieldwork, the study universe is much broader and it corresponds to the Andean world. We interviewed these families in Spanish but it is important to note that many use interchangeable terms in other languages (e.g. quechua, aymara) to refer to particular issues, including food. The interviewees have a strong Andean self-perception.
+3. Hot beverage based on maize flour. 4. Cold beverage made with white or purple roasted maize, which can be sweetened.
+
+408
+
+M. CASTRO ET AL.
+
+5. It is a meal based on dry meat and special yellow corn, involving a 12 hours cooking in a special clay pot.
+6. Little red fruit from local highland cactus.
+
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+
+Funding
+This work was supported by the National Agency for Scientific and Technological Promotion (PICT 2013 ­ 1367); National Scientific and Technical Research Council (PIP 2010 ­ 2012); Arturo Jauretche National University.
+
+Notes on contributors
+Mora Castro PhD in Social Anthropology (Buenos Aires University), Assistant Researcher at National Scientific and Technical Research Council (CONICET), Research Lecturer in Health Anthropology in the Arturo Jauretche National University (UNAJ) since 2012.
+Giorgina Fabron PhD in Archaeology (Buenos Aires University), Postdoctoral fellowship (2017­ 2020) at National Scientific and Technical Research Council (CONICET).
+Diego Díaz Córdova PhD in Social Anthropology (Buenos Aires University), Research Lecturer in Nutritional Anthropology in the Lanús National University (UNLa) since 2015.
+
+ORCID
+Mora Castro http://orcid.org/0000-0002-9104-7992 Giorgina Fabron http://orcid.org/0000-0002-0641-1906 Diego Díaz Córdova http://orcid.org/0000-0002-1524-3529
+References
+Agar, M. 2004. "We Have Met the Other and We're All Nonlinear: Ethnography as a Nonlinear Dynamic System." Complexity 10 (2): 16­24. doi:10.1002/cplx.20054.
+Aguirre, P. 2005. Estrategias de Consumo. Qué Comen Los Argentinos Que Comen [Consumption Strategies: What Do They Eat, Those Argentinians Who Eat?]. Buenos Aires: Miño y Dávila.
+Ahn, Y., S. Ahnert, J. Bagrow, and A. Barabási. 2011. "Flavor Network and the Principles of Food Pairing." Scientific Reports 1 (1). doi:10.1038/srep00196.
+Appadurai, A. 1988. "How to Make a National Cuisine: Cookbooks in Contemporary India." Comparative Studies in Society and History 30 (1): 3­24. doi:10.1017/S0010417500015024.
+Barsky, A. 2013. "Managing Diversity in the Peri Urban Territory from State Institutions Complexity: Public Policies Implementation for Farming Sustainability within the Borders of the Buenos Aires Metropolitan Area" [Gestionando la diversidad del territorio periurbano desde la complejidad de las instituciones estatales. Implementación de políticas públicas para el sostenimiento de la agricultura en los bordes de la región metropolitana de Buenos Aires]. PhD diss., University Autónoma de Barcelona.
+Barth, F. 1969. Ethnic Groups and Boundaries. The Social Organization of Culture Difference. Boston: Little Brown.
+
+FOOD, CULTURE & SOCIETY
+
+409
+
+Baur, M. 2008. "Visone - Software for the Analysis and Visualization of Social Networks." PhD diss., University of Fridericiana in Karlsruhe (TH). Germany.
+Bellotti, E. 2015. Qualitative Networks: Mixing Methods in Social Research. London: Routledge. Beyers, L. 2008. "Creating Home. Food, Culture & Society." Food, Culture and Society 11 (1): 7­27.
+doi:10.2752/155280108X276014. Borgatti, S., and M. Everett. 2000. "Models of Core/periphery Structures." Social Networks 21 (4):
+375­395. doi:10.1016/S0378-8733(99)00019-2. Canelo, B. 2006. Migrantes del Área Andina Central y Estado Porteño Ante Usos y Representaciones
+Étnicamente Marcados de Espacios Públicos [Central Andes Migrant People and Buenos Aires State: Uses and Representations Ethnically Marked in Public Spaces]. Buenos Aires: CLACSO. Castro, M., and F. Fabron. 2018. "Saberes y prácticas alimentarias: familias migrantes entre tierras altas y bajas en Argentina" [Food knowledge and practices: migrant families between uplands and lowlands in Argentina]. Estudios Sociales Revista de Alimentación Contemporánea y Desarrollo Regional 51(18). doi: 10.24836/es.v28i51.510 Comas d'Argemir, D., and J. J. Pujadas Muñoz. 1991. ""Migrant Families: Identity Reproduction and Sense of Belonging" [Familias Migrantes: Reproducción De La Identidad Y Del Sentimiento De Pertenencia]." Papers 36: 33­56. Contreras Hernández, J., and M. Gracia Arnaiz. 2005. Alimentación y Cultura: Perspectivas Antropológicas [Food and Culture: Anthropological Perspectives]. Barcelona: Ariel. Coté, C. 2016. "Indigenizing Food Sovereignty. Revitalizing Indigenous Food Practices and Ecological Knowledges in Canada and the United States." Humanities 5 (3): 57. doi:10.3390/ h5030057. Creamer, E. 2018. "Striving for Methodological Integrity in Mixed Methods Research: The Difference between Mixed Methods and Mixed-Up Methods." Journal of Engineering Education 107 (4): 526­530. doi:10.1002/jee.20240. Cremonte, M. B., C. Otero, and M. S. Gheggi. 2009. "Reflexiones sobre el consumo de chicha en épocas prehispánicas a partir de un registro actual en Perchel (Dpto. Tilcara, Jujuy)" [Reflections on the consumption of chicha in pre-Hispanic times from a current record in Perchel (Dto. Tilcara, Jujuy)]. Relaciones de la Sociedad Argentina de Antropología XXXIV: 75­102. Csardi, G., and T. Nepusz. 2006. "The Igraph Software Package for Complex Network Research." InterJournal, Complex Systems. http://igraph.org Díaz Córdova, D. 2014. "Food Sovereignty: Some Advantages for a Concept Emerged from Peasant Basis [Soberanía Alimentaria: Algunas Ventajas De Un Concepto Surgido De Las Bases Campesinas]." In Sustainable Environments [Ambientes Sustentables], edited by M. Gavirati, 43­50. Buenos Aires: Law and Social Sciences Department. http://www.sociales.uba.ar/wpcontent/uploads/INTERIOR-Socialesendebate7-IMPRENTA-sin-demas%C3%ADas.pdf Díaz Córdova, D. (2015). "Antropología alimentaria de la Quebrada de Humahuaca. Modos de producción, patrón alimentario y sus efectos sobre el cuerpo y la salud de la población quebradeña" [Food anthropology of the Quebrada de Humahuaca. Modes of production, dietary pattern and its effects on the body and health of the population of the Quebrada]. PhD diss., University of Buenos Aires Díaz Córdova, D. 2016. "Methodological Advances Applied to Anthropology of Food: Agent Based Modelling and Social Network Analysis." Salud Colectiva 12 (4): 635. doi:10.18294/sc.2016.1008. Díaz Córdova, D., G. Fabron, and M. Castro. Forthcoming. Ethnography and Mixed Methods Approach: The Role of Observation in Food Anthropology. Duque-Páramo, M. C. 2008. "Colombian Children in the United States: Agency, Identities and Cultural Changes." Revista Colombiana De Antropología 44 (2): 281­308. Fabron, G., and M. Castro. 2019. "Small Scale Agriculture in the Highlands and Lowlands: A Comparative Study between the Quebrada De Humahuaca and Florencio Varela." Mundo Agrario 20 (43): e109. doi:10.24215/15155994e109. Fabron, G., M. Castro, and D. Díaz Córdova. 2018. "Cuando Los Alimentos Vienen Marchado: Prácticas Alimentarias y Procesos de Migración en la Zona Sur del Conurbano Bonaerense." [When the food goes marching in: Food practices and migration processes in the southern part
+
+410
+
+M. CASTRO ET AL.
+
+of the Buenos Aires periurban area] Paper presented at the XII Mercosur Anthropology Meeting, Posadas, December 4­7. Fischler, C. 1988. "Food, Self and Identity." Social Science Information 27 (2): 275­292. doi:10.1177/053901888027002005. Golovanevsky, L., and A. Ramírez. 2014. "Población rural en Jujuy: Dinámica, empleo y condiciones de vida según los censos de población del siglo XXI" [Rural population in Jujuy: Dynamics, work and life conditions according to twenty-first century censuses]. Paper presented at the 3rd National Workshop on Regional Studies and Work Markets, San Salvador de Jujuy, September 4­5. Gorban, M. 2010. "Hablemos De Soberanía Alimentaria [Let's Talk about Food Sovereignty]." Diaeta 28 (131): 18­19. Grosjean, P. 2014. SciViews-R: A GUI API for R. MONS, Belgium: UMONS. http://www.sciviews. org/SciViews-R Grothendieck, G. 2017. "Sqldf: Manipulate R Data Frames Using SQL." https://CRAN.R-project. org/package=sqldf Hadley, V., F. Romain, L. Henry, and K. Müller. 2018. "dplyr: A Grammar of Data Manipulation." https://cran.r-project.org/package=dplyr; https://CRAN.R-project.org/package=dplyr Holtzman, J. D. 2006. "Food and Memory." Annual Review of Anthropology 35 (1): 361­378. doi:10.1146/annurev.anthro.35.081705.123220. Hoover, E. 2017. "You Can't Say You're Sovereign if You Can't Feed Yourself": Defining and Enacting Food Sovereignty in American Indian Community Gardening." American Indian Culture and Research Journal 41 (3): 31­70. doi:10.17953/aicrj.41.3.hoover. Huang, R. 2018. "RQDA: R-based Qualitative Data Analysis." http://rqda.r-forge.r-project.org/ "http://rqda.r-forge.r-project.org James, A. 1994. "Cuisiner Les Livres. Identités Globales Ou Locales Dans Les Cultures Alimentaires? [Cooking Books. Global or Local Identities in Food Cultures?]." Anthropologie Et Sociétés 18 (3): 39­56. doi:10.7202/015327ar. Koc, M., and J. Welsh. 2014. "Alimentos, prácticas alimentarias y experiencia de la inmigración [Food, practices and immigration experience]." In Enfoques Socioculturales de la Alimentación: Lecturas Para el Equipo de Salud [Sociocultural Approaches to Food: Readings for the Health Team], edited by L. Piaggio and A. Solans, 212­229. Buenos Aires: Akadia Editorial. Mintz, S. W., and C. M. Du Bois. 2002. "The Anthropology of Food and Eating." Annual Review of Anthropology 31 (1): 99­119. doi:10.1146/annurev.anthro.32.032702.131011. National Institute of Statistics and Censuses (INDEC). 2012. National Census of Population, Households and Dwellings 2010 Final results. Buenos Aires: National Institute of Statistics and Censuses (INDEC). https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-41-135. Nazarea, V. 2006. "Local Knowledge and Memory in Biodiversity Conservation." Annual Review of Anthropology 35 (1): 317­335. doi:10.1146/annurev.anthro.35.081705.123252. Nielsen, A. 2001. "Evolución Social en la Quebrada de Humahuaca (AD 700-1536) [Social Evolution in Quebrada de Humahuaca (AD 700-1536)]." In Historia Prehispánica Argentina [Prehispanic Argentinian History], edited by E. Berberián and A. Nielsen, 171­264. Córdoba: Editorial Brujas. R Core Team. 2017. R: A Language and Environment for Statistical Computing. Vienna, Austria: R Foundation for Statistical Computing. https://www.R-project.org/ Reboratti, C., ed. 2003. La Quebrada: Geografía, Historia Y Ecología De La Quebrada De Humahuaca [The Quebrada: Geography, History, Ecology of the Quebrada de Humahuaca]. Buenos Aires: La Colmena. Smith-Morris, C. 2016. "The Traditional Food of Migrants: Meat, Water, and Other Challenges for Dietary Advice. An Ethnography in Guanajuato, Mexico." Appetite 105: 430­438. doi:10.1016/j. appet.2016.06.001. Soleri, D., D. A. Cleveland, and F. Aragón Cuevas. 2008. "Food Globalization and Local Diversity: The Case of Tejate." Current Anthropology 49 (2): 281­290. doi:10.1086/527562. Tam, S. M. 1997. "Eating Metropolitaneity: Hong Kong Identity in Yumcha." Australian Journal of Anthropology 8 (3): 291­306. doi:10.1111/j.1835-9310.1997.tb00342.x.
+
+FOOD, CULTURE & SOCIETY
+
+411
+
+Teng, C. Y., Y. R. Lin, and L. A. Adamic. 2012. "Recipe Recommendation Using Ingredient Networks." In Proceedings of the 4th Annual ACM Web Science Conference, 298­307. Evanston, Illinois: Association for Computing Machinery (ACM). doi:10.1145/2380718.2380757.
+Treakle, J., and R. Krell. 2014. Territorial Development and Local Knowledge Systems Engaging Local Farming Knowledge through a Right-based Approach to Agricultural Development. Rome: Food and Agriculture Organization of the United Nations (FAO).
+Tuomainen, H. M. 2009. "Ethnic Identity, (Post) Colonialism and Foodways." Food, Culture & Society 12 (4): 525­554. doi:10.2752/175174409X456773.
+Wasserman, S., and K. Faust. 2018. Social Network Analysis: Methods and Applications. 4th ed. Cambridge: Cambridge University. doi:10.1017/CBO9780511815478.
+Wickham, H., R. François, L. Henry, and K. Müller. 2018. "Dplyr: A Grammar of Data Manipulation." https://CRAN.R-project.org/package=dplyr
+
+Appendix
+
+id (DISHES)
+
+degree betweenness closeness (%) clustering coefficient girvan newman (GNC) core
+
+Anise
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Poko
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Alegia
+
+1
+
+0
+
+0.172
+
+1
+
+60
+
+1
+
+Coca
+
+1
+
+0
+
+0
+
+1
+
+60
+
+1
+
+Bolivian peanut
+
+1
+
+0
+
+0
+
+1
+
+59
+
+1
+
+Wheat ­ Flour
+
+1
+
+0
+
+0
+
+1
+
+59
+
+1
+
+Toasted broad bean
+
+2
+
+0
+
+0
+
+1
+
+59
+
+2
+
+Blood sausage
+
+2
+
+0
+
+0.172
+
+1
+
+59
+
+2
+
+Tortilla blood sausage
+
+2
+
+0
+
+0
+
+1
+
+59
+
+2
+
+Amaranth
+
+3
+
+0
+
+1.096
+
+1
+
+59
+
+3
+
+Toasted maize
+
+3
+
+0
+
+0
+
+1
+
+59
+
+3
+
+Anchi
+
+4
+
+6.667
+
+1.187
+
+0.5
+
+59
+
+3
+
+Cheese with broad bean
+
+4
+
+3.119
+
+0.172
+
+0.5
+
+59
+
+3
+
+Bread ­ dough
+
+4
+
+0
+
+0
+
+0.5
+
+59
+
+4
+
+Pealed maize
+
+4
+
+1.028
+
+0.172
+
+0.833
+
+59
+
+3
+
+Stuffed round courgette (chicken)
+
+4
+
+0
+
+0
+
+0.833
+
+59
+
+4
+
+Calapi
+
+4
+
+0
+
+0.6
+
+1
+
+59
+
+4
+
+Ulpada
+
+4
+
+0
+
+0
+
+1
+
+59
+
+4
+
+Api
+
+5
+
+7.167
+
+0.821
+
+0.6
+
+59
+
+3
+
+Apileche
+
+5
+
+7.167
+
+0.698
+
+0.6
+
+59
+
+3
+
+Tocori
+
+5
+
+8.976
+
+0.172
+
+0.6
+
+59
+
+4
+
+Piri
+
+6
+
+50
+
+0.517
+
+0.466
+
+59
+
+4
+
+Breaded veal
+
+6
+
+10.005
+
+0.388
+
+0.533
+
+59
+
+5
+
+Cottage
+
+7
+
+25.833
+
+1.014
+
+0.285
+
+59
+
+4
+
+Tamales
+
+7
+
+9.433
+
+0.345
+
+0.476
+
+59
+
+5
+
+Spicy chicken
+
+8
+
+11.688
+
+0.971
+
+0.428
+
+59
+
+6
+
+Stuffed round courgette (beef)
+
+8
+
+17.833
+
+0.172
+
+0.535
+
+59
+
+6
+
+Mote
+
+9
+
+0
+
+0.172
+
+1
+
+59
+
+9
+
+mote with cheese goat
+
+9
+
+0
+
+0
+
+1
+
+59
+
+9
+
+k-clique
+14 17 16 18 18 24.25 15 19,20,21,22,23,24,25 3,7,16 7,8,9 13.15 1,2,5 10,18,19 10,18,19 11,12,21,23,24,25 11,12,21,23,24,25 3,4,6,7,8 10,18,19 2,4,8,9,11,14 5,6,10,12,18,19,20,21,24 1,13,15 1,2,5,10,14,19,20,22 1,2,5,9,11,12 1,2,3,4,5,6,11,12,17 1,2,3,4,5,6,11,12,17
+(Continued)
+
+M. CASTRO ET AL.
+
+412
+
+Appendix (Continued).
+id (DISHES)
+Mote Junket Quinoa salad Anticucho Charque Charque soup Quinua tabbouleh Tijtincha Chunio Quinoa Pie spicy chunio Kalapurca Quispena Chafanina Yagua Picante a lo macho Wheat casserole Quinua casserole Aji de Lengua Falso de pollo Achacana casserole Chairo soup Pampanku Charqui casserole Guts with mote casserole Spicy guts Ulluco soup Charque with Chicken hotpot Beef hotpot Peanut soup
+
+degree betweenness closeness (%) clustering coefficient girvan newman (GNC) core
+
+k-clique
+
+11
+
+22.421
+
+0.552
+
+0.672
+
+59
+
+9 1,2,3,4,5,6,7,8,9,10,11,12,17,19,20,21,22,23
+
+13
+
+0
+
+4.147
+
+1
+
+59
+
+13
+
+1,2,3,4,7,8,9,11,14
+
+14
+
+1.223
+
+1.639
+
+0.901
+
+59
+
+13
+
+1,2,3,4,7,8,9,13,14,15,16
+
+15
+
+0.727
+
+1.003
+
+0.495
+
+59
+
+9 1,2,3,4,5,6,7,8,9,11,12,17,20,21,22,23,24,25
+
+15
+
+29.222
+
+1.261
+
+0.742
+
+59
+
+13
+
+1,2,3,4,7,8,9,13,14,15,16
+
+15
+
+1.428
+
+2.599
+
+0.942
+
+59
+
+14
+
+1,2,3,4,7,8,9,11,13,14
+
+16
+
+39.444
+
+1.005
+
+0.675
+
+59
+
+13
+
+1,2,3,4,7,8,9,13,14,15,16
+
+16
+
+2.917
+
+1.312
+
+0.875
+
+59
+
+13
+
+1,2,3,4,5,6,7,8,9,10,13,14,15,16
+
+19
+
+2.174
+
+4.723
+
+0.643
+
+59
+
+14
+
+1,2,3,4,7,8,9,11,14,16
+
+19
+
+2.917
+
+1.769
+
+0.771
+
+59
+
+14
+
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+
+20
+
+24.367
+
+3.752
+
+0.547
+
+59
+
+14
+
+1,2,3,4,7,8,9,11,14,17,22,23,25
+
+20
+
+109.171
+
+2.415
+
+0.563
+
+59
+
+14
+
+1,2,3,4,5,6,7,8,9,10,13,14,17,18,19,20,22
+
+20
+
+34.468
+
+3.08
+
+0.568
+
+59
+
+14
+
+1,2,3,4,5,6,7,8,9,10,11,12,13,17
+
+21
+
+45.974
+
+0.873
+
+0.614
+
+59
+
+13
+
+1,2,3,4,5,6,7,8,9,11,12,13,14,15,16,17
+
+21
+
+15.042
+
+3.816
+
+0.709
+
+59
+
+14
+
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17
+
+21
+
+6.704
+
+4.26
+
+0.728
+
+59
+
+14
+
+1,2,3,4,5,6,7,8,9,10,11,12,13,14
+
+21
+
+7.308
+
+4.452
+
+0.738
+
+59
+
+14
+
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,17
+
+21
+
+0
+
+5.362
+
+0.776
+
+59
+
+14
+
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,17
+
+22
+
+22.879
+
+3.188
+
+0.536
+
+59
+
+14
+
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,17
+
+22
+
+12.322
+
+2.638
+
+0.753
+
+59
+
+14
+
+1,2,3,4,5,6,7,8,9,10,13,14,15,16,17
+
+23
+
+34.015
+
+2.056
+
+0.632
+
+59
+
+14
+
+1,2,3,4,5,6,7,8,9,10,13,14,15,16,17
+
+24
+
+47.429
+
+3.068
+
+0.496
+
+59
+
+14
+
+1,2,3,4,5,6,7,8,9,11,12,13,14,15,17
+
+24
+
+43.906
+
+3.522
+
+0.637
+
+59
+
+14
+
+1,2,3,4,5,6,7,8,9,10,13,14,15,16,17
+
+24
+
+10.218
+
+4.431
+
+0.641
+
+59
+
+14
+
+1,2,3,4,5,6,7,8,9,11,12,13,14,17
+
+24
+
+13.996
+
+3.943
+
+0.721
+
+59
+
+14
+
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,17
+
+25
+
+16
+
+3.644
+
+0.69
+
+59
+
+14
+
+1,2,3,4,7,8,9,11,13,14,15,16,17
+
+27
+
+68.398
+
+2.07
+
+0.527
+
+59
+
+14
+
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+
+27
+
+9.949
+
+5.23
+
+0.606
+
+59
+
+14
+
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+
+28
+
+9.415
+
+5.45
+
+0.584
+
+59
+
+14
+
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+
+29
+
+44.785
+
+4.018
+
+0.561
+
+59
+
+14
+
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+
+413
+
+FOOD, CULTURE & SOCIETY
+
+

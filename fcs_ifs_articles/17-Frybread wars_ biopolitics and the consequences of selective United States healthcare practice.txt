@@ -1,0 +1,572 @@
+Food, Culture & Society
+An International Journal of Multidisciplinary Research
+ISSN: 1552-8014 (Print) 1751-7443 (Online) Journal homepage: www.tandfonline.com/journals/rffc20
+Frybread wars: biopolitics and the consequences of selective United States healthcare practices for American Indians
+Courtney Lewis
+To cite this article: Courtney Lewis (2018) Frybread wars: biopolitics and the consequences of selective United States healthcare practices for American Indians, Food, Culture & Society, 21:4, 427-448, DOI: 10.1080/15528014.2018.1480644 To link to this article: https://doi.org/10.1080/15528014.2018.1480644
+Published online: 13 Aug 2018. Submit your article to this journal Article views: 1053 View related articles View Crossmark data Citing articles: 4 View citing articles
+Full Terms & Conditions of access and use can be found at https://www.tandfonline.com/action/journalInformation?journalCode=rffc20
+
+FOOD, CULTURE & SOCIETY 2018, VOL. 21, NO. 4, 427­448 https://doi.org/10.1080/15528014.2018.1480644
+
+Frybread wars: biopolitics and the consequences of selective United States healthcare practices for American Indians
+Courtney Lewis
+Department of Anthropology and the Institute for Southern Studies, University of South Carolina, Columbia, United States
+
+ABSTRACT
+The simplicity of American Indian frybread, composed only of flour, water, salt, and lard, belies a complex--and contentious-- history and ecology. Tracing this bread's ecology allows us to map the broader physical and epistemic violence levied by US settlercolonial society, specifically against the American Indian body under the guise of "healthcare," while also evincing the agency of American Indians during these times of violence. This is shown initially through the problematics of a specific case in which nonNative medical industry professionals targeted frybread as a food
+to be banned. While seemingly a minor inconvenience, this inci-
+dent recalls more vicious actions by settler-colonial society to
+control and regulate American Indian bodies, such as through
+the violence of forced sterilizations during the late twentieth century. Using this specific American Indian framework to situate Foucault's biopolitics model provides vital insight into the spectrum of medicalized colonialism tactics that attempt the physical
+and symbolic removal of American Indians. Analyzing these struc-
+tural forces furthers our understandings of the complex linkages between foodways conflicts (here, regarding the history, consumption, and continuance of frybread) and some of society's most acute and pressing issues, such as poor health outcomes among
+American Indians.
+
+KEYWORDS American Indian; foodways; healthcare policy; food sovereignty; biopower; settler-colonialism
+
+The great frybread war
+Having lived throughout the Detroit metro area for many years, I always look forward to getting regular updates from friends and colleagues in the area's American Indian community, which is sizable at nearly 48,000 residents (Kay et al. 2011). One afternoon, several years after moving from Michigan, I received a call from Kay McGowan (Choctaw descendant) recounting a peculiar incident that had just occurred at the American Indian Health and Family Services (AIHFS) center in Detroit. At the time, Kay was a professor of American Indian Studies at Marygrove College, and her twin sister, Faye, was the executive director of the Detroit AIHFS. The AIHFS is usually a supportive, sometimes even joyous, place of respite from the occasionally harsh realities of living in the Detroit metro area. But, on this day, a battle had emerged. Normally, when issues arise at the center, they concern funding or local policy changes. The
+CONTACT Courtney Lewis CALewis@sc.edu © 2018 Association for the Study of Food and Society
+
+428
+
+C. LEWIS
+
+subject this time was a bit more unusual: it was frybread, a particular American Indian food of fried, flat wheels of dough. The incident would come to be known at the center as the Great Frybread War.
+This incident began when the AIHFS center attempted to address the disease of diabetes, which has reached epidemic proportions in Indian Country, with some Native Nations having nearly all of their adult populations affected (IHS 2012). The AIHFS center had hired two non-Native dietitians to consult with the AIHFS community on this and other health issues. During their AIHFS community lecture, these dietitians naively insisted that American Indians1 must stop eating all frybread. They then demanded that frybread be banned from the center. This would become the match in the powder keg for this AIHFS community. The dietitians were promptly reprimanded and nearly fired.
+In the twenty-first century, Native Nations are asserting their sovereignty in ways that were legally impossible even fifty years ago due to significant federal policy changes that occurred from the late 1960s through the 1970s. These political gains, achieved through Native Nation and American Indian efforts during the Red Power movement, laid the legal foundations for Native Nations to address and attempt to rectify contemporary challenges. Many of these challenges are externally imposed, such as targeted budget cuts through Justice Department furloughs (New York Times 2013), political attacks that threaten the termination of Native Nations (Galanda 2015), overt racism (racial slurs masquerading as mascots), and racial violence (the highest rate of police violence is that committed against American Indians [Lakota People's Law Project 2015]). In addition to these pressing issues, American Indian citizens also face less publicized external challenges in the form of daily acts of aversive racism, microaggressions, and micro-invalidations.2 In the wake of the impacts of the 2013 sequester,3 which led to the federal government's severe underfunding of contractually obligatory American Indian programs, these so-called micro-issues are often relegated to the margins of discussion, deemed unimportant by settler-colonial society4 and occasionally discounted within the conversations of American Indians themselves (Pensoneau 2015). I argue instead that scrutiny of "micro" issues--here a ban on frybread--reveals such events as a site in which we can see settler-colonial biopower exercised against Native bodies. The term "biopower" was coined by Foucault to describe a technology of power used by states to control the physical bodies of a population (Foucault 1997, 247). This focus on issues of bodily agency and consent lays the foundation for some of the most critical challenges that Native Nations and American Indians face today. This paper utilizes the conflicts and debates concerning frybread to explore the US federal government's and wider settler-colonial society's use of biopower as seen through medicalized control and manipulations of the American Indian body in healthcare practices and policies.
+Frybread may seem to be just another food designed to deliver maximum caloric intake in the smallest possible package; however, as AIHFS community members understood well, the symbolic meaning of frybread reaches much deeper. The attempted frybread ban represented, in a very real and profound way, yet another chipping away at Native identity and Native symbols of strength by the US federal government and the larger settler-colonial society that surrounds American Indians physically and attempts to subjugate them politically. Historically, this chipping away
+
+FOOD, CULTURE & SOCIETY
+
+429
+
+has occurred overtly through tactics such as boarding schools and relocations. Today, this chipping away is no longer accomplished primarily through explicit physical violence (i.e., Foucault's "sword" [Foucault 1990, 136, 144, 147; Foucault 1984, 259]).5 It is now also performed in consort with medicalized bureaucracy presented as "healthcare," as will be shown through the history and practices of the Bureau of Indian Affairs (BIA) and the associated Indian Health Services (IHS). In unpacking this bureaucracy, we see that the violence wrought by the sword is now also enacted by a healthcare scalpel. An examination of the federal government's American Indian sterilization tactics in recent decades demonstrates continued settler-colonial practices of manipulating American Indian bodies in an effort to reduce their overall population. Through these examinations of biopolitics in recent history, from frybread to sterilizations, this paper brings to light the links between these seemingly disparate healthcare practices, showing how they coalesce to form the systemic medicalization of colonialism. This medicalization attempts to diminish American Indian survival both physically and symbolically; the results of these actions are readily apparent in the contemporary picture of substandard American Indian health today.
+
+Frybread activism
+Certainly, the entrenchment of poverty in the United States, along with pervasive racism, sexism, violence, joblessness, and exploitative wage labor, and other forms of social inequality--subsumed under the rubric of structural violence--find multiple manifestations in both the health status of certain populations and the disparities in healthcare delivery. (Rylko-Bauer and Farmer 2002, 480)
+The lore of frybread told in popular media, as well as informally amongst American Indians (Fonseca 2017), posits this food as a material legacy of resistance and survival after forced relocation; as such, the role that frybread currently plays in American Indian communities throughout Indian Country is at once fundamental, dynamic, and disputed. The purported history of American Indian frybread as we know it today began in 1864, when approximately 9,000 Diné (Navajo) men, women, and children were marched 483 kilometers to Fort Sumner, a holding area and precursor to a reservation. As they left their homeland, the military under Colonel Kit Carson destroyed all of the Diné crops, livestock, and homes. The Diné were incarcerated at Fort Sumner, where they would be interned for five years. During this time, the only access to food supplies came from commodity rations, which included lard, flour, salt, and an iron pot. Consequently, the "ingredients" of military oppression and governmental food commodities blended to create what is now known as frybread.6 When the Navajos returned to a portion of their homeland, now a barren reservation, frybread came with them. Nearly 2,400 of their people died--nearly a third of their nation--in those five years.
+This story of Native Nation removal, starvation, and forced reliance on commodities distributed by the US government was not unique, and so frybread spread swiftly throughout Indian Country. As it spread, other distributed commodity ingredients were included, with sugar and dried milk added to some recipes (dairy intake also continues to compromise the health of American Indians, 75 percent of whom are lactose intolerant [Newcomer et al. 1977]). Although frybread is minimally nutritious,
+
+430
+
+C. LEWIS
+
+its generous caloric value, 700 calories and 27 grams of fat in a 213 gram-per-plate serving (Wagner 2005), was one of many factors in American Indians' survival in holding camps and on reservations in foreign environments, far from access to their homeland's crops and game. The creation of frybread is a part of an American Indian story of survival, and its value today is thus far greater than the sum of its ingredients.
+Frybread has not only transformed over the past 200 years to become a symbol of overcoming seemingly insurmountable adversity but it has also transformed into a symbol of solidarity. Native Nations are strikingly different from one another, but one commonality is that many Native Nations have been forced to contend with US commodity distributions at some point in their history, even if only for a short time. Frybread is a complicated symbol, crossing the vast differences between Native Nations and providing a sense of solidarity in a country in which solidarity efforts between Native Nations have been actively repressed (as evidenced by a strategy of removal with placement of Native Nations on reservations distant from each other). For example, although the legend of frybread claims origination with the Diné, it is now the official bread of the state of South Dakota. The elevation of frybread's status can be seen in many media productions targeted primarily at American Indians but with wider audience appeal. The most well-known reference is from the film Smoke Signals (1998).7 Wearing a Supermaninspired shirt that reads "Frybread Power," Thomas Builds-the-Fire regales Suzy Song with a story about his friend Victor's mom's "magical" frybread, claiming that "they use it for communion back home." Frybread is also the subject of a mockumentary entitled More than Frybread about the World Wide Frybread Association Championship. A main character, Donathon, summarizes the competition by stating that it "unifies the Native Americans." The popularity of this film also inspired a potential television series. Laced with humor, frybread has even emerged as a hero (Figure 1). Representations like these have transformed frybread into an American Indian symbol of solidarity as well as "survivance," defined by Vizenor as "an active sense of presence over absence, deracination, and oblivion" (Vizenor 2008). Survivance is the realized, ongoing process of active continuation and, importantly, presence.
+Frybread as it is generally eaten across the United States today is primarily a food for special occasions, much like cake. However, some of the initial pragmatic attractiveness of frybread rests in its inexpensive, readily available ingredients, which are easily modified to suit needs and tastes. It can be served as a savory meal topped with anything from beans to cheese to meat. It can also be served as a side carbohydrate. For dessert or as a treat, it is commonly seen accompanied by powdered sugar and honey. It can even be modified to be healthier (depending on the chef's definition of healthy). Some recipes call for whole-wheat or low-carbohydrate flour, while others use non-hydrogenated shortening or omit the dried milk and sugar. Some versions are even "air-baked."8
+This malleability in frybread preparation supports the argument that paternalism and aversive racism were at work in the AIHFS controversy described in this paper's introduction. The professionally trained dietitians should have understood how to make "bad foods" into healthier options through limiting intake, reducing portion sizes, and substituting ingredients. Instead, they requested that AIHFS ban frybread. In the eyes of the community members, this choice represented another in a long line of paternalistic orders to which they have been subject. In this case, the insult penetrated even deeper.
+
+FOOD, CULTURE & SOCIETY
+
+431
+
+Figure 1. Frybread Man®. Reproduced by permission of Ryan Huna Smith.
+The US government's violence and paternalism initially forced American Indians to create frybread, but after American Indians reclaimed frybread and transformed it into a symbol of survivance, it was nearly banned in a similarly paternalistic manner. This case of biopolitical food regulation similarly recalls the interventions made by Paxson regarding the microbiopolitics of cheese pasteurization (Paxson 2008). In the same way that pasteurization can be argued to possibly reduce health by carelessly destroying "good" as well as "bad" microbes, this settler-colonial frybread regulation eliminates both the good (survivance representation) and bad (health) impacts of frybread.
+
+432
+
+C. LEWIS
+
+Mass media's influence on the perception of American Indian health
+As in the case of the frybread ban, healthcare industry professionals have perpetuated misguided notions about American Indians' health and well-being. The media enables these narratives, especially through shows focused on health and medical issues. Many academic discourses on foodways focus on the linkages between poverty, diet, and health problems, typically highlighting three primary factors:
+
+(1) Economics: Can people afford--either in money or time--to eat only fast food? (2) Geographic access: Are there grocery stores or markets close to the residential
+areas, or is the area a food desert? (3) Symbolic meaning: How often is a certain food eaten? Why is this food eaten?
+What does it mean to not eat or be able to eat this food?
+
+However, the mass media often ignore these basic considerations in discussions of American Indian health and foodways.
+In 2010, the reality show Losing It, hosted by Jillian Michaels, featured an episode with the Yavapai Apache Nation, focused on the Plunkett-Marquez family. This episode succinctly demonstrates the unnuanced and problematic ways in which frybread is discussed in mass media.9 Three scenes in particular illustrate the broader problematic nature of discourse on American Indian health issues. In the first scene, Michaels begins the program by admitting that she is ignorant of this reservation's underlying issues. Even so, she continues promoting her program's diet and workout regime without any background research on, for example, whether the family members live in a food desert, are in poverty, or work multiple jobs.
+In scene two, we are shown the interaction between Michaels' staff doctor and the Plunkett-Marquez family. First, the show neglects to acknowledge an egregious oversight by the family's healthcare providers: The Plunkett-Marquez family has never been informed by its IHS doctors, who work exclusively with American Indians, that there is a link between obesity and diabetes. (The rate of diabetes among American Indians is 200­420 percent higher than the US average; United States Commission on Civil Rights 2004, 8; see Table 1). This absence of basic dietary and health information helps to explain why the Plunkett-Marquez family and the Yavapai Apache community requested to be featured in an episode of the show, as opposed to receiving medical advice from their family doctors.10 The staff doctor does not focus on this lack of healthcare, however; instead, she makes a point of telling the family that they have "bad genes." Such a statement implies a physical, genetic, and racial inferiority, thereby dismissing the immediate physical impacts of structural inequalities in order to refocus the blame on the inherent bodies of American Indians.
+In a later scene (oddly, the only time Michaels mentions food in a show ostensibly about obesity), Michaels demonstrates her previously acknowledged ignorance when she throws away frybread made in honor of a special occasion. She is completely oblivious to its meaning and use in this context. The children present at the event argue with her in protest, her actions prompting one child to throw the frybread at her in defiance. Even though this scene demonstrates that this is a special-occasion food, Jillian claims that it is
+
+FOOD, CULTURE & SOCIETY
+
+433
+
+Table 1. Disparities in mortality rates between US American Indians and Alaska Natives (AI/AN) in the IHS service area in 1996­98 and 2001­03 and US all races in 1997 and 2002 (age-adjusted mortality rates per 100,000 population).
+
+AI/AN rate All races Ratio: AI/AN to AI/AN rate All races Ratio: AI/AN to
+
+2001­03 rate 2002 US all races
+
+1996­98 rates 1997 US all races
+
+All causes
+
+1042.2
+
+845.3
+
+1.2
+
+1070.8
+
+888.5
+
+1.2
+
+Alcohol induced
+
+43.6
+
+6.7
+
+6.5
+
+45.0
+
+7.3
+
+6.2
+
+Breast cancer
+
+15.4
+
+25.6
+
+0.6
+
+19.8
+
+28.9
+
+0.7
+
+Cerebrovascular
+
+54.7
+
+56.2
+
+1.0
+
+62.8
+
+65.6
+
+1.0
+
+Cervical cancer
+
+4.4
+
+2.6
+
+1.7
+
+5.2
+
+3.2
+
+1.6
+
+Diabetes
+
+75.2
+
+25.4
+
+3.0
+
+77.8
+
+24.2
+
+3.2
+
+Heart disease
+
+234.5
+
+240.8
+
+1.0
+
+272.4
+
+278.1
+
+1.0
+
+HIV infection
+
+3.2
+
+4.9
+
+0.7
+
+3.3
+
+6.5
+
+0.5
+
+Homicide (assault)
+
+12.7
+
+6.1
+
+2.1
+
+12.9
+
+7.3
+
+1.8
+
+Infant deaths (1)
+
+9.8
+
+7.0
+
+1.4
+
+8.9
+
+7.2
+
+1.2
+
+Malignant neoplasm
+
+181.8
+
+193.5
+
+0.9
+
+187.5
+
+207.9
+
+0.9
+
+Maternal deaths
+
+12.7
+
+8.9
+
+1.4
+
+7.8
+
+8.4
+
+0.9
+
+Motor vehicle crashes
+
+51.1
+
+15.7
+
+3.3
+
+43.1
+
+13.9
+
+3.1
+
+Pneumonia/influenza
+
+33.3
+
+22.6
+
+1.5
+
+31.3
+
+23.5
+
+1.3
+
+Suicide
+
+17.1
+
+10.9
+
+1.6
+
+18.0
+
+11.4
+
+1.6
+
+Tuberculosis
+
+1.8
+
+0.3
+
+6.0
+
+2.0
+
+0.4
+
+5.0
+
+Unintentional injuries
+
+93.8
+
+36.9
+
+2.5
+
+98.7
+
+37.3
+
+2.6
+
+Notes: (1) Infant deaths per 1,000 live births. Rates are adjusted to compensate for misreporting of American Indian and Alaska Native race on state death certificates. American Indian and Alaska Native death rate columns present data for the three-year period specified. US all races columns present data for a one-year period. ICD-10 codes were introduced in 1999; therefore, comparability ratios were applied to deaths for years 1996­98. Rates are based on American Indian and Alaska Native alone; 2000 census with bridged-race categories.
+Source: Indian Health Services, 2006.
+
+this particular food that is "killing" them.11 This, again, reflects the ease of identifying one (American Indian-centric) offender while ignoring the impacts of centuries of ongoing settler-colonial policies that continue to have adverse effects on American Indian health. In addition to impacts discussed below, some of these include food deserts created in impoverished areas,12 the promotion of the Standard American Diet (popularly and aptly known by its acronym, SAD), and the distribution of nutritionally deficient commodities (which can be afflictive, as in the case of dairy products given to commonly lactoseintolerant American Indian communities).
+These ways of framing food are especially disturbing because shows that demonstrate such ignorance of basic contemporary American Indian issues reproduce and enable the rapid spread of racist stereotypes and misinformation across their audiences. Soon after this episode aired, an article entitled "Pow Wow Wow Yippe Yo Yippy Yay" appeared in a California University newspaper (Kelly 2011). The student journalist, describing a pow wow at the university, states the following:
+Another food staple seems to be this product called frybread, which is essentially an overpriced fried dough platter with bargain brand food products splattered on top like a Mexican pizza from Taco Bell, but shittier. The only experience I have with frybread is watching a show about how incredibly unhealthy it is to consume [emphasis added].
+This student journalist would likely not make such a claim about the health ramifications of eating cake at a birthday party, but she justifies her denigration of frybread by citing popular media, which claims authority by promoting its use of healthcare experts who admittedly have very little expertise in this area.
+
+434
+
+C. LEWIS
+
+Food contestations
+The lack of a basic understanding of Native health, foodways, and diet issues is unnecessary given the current emphasis on these topics among many Native Nations and American Indian scholars. Current projects on Native health, food, and diet range from the Northern Michigan University Center for Native American Studies' Decolonizing Diet Project (Reinhardt 2015) to the pre-contact Pueblo Diet Experience (Swentzell and Perea 2016) to the applied ethnobotany programs in the Cherokee Nation's Office of Environmental Services (Carroll 2015) and the research website From Garden Warriors to Good Seeds: Indigenizing the Local Food Movement (Hoover 2015). These are only a small handful of the works that address and contextualize topics of indigenous diets and foods, connecting them to the overall health and well-being of American Indian populations across the United States.
+Within these movements, and in many American Indian communities, the status of frybread as a symbol of survivance is contested, being viewed instead as a repository of injustice and harmful to health. Many of these American Indians and academics (e.g., Harjo 2005; Mihesuah 2016) have argued vehemently against the classification and promotion of frybread as a Native food (Schwarz 2013). In many of these cases, frybread is labeled a food of oppression. In these arguments, it is a food that is meant to remind those who have been oppressed that they are worthy of nothing more than the worst nutritional scraps and cast-offs from the healthy, choice meals of settler-colonial society. American Indian chefs, such as Sean Sherman (Sioux), Brian Yazzie (Navajo), and Nephi Craig (White Mountain Apache) have also encouraged a movement away from frybread, toward ancestral foods (Sherman 2017; Fonseca 2017; Fernau 2015). Arguments within the American Indian community pose candid questions about frybread: Should we not demand more today than settler-colonial scraps? Why do we still laud a nutritionally devoid food that was forced upon us?13 These questions provoke further discussion and offer a counter-narrative by asking whether American Indians need to remind themselves of that period of injustice in this particular way. These questions affirm the dual nature of frybread as both a nutritionally abhorrent (settler-colonial) commodity when eaten as a staple meal item and a special-occasion food that is a powerful reminder of American Indian ingenuity and survivance. The emergence of these food sovereignty movements, when combined with Simpson's work on "refusal" (Simpson 2007), helps to explain how refusing to stop eating frybread (as with AIHFS) is intimately linked with refusing to eat frybread. This agency of refusal informs the crucial biopolitical, motivational differences between the dietitians' anti-frybread actions (uninformed, regulating through ban; a stance against) and these diet-decolonization efforts (deeply embedded in community, reclaiming ancestral foods; a stance for).
+These debates over representations of survivance versus oppression in foods are also reflected in discussions of soul food in the African American community and foodways in Latin American kitchens. "Soul food" is a cuisine that emerged initially from Southern slave diets (Witt 2004; Kelting 2016) and has been examined as one representation of black cultural identity, especially that of Southern black culture, in much the same way that frybread has been for American Indians. Like frybread, it is simultaneously lauded and vilified from within and outside of the community, both
+
+FOOD, CULTURE & SOCIETY
+
+435
+
+nutritionally and in terms of symbolic representation. The phrase "soul food" emerged with the Civil Rights Movement (Miller 2017). At that time, proponents of soul food sought cultural foodways that celebrated and honored black identity, including creativity in survival. Opponents, however, perceived soul food as internalizing the poor slave diet, reflecting the continued subjugation of the black community (Opie 2010). Still others argue that this castigation of soul food ignores deeper overarching structurally oppressive conditions that cause health issues (e.g., food deserts) (Counihan and Van Esterik 2007). The growth of vegetarianism in the black community, begun in earnest during the Civil Rights Movement (Wallach 2014), eventually coalesced in the late 2000s into the vegan soul food movement, as seen in the rise of both restaurants and chef-authors. These particular manifestations profess to unify the memories of survivance in food form with the strengths of a vegan diet (Terry 2009, 2014; Wallach 2014; McQuirte 2016; Carr 2017).
+Although it is clear that many of these conflicts overlap with those of frybread, there are also very distinct differences between soul food and frybread. First, soul food is an amalgam of various foods, food origins, and recipes, and, as such, it is highly adaptable. Although frybread also has many regional, family, and event variations, it is just one food product, thus reducing its adaptability. Second, although Native Nations and American Indians as a category share a similar overall narrative and relationship with United States settler-colonial society (especially with regard to post-treaty, umbrella federal laws), they remain very distinct societies in everything from location to language to history, and their foodways differ accordingly. Indeed, outside of the settler-colonial relationship, experience with frybread may be one of the few common elements shared by many (but certainly far from all) American Indians today. In this light, it is also not surprising that frybread sales are nearly ubiquitous at another site for pan-Indian expression and unity: the contest pow wow (events open to the general public that include dance competitions and prize money).
+Taking the food conflict discussions further, Latin American researchers such as Abarca (2006) and Counihan (2009) challenge the idea of what constitutes healthy eating, with Yates-Doerr and Carney (2016, 305) encouraging people to take into account not only nutritional needs but also the "social, political, and environmental afflictions" that must be addressed when determining what is healthy. In examining the concept of "healthy," Yates-Doerr's (2015) seminal research highlights several issues that recall similar problematics for American Indians, including both prescriptive and disciplinary dissonance,14 governmental understaffing and underfunding of health facilities, and the concept of metrification ("the application of numerical standards derived from an anonymous population onto an abstract itself [e.g., a headache], without regard for interpretation or feeling" [Yates-Doerr 2015, 164]). Echoing the AIHFS conflict described in the introduction, Yates-Doerr recounts a Guatemalan patient's reaction when told to eat fewer tortillas: "`Si me quita las tortillas, me quita la vida' (if you take away tortillas, you take away my life)" (Yates-Doerr 2015, 21).15
+
+From swords to scalpels
+Michel Foucault argued in 1976 that governments have switched from discipline to bureaucracy to control their citizens (Foucault 1990). He described this historical
+
+436
+
+C. LEWIS
+
+transition by relating how governments have moved from controlling their citizens' bodies through physical violence to controlling them by tending to them in order to produce a better workforce.16 While this newfound governmental practice may have improved the quality of life for the majority of a given nation's citizens, Foucault questioned whether such improvement applied to all citizens. Can this healthcare be used not just for uplifting the health of a nation's citizens but also for reducing a subpopulation of citizens who are deemed unnecessary or unwanted?17
+Foucault discusses the conceptual basis for this in Society Must Be Defended (Foucault 1997, 139­163), which addresses the history and potential future of what he terms biopolitics. His development of this framework focuses on the ramifications of the aforementioned transition, which had formerly centered on the ability to "take life and let live," but which transformed beginning in the eighteenth century to "make live and let die" (Foucault 1997, 241). What this meant in practice was that the state was moving away from an individual punishment mode of power (i.e., the power to torture or kill the individual as punishment) to a rationalizing policy of population control (i.e., the power to control populations through their life-cycle elements, such as birth, illness, death, etc.). This new biopolitics of power focuses on the "massifying" of citizens and the use of statistics in this endeavor. Foucault finds that the first policies that begin to emerge at this time are "plans to intervene in all phenomena relating to the birth rate" (Foucault 1997, 243). Next, the state begins to normalize Western knowledge (here, specifically, Western biomedicine, or WBM), as it medicalizes the population. Accompanying this is an insistence on the division between the human race and its environment enacted through the outlawing, controlling, and condemning of non-WBM knowledge. This is seen in an American Indian context through past and contemporary laws forbidding cultural practices (e.g., current use of peyote outside of affiliation with the Native American Church). These actions begin to black-box (hiding though various means) the life-cycle processes to the population itself (Latour 1987; Todd 2016), thus increasing a population's reliance on state healthcare institutions. In the nineteenth century (most notably seen in the Indian Removal Act of 1830), the US government accelerated this process of reliance by removing Native Nations from their homelands.
+As Foucault points out, the state itself is now in a non-discipline mode, so it must find a way to justify killing. Racism provides this escape clause by fragmenting and creating "caesuras within the biological continuum addressed by biopower" (Foucault 1997, 255). With racism, the state now makes the claim that "killing . . . is acceptable only if it results not in a victory over political adversaries, but in the elimination of the biological threat to and the improvement of the species or race" (Foucault 1997, 256) and that such killing will result in the normalizing, and ostensible strengthening, of society. In these terms, "killing" also includes every form of indirect murder, such as increasing the risk of death. Thus, the combination of the state and its institutions in terms of "medicine" becomes a disciplinary and regulatory mechanism intersecting to form a normalized society (Foucault 1997, 253).18 Using this explanation of racism, Foucault states that we can understand why episodes of racism erupt during specific moments in time.
+Historically, the transitional moment from discipline to bureaucracy is easily located in the relationship between the US government and Native Nation governments. In its current form, the Bureau of Indian Affairs is a US federal agency that acts as the liaison and managing body of Native Nations:
+
+FOOD, CULTURE & SOCIETY
+
+437
+
+The Bureau of Indian Affairs' responsibility is the administration and management of 55.7 million acres of land held in trust by the United States for American Indians, Indian tribes, and Alaska Natives. There are 567 federally recognized tribal governments in the United States. Developing forestlands, leasing assets on these lands, directing agricultural programs, protecting water and land rights, developing and maintaining infrastructure and economic development are all part of the agency's responsibility. In addition, the Bureau of Indian Affairs provides education services to approximately 48,000 Indian students. (BIA, 2017)
+
+In contrast to the protections described here, however, the BIA was initially created in 1824 under the US Department of War (the literal "sword"). In 1849, as a response to pandemic starvation and disease spreading over the newly created reservations, the BIA was transferred to the Department of the Interior (i.e., bureaucracy) and given the responsibility of distributing food and supplies to the Native Nations. However, due to underfunding and rampant corruption (Davidson 2010), few of these promised supplies were delivered to American Indians.19 By 1887, the BIA had, in practice, become the governing body for all Native Nations under its purview and would have no official federal oversight policy until 1921. That same year, the Snyder Act (Public Law 67­85, not the Indian Citizenship Act/Snyder Act of 1924) was passed, directing the BIA to "provide Indian health care for the benefit, care, and assistance of the Indians throughout the United States" (Lawrence 2000).
+Throughout the twentieth century, the US government commissioned various reports detailing the full extent of the "Indian Problem" (primarily poor health, economy, and education) which, as many would conclude, stemmed from the extreme poverty generated by the federal government's (in)actions. Although some reports had positive impacts, emphasizing the importance of supporting Native Nation sovereignty (the most well-known was the 847 page-long, 1928 Meriam Report), many also fed antibig government and anti-Indian sentiments. These notions that the US government needed to divest itself of burdensome American Indians, physically, culturally, or legislatively, produced decades of termination and assimilation policies. For these particular policies to normalize the US population as a whole and make it appear strengthened, American Indians (as the "degenerate, or the abnormal") needed to "die out" (Foucault 1997, 255­256). The use of statistics for monitoring (as in the above reports), as Foucault also discussed, was a vital part of these policies. Medical monitoring in particular facilitates taking control of a sub-population's health and allows the government to actively neglect a "subspecies" (Foucault 1997, 255); in other words, the government provides (minimal) healthcare while simultaneously monitoring the reduction of sub-population numbers, thereby "letting die." Consequently, the state (the US federal government) can oversee and track the normalization of the US population.
+During the late 1940s, the BIA's department of Indian Health Services was transferred to the Department of Health, Education, and Welfare (now Health and Human Services), although Native Nations still had to work through the BIA to access these services. This additional level of bureaucracy curtailed Native Nations' agency in managing and distributing their own healthcare funds while lengthening the process needed to access them. The Indian Self-Determination and Educational Assistance Act of 1971 finally allowed Native Nations to contract for services directly from the Secretary of the Interior or Health and Human Services without the BIA as mediator.
+
+438
+
+C. LEWIS
+
+However, the ability to do this is entirely dependent on whether the Native Nation has the resources--the funding and expertise--to autonomously take over these operations. Consequently, this transfer process can take decades, with many Native Nations still unable to fully participate.
+In this historical transition from the governmental discipline-and-punishment model to the care-and-encouragement model, we can see that while white settler-colonial society in the United States enjoys increasingly better health, longer lives, and lower child mortality rates, this higher level of care is selectively distributed. For American Indians, this new healthcare and surveillance system was used to produce the opposite results.
+
+The case of mass sterilization
+As scholars have pointed out, understandings of Foucault's biopower are incomplete without including state regulation of sexuality (Repo 2016). In this light, the full horror of the United States' attempts to normalize society through healthcare can be identified in the case of forced sterilizations. For many American Indian women in the 1970s, a trip to the hospital to give birth could mean being completely sedated (in the case of "twilight sleep" [Sandelowski 1984]) and awakening to find they had undergone a full hysterectomy to which they had not consented (Temkin-Greener et al. 1981). Although I focus exclusively on American Indians in the continental United States for the purposes of this paper, it is important to note that American Indians are only one of many segments of the US population selected for such treatment by the US government during this time and continuing through today.20
+At the same time that political upheaval and activism (Cobb 2008) were raging between 1973 and 1976, it was determined at the time that 3,406 American Indian women were sterilized without proper consent (against formal federal regulations) while under the care of IHS. This number, provided by the General Accounting Office (GAO) in 1976, would prove to be a vast underestimation. Although 1973­76 was the peak time for sterilizations, the increase in sterilizations began in 1966 when the Department of Health, Education, and Welfare began a program that subsidized 90 percent of the cost of sterilization for American Indian women (England 1997; Jarvis 1977).
+One of the first people to sound the alarm over abnormally high sterilization rates was Dr Connie Pinkerton-Uri, a Choctaw physician who worked at Claremore Indian Hospital in Oklahoma. She saw that there had been forty-eight sterilizations performed in July 1974 and several hundred performed in the previous two years, many of which took place within days of childbirth. These sterilizations included tubal ligations as well as full hysterectomies, which are normally unheard of in the absence of serious health issues. She also discovered through interviews that women were being threatened with claims that their children would be taken if they did not comply with sterilization. This was not an idle threat in the era of the Indian Adoption Project (Akwesasne Notes 1974; England 1997; Bhattacharjee and Silliman 2002).
+According to Lawrence, Marie Sanchez, a tribal judge of the Northern Cheyenne reservation, found that twenty-six of the fifty women she interviewed had been sterilized, with some being told that they would still be able to have children after the surgery; Mary Ann Bear Comes Out (Northern Cheyenne) discovered that fifty-six out of 165 women on her reservation had been sterilized by IHS over a three-year period
+
+FOOD, CULTURE & SOCIETY
+
+439
+
+(Lawrence 2000, 410). In 1981, Temkin-Greener et al. published an American Journal of Public Health article stating that on the Navajo reservation from 1972 to 1978, the percentage of women who had been sterilized doubled from 15.1 to 30.7 (TemkinGreener et al. 1981). While the GAO report only collected data from hospital reports, Dr.- Pinkerton-Uri interviewed the IHS-sterilized American Indian women themselves. This led her to estimate that, across the country, at least 25 percent of the American Indian female population had been sterilized, including minors as young as eleven years old, and that sterilizations had taken place in IHS facilities across the United States (England 1997).
+A central concern in the cases of sterilizations, as clarified by Lawrence's (2000) indepth examination of the subsequent court rulings, is the notion of consent (a topic inherently reflected in the fundamental issue of bodily agency at play in the AIHFS frybread case). Forced sterilization as a technology of power links to Foucault's notions of sexuality and its regulation via legal and judicial mechanisms (in this case, the mechanisms that legally and bureaucratically codify appropriate sterilization consent) in establishing and regulating the "norm." We see systemic practices of differential consent converge in 1973 when, as American Indian women were fighting against forced sterilizations, a national fight for access to legal abortions came to a head in Roe v. Wade. This was a paramount victory for second-wave feminism, a movement widely criticized for centering the voices and needs of white, middle-class women (Hooks 2000). These overlapping moments evidence that while US governmental healthcare legislations and policies were nullifying American Indian women's right to have children, at the same time (just prior to Roe v. Wade) these same systems were nullifying the majority population of women's right to not have children. This battle brings to the foreground (1) who allows bodily consent and (2) who is allowed to consent. Thus, this regulation of healthcare via childbearing centers on who controls consent in having more children (American Indian21) or fewer children (white, middleclass), illustrating the concepts of both negative and positive eugenics (Weindling 1999) by actively reducing unwanted populations while attempting to increase desired populations through legal and bureaucratic mechanisms. As Foucault points out in The History of Sex, "The primary concern was not repression of the sex of the classes to be exploited, but rather the body, vigor, longevity, progeniture, and descent of the classes that `ruled'" (Foucault 1990, 123).22
+
+The art of caring without providing care
+Although the sterilization epidemic was not Native Nations' first case of mistreatment by the US government, it profoundly affected the way many American Indians viewed the entire healthcare system. Federal government and IHS policies, along with the IHS doctors that promoted and carried out these policies, had created a culture of fear in which American Indians, especially women, avoided even the little healthcare that was provided at these healthcare facilities. They believed (deservedly) that more harm could be incurred by being treated at the facilities than not being treated at all. This cultivated culture of fear further ensured that American Indians' quality of health would remain substandard.
+
+440
+
+C. LEWIS
+
+$7,000 $6,000 $5,000 $4,000
+
+Per Capita Health Care Expenditures
+
+$5,915 $5,214
+
+$5,065
+
+$3,879 $3,803 $3,725
+
+$3,000 $2,000
+
+$1,912
+
+$1,000
+
+$619
+
+$0
+Medicare expenditures
+
+US per capita
+
+Federal Prisoners
+
+Figure 2. Per capita US government healthcare expenditures.
+
+IHS medical care
+
+While sterilizations are a dramatic example of the paradigm of healthcare that does not care for health, another more routine and ongoing way that the US government has supported this paradigm is by underfunding healthcare agencies. IHS receives the lowest funding of all government healthcare expenditures; it is surpassed next by federal prisoners, who receive nearly double the funding of American Indians (Figure 2). The chronic underfunding of agencies ensures that many of those who do seek to access healthcare will not receive adequate care and may not even be treated. According to the IHS website, one actuarial model found that the funding IHS receives provides only 55 percent of the necessary support needed to provide mainstream healthcare services to American Indians and Alaska Natives who use it (Grim 2006). Furthermore, it does not receive the protections enjoyed by other government health programs. During the 2013 US budget sequestration, IHS funding was cut while Medicare, Medicaid, and veterans' health benefits were exempted (New York Times 2013). The average age of an IHS facility is thirty-two years (by comparison, the average age of a private hospital is nine years), and medical equipment is used for twice as long as equipment in non-IHS facilities. By 2001, there was already an accumulation of $900 million in unmet repair needs alone. It is currently estimated that there is also a need for $1 billion in new construction (United States Commission on Civil Rights 2003, 45­46; United States Commission on Civil Rights, 2004, 75). Because these facilities are so underfunded, there are many personal anecdotes throughout Indian Country of unnecessary suffering and lives lost. These anecdotes are relayed in reports highlighting stories of those who passed away after long, untreated struggles with cancer, as well as mothers who lost healthy, full-term babies. For example, in one instance, doctors were unable to observe that the baby's umbilical cord had wrapped around its neck during labor because the one ultrasound covered by IHS had already been used (United States Commission on Civil Rights 2004, 87).
+
+FOOD, CULTURE & SOCIETY
+
+441
+
+Although IHS has never been well funded, the budget is being cut even further today despite the government-to-government commitment to provide healthcare and the numerous commissions and reports on the substandard health indicators related to funding deficits. The US Commission on Civil Rights reports that these various governmental policies and the embedded structural violence are key contributing factors to poor health outcomes among American Indians. The paramount factors they list are (1) insufficient federal funding, along with (2) limited access to appropriate health services and facilities; (3) poor access to health insurance, including Medicaid, Medicare, and private insurance, with only 28 percent of all American Indians having private health insurance (United States Commission on Civil Rights 2003, 35); (4) poor quality of care; (5) lack of availability of culturally competent health services; (6) disproportionate poverty and poor education; and (7) poor behavior or lifestyle choices (although "choice" is a weak term here, as a "lifestyle choice" can also include poor dietary habits due to extreme poverty). The commission categorized these causes into three sections: social and cultural barriers (racial and ethnic bias and discrimination, cultural understanding and language, socioeconomic status, health behaviors, and lifestyle); structural barriers (management issues, geographic location,23 outdated facilities, extended wait times for treatment, lack of recruitment/retention of qualified providers, and late or misdiagnosis); and financial barriers (United States Commission on Civil Rights 2004, 28).
+The results of the explicit and implicit federal governmental healthcare actions seen in the above issues are revealed in current health outcome statistics (see Table 1 for a detailed statistical breakdown). In sum, American Indians and Alaska Natives die at higher rates than other Americans from tuberculosis (500­650 percent higher), diabetes (200­420 percent higher), influenza and pneumonia (52 percent), suicide (60 percent higher), heart disease (100 percent+), infant mortality (150 percent), and SIDS (400 percent) (Table 1; see United States Commission on Civil Rights 2004, 7­8). The impacts on American Indian citizens of the passage of the Affordable Health Care for America Act (as it stands at the time of this writing), which includes the permanent reauthorization of the Indian Health Care Improvement Act, remain to be seen.24
+
+Conclusion
+Taken comprehensively, these various governmental healthcare policies and practices reveal how studying the medicalized regulation of American Indian bodies furthers our understandings of Foucault's concept of biopower. This biopower is inherent in settlercolonial society's assault on Native survivance (Foucault 1990, 257), shown here through a federal healthcare system that creates and perpetuates both embedded structural violence (underfunding) and symbolic damage (banning frybread), while also enacting physical violence on American Indian bodies (sterilizations). Using an American Indian framework to more deeply understand biopower, we see that, despite the seeming contradiction, overregulation of care becomes a tool to provide less care.
+The symbolic violence against the American Indian body, here explored through the proposed ban on frybread, serves as a lens that allows us to trace not just the emergence of this particular example of US government symbolic violence but also the medicalized violence against the American Indian body that continues today. To the AIHFS
+
+442
+
+C. LEWIS
+
+dietitians, the frybread ban was pragmatic. For the American Indians, it was another "micro" assault, a decision made without their consent and in a vacuum lacking historical, medical, nutritional (e.g., the importance of moderation), and cultural contexts. Forced marches, forced sterilizations, and forced diets (forced upon and forcibly removed) are all linked through the biopolitics of power and enacted through varying levels of settler-colonial society, from doctors to the mass media. As has been shown, this external regulation of American Indian bodies has lasting negative repercussions for American Indian health outcomes.
+As such, frybread is a complicated and thorny topic. Frybread defies easy categories, embodying necessity, a special occasion treat, and an outcast. It is loved by those who embrace its symbolism of survivance, its adaptability, and its unusual panIndian role. It is portrayed as both a foundation for historic nutritional survival as well as a current source of dietary deterioration. It is a symbol of oppression and paternalism while at the same time serving as a symbol of the conquering of these forces. Schwartz notes this conflict in her work Fighting Colonialism with Hegemonic Culture, saying that American Indians (in her case, manufacturers of frybread mixes), "can be said to be repatriating the unhealthy food that has become emblematic of colonization among contemporary American Indian activists. That is, the colonized are repatriating a food item that is iconic of their very subjugation" (Schwarz 2013, 105­106).
+Frybread's impact also reaches beyond the American Indian community, becoming a goodwill ambassador to outside communities (as the "breaking of bread" has done in many societies), welcoming (or possibly luring) them in and telling them its story. In this way, frybread has emerged as a spokesperson, albeit a highly controversial one, for the American Indian community. Finally, the case of frybread ties together the established, multifaceted issues of settler-colonial regulation of the American Indian body through healthcare policy with its current perpetuation of symbolic violence upon Native peoples. In recognizing these issues, Native Nations and American Indians are taking steps to implement more effective policies regarding Native health and diet through food sovereignty actions (Coté 2016). These include junk food taxes (Barclay 2015), bans on genetically modified products (Purdy 2013), hospital creation and management (McKie 2015), and the encouragement of American Indian students in health-related fields through scholarships, all in efforts to support access to a healthy, well-balanced diet (Mihesuah 2006), one that informs the agency of choice to include, or refuse, frybread.
+
+Notes
+1. The term American Indian is problematic as it can be a non-racial legal classification when referring to citizens of federally recognized Native Nations (i.e., those who fall under federal law), or a statistical racial class (e.g., the US Census); both homogenizations are deeply embedded practices of the settler-colonial process. Primarily, I make use of only the citizen definition, but for the purposes of this paper I will also employ the racial definition on occasion to agree with the statistics used by my sources.
+2. Aversive racism refers to a belief that one is not racist at the same time that one enacts racially modified behaviors (often accompanied by rationalization of such behaviors) (Dovidio 1986). Micro-aggressions and micro-invalidations can be seen in intentional or
+
+FOOD, CULTURE & SOCIETY
+
+443
+
+unintentional insults and dismissive behaviors targeting a minority or minority groups that are often not perceived by the actor as racist (Pierce et al. 1977). 3. As a result of a congressional law passed in 2011, $1 trillion in automatic budget cuts were enacted in 2013 after Congress refused to agree on a plan for required deficit reductions. 4. The intent of settler-colonialism is to secure geographic occupation, cleared for permanent immigration of settler-colonial society. This is compared with colonialism's primary objective of resource and labor extraction (Wolfe 2006, 388). 5. This explicit violence is certainly still a tactic, as seen in the 2016 militarized violence against the Standing Rock Water Protectors. 6. This origin story of frybread is the most commonly referenced and recounted, although its veracity has been disputed, both as a single point of origin and in finding reference for this creation in formal historical records and oral traditions. For an excellent examination of the various possible emergences of frybread across Indian County, see Mihesuah (2016). 7. Directed by Chris Erye, a Cheyenne and Arapaho citizen, and based on Sherman Alexie's short story "This Is What It Means to Say Phoenix, Arizona" from the book The Lone Ranger and Tonto Fistfight in Heaven (1993). 8. Note that I have as of yet only found these air-fryer recipes on non-Native blogs. 9. For expediency, I will not elaborate on the ways in which this episode falls into the typical mass media trope of the white savior, here the savior of American Indians. 10. This is also informed by the surprising lack of nutritional training that doctors in the United States receive, as found by several studies including Adams et al. (2006), who state that only "30% [of medical schools] required a separate nutrition course. On average, students received 23.9 contact hours of nutrition instruction during medical school (range: 2­70 h). Only 40 schools required the minimum 25 h recommended by the National Academy of Sciences. Most instructors (88%) expressed the need for additional nutrition instruction at their institutions" (Adams et al. 2006, 941). 11. Although it should be noted that Jillian Michaels apologized for this act, and that this apology was accepted by tribal elder Mr Decker, the primary issue of paternalism and the promoting of misinformation stands. 12. There are many food deserts located on and near reservations (https://www.ers.usda.gov/ data-products/food-access-research-atlas/go-to-the-atlas.aspx). As others have emphasized, however, it is the settler-colonial process of American Indian removal along with forced assimilation that created these food deserts in areas that were once sustainable for Native Nations. One aspect of the current indigenous food sovereignty movement is the recognition and reclamation of this sustainability (Landry 2015). 13. Another argument that has been made against frybread consumption mentions the issue of celiac disease (currently estimated at potentially 5 percent of North American and European populations, with minorities at lower rates). However, recent scholarship points to glyphosate, the active ingredient in the herbicide Roundup, as the most probable cause of the recent growth in celiac diagnoses, rather than an innate gluten intolerance (Samsel and Seneff 2013). In this case, consuming organic flours instead could be sufficient to avoid contracting celiac disease and may mitigate future consequences. Unfortunately, for those who have been already affected, the damage--ranging from miscarriages to increased risk of non-Hodgkin's lymphoma--may be permanent (Samsel and Seneff 2013). 14. The former "[highlights] ways in which health care directed at the individual risks ignoring the health concerns among target populations, in addition to impacting individual health in a detrimental way." The latter addresses "the ways in which anthropological theory has been limited in its association of health with the experiences and expressions of an embodied (socially shaped but nonetheless singular) subject" (Yates-Doerr and Carney 2016, 315). 15. Studies of parental choices have also been conducted in places such as Denmark to determine what constitutes "healthy" foods and diet at the family level. These studies argue that "`healthy' food is not just about nutrition, but also about social and emotional health" (Gram and Grønhøj 2015). 16. See also Weber's Protestant Ethic (Weber 2002).
+
+444
+
+C. LEWIS
+
+17. In utilizing this framework, I also acknowledge criticisms of the underlying privilege of post-colonial studies' authors, specifically focusing on being the voice of the subaltern (Grossberg et al. 1988). While I agree with many of these criticisms, I do not engage them in this paper.
+18. Of course, in addition to the normalizing of society, there are myriad political and economic motivations for the removal of American Indian populations, the primary being settlercolonial society's desire to access indigenous land. This desire necessitates the disappearance of indigenous peoples, a point that has been extensively explored (Wolfe 2006).
+19. See Cobellv. Salazar (Cobell XXII, 573F.3d 808, D.C. Cir. 2009) for the same issues repeated more recently.
+20. Forced sterilizations were being used on African American women and Mexican American women in the United States (Planas 2013; Roberts 1997, 373) during the same time in the late twentieth century. While some reparations are being made, such as those in North Carolina, many women have failed to receive them due to legal technicalities (Mennel 2014). Reports of women's forced sterilization continue today, such as with inmates in California prisons (Johnson 2013).
+21. This also calls to mind continuing controversies debating whether targeted birth control dissemination to minority women in the mid-twentieth century was also eugenically based (e.g., the Negro Project and writings such as "The Eugenic Value of Birth Control Propaganda" by Margaret Sanger).
+22. An ideal continuation of this paper's analysis of healthcare could pursue these technologies of power with regard to gender, as both of these cases primarily target the actions of women (in terms of reproduction and the responsibility for making frybread). This then could be linked to the works of Tallbear on the use of indigenous DNA and genetic identity politics.
+23. One important clarification to "location" as a barrier is that 61 percent of Native Americans live in urban environments today, which are served by the Office of Urban Indian Health Programs under IHS. These Urban Indian Health Programs, however, are only able to serve an estimated 150,000 of these Native Americans (United States Commission on Civil Rights 2004, 51).
+24. "Enrolled members of federally recognized tribes or ANCSA Corporations and individuals eligible for services from an Indian Health Care provider are eligible to apply for an exemption from the individual shared responsibility payment for not having minimum essential coverage by March 31, 2014" ("How to Apply for an Exemption" 2016).
+
+Acknowledgments
+This paper is dedicated to Dr William Lachicotte (1948­2014) whose mentorship (including in the nascence of this paper) and research inspired all who worked with him.
+
+Disclosure statement
+No potential conflict of interest was reported by the author.
+
+Notes on contributor
+Courtney Lewis is an Assistant Professor of Anthropology at the University of South Carolina whose works focuses on Native Nation economic development and issues of economic justice. She is the author of Sovereign Entrepreneurs: Cherokee Small Business Owners and the Making of Economic Sovereignty (UNC Press) and a citizen of the Cherokee Nation.
+
+FOOD, CULTURE & SOCIETY
+
+445
+
+ORCID
+Courtney Lewis
+
+http://orcid.org/0000-0002-0433-9904
+
+References
+Abarca, M. E. 2006. Voices in the Kitchen: Views of Food and the World from Working-Class Mexican and Mexican American Women. College Station: Texas A&M University Press.
+Adams, K. M., K. C. Lindell, M. Kohlmeier, and S. H. Zeisel. 2006. "Status of Nutrition Education in Medical Schools." The American Journal of Clinical Nutrition 83 (4): 941S­944S. doi:10.1093/ajcn/83.4.941S.
+Akwesasne Notes. 1974. "Sterilization of Young Native Women Alleged at Indian Hospital." July 5, 22.
+Alexie, Sherman. 1993. "This Is What It Means to Say Phoenix, Arizona." In The Lone Ranger and Tonto Fistfight in Heaven. New York: Harper Perennial.
+Barclay, E. 2015. "Navajos Fight Their Food Desert With Junk Food And Soda Taxes." National Public Radio, April 1. http://www.npr.org/sections/thesalt/2015/04/01/396607690/navajosfight-their-food-desert-with-junk-food-and-soda-taxes.
+Bhattacharjee, A., and J. Silliman. 2002. Policing the National Body: Sex, Race, and Criminalization. Brooklyn, NY: South End Press.
+BIA (Bureau of Indian Affairs). 2017. "About BIA." Accessed July 25. http://www.bia.gov/ Carr, E. 2017. "LDN Afro Vegan." http://londonafrovegan.com/ Carroll, C. 2015. Roots of Our Renewal: Ethnobotany and Cherokee Environmental Governance.
+Minneapolis: University of Minnesota Press. Cobb, D. M. 2008. Native Activism in Cold War America: The Struggle for Sovereignty. Lawrence:
+University Press of Kansas. Cobell v. Salazar (Cobell XXII), 573 F.3d 808 (D.C. Cir. 2009). 2009. Coté, C. 2016. "`Indigenizing' Food Sovereignty. Revitalizing Indigenous Food Practices and
+Ecological Knowledges in Canada and the United States." Humanities 5 (3): 1­14. doi:10.3390/ h5030057. Counihan, C. 2009. A Tortilla Is like Life: Food and Culture in the San Luis Valley of Colorado. Austin: University of Texas Press. Counihan, C., and P. Van Esterik, eds. 2007. Food and Culture: A Reader. New York: Routledge. Davidson, J. T. 2010. "This Land Is Your Land, This Land Is My Land? Why the Cobell Settlement Will Not Resolve Indian Land Fractionation." American Indian Law Review 35 (2): 575. Dovidio, J. F. 1986. "The Aversive Form of Racism." In Prejudice, Discrimination, and Racism, edited by S. L. Gaertner. Orlando: Academic Press. England, C. R. 1997. "A Look at the Indian Health Service Policy of Sterilization, 1972­1976." South Dakota Coalition Ending Domestic & Sexual Violence. http://www.sdcedsv.org/articles/ alookattheindianhealthservicepolicyofsterilization19721976/ Eyre, Chris, dir. Smoke Signals, 1998; Montréal: Alliance Vivafilm. Fernau, K. 2015. "White Mountain Chef Revives Native American Cuisine." AZCentral, February 24. https://www.azcentral.com/story/entertainment/dining/2015/02/24/white-mountain-chefnative-american-cuisine/23645283/ Fonseca, F. 2017. "Miss Navajo Nation Contest Is Parting Ways with Fry Bread." Chicago Tribune, September 5. http://www.chicagotribune.com/sns-bc-us­miss-navajo-fry-bread20170905-story.html. Foucault, M. 1984. The Foucault Reader. Edited by Paul Rabinow. New York: Pantheon. Foucault, M. 1990. The History of Sexuality, Vol. 1: An Introduction. Translated by Robert Hurley. New York: Vintage. Foucault, M. 1997. Society Must Be Defended: Lectures at the College de France, 1975­76. 1st ed. New York: Picador.
+
+446
+
+C. LEWIS
+
+Galanda, G. 2015. "Back To The Future: The GOP And Tribal Termination." Indian Country Media Network (blog), September 9. https://indiancountrymedianetwork.com/news/opinions/ back-to-the-future-the-gop-and-tribal-termination/
+Gram, M., and A. Grønhøj. 2015. "There Is Usually Just One Friday a Week." Food, Culture & Society 18 (4): 547­567. doi:10.1080/15528014.2015.1088189.
+Grim, C. W. 2006. "Facts on Indian Health Disparities." Indian Health Services. http://www2.isu. edu/irh/publications/AAYSP%20Toolkit%202010/F_Special%20Populations/Facts%20on% 20Indian%20Health%20Disparities_IHS_2006.pdf
+Grossberg, L., H. Lefebvre, C. Mouffe, C. A. MacKinnon, E. Balibar, G. Petrovic, S. Frith, T. Eagleton, and J. Franco. 1988. Marxism and the Interpretation of Culture. Edited by Cary Nelson. Urbana: University of Illinois Press.
+Harjo, S. S. 2005. "My New Year's Resolution: No More Fat `Indian' Food." Indian Country Today Media Network, January 26. http://indiancountrytodaymedianetwork.com/2005/01/26/ my-new-years-resolution-no-more-fat-indian-food-94439.
+Hooks, B. 2000. Feminist Theory: From Margin to Center. New York: South End Press. Hoover, E. 2015. "From Garden Warriors to Good Seeds: Indigenizing the Local Food
+Movement." https://gardenwarriorsgoodseeds.com/ "How to Apply for an Exemption." 2016. Tribal Health Care. http://www.tribalhealthcare.org/
+aian-individuals/insurance-under-aca/how-to-apply-for-an-exemption/ IHS (Indian Health Service). 2012. "Diabetes Fact Sheets." Indian Health Service, June. http://
+www.ihs.gov/MedicalPrograms/Diabetes/ Indian Health Service. 2006. "Facts on Indian Health Disparities," January 2006. https://www.ihs.
+gov/newsroom/factsheets/disparities/ Jarvis, G. M. 1977. "The Theft of Life." Akwesasne Notes 8 (Autumn): 31. Johnson, C. 2013. "Female Inmates Sterilized in California Prisons without Approval." The
+Center for Investigative Reporting, July 7. http://cironline.org/reports/female-inmates-steri lized-california-prisons-without-approval-4917. Kay, N., E. Knaster, J. Folkman, J. Loughran, S. Rutman, A. Sparck, and S. Simpson. 2011. "Community Health Profile: American Indian Health and Family Services of Southeastern Michigan." Seattle, WA: Urban Indian Health Institute. http://www.uihi.org/download/CHP_ Detroit_Final_Revised.pdf. Kelly, N. 2011. "Pow Wow Wow Yippe Yo Yippy Yay." Union Weekly - California State University, Long Beach, March 14. Kelting, L. 2016. "The Entanglement of Nostalgia and Utopia in Contemporary Southern Food Cookbooks." Food, Culture & Society 19 (2): 361­387. doi:10.1080/15528014.2016.1178549. Lakota People's Law Project. 2015. "Native Lives Matter." http://lakotalaw.org/special-reports/ native-lives-matter Landry, A. 2015. "What is a Food Desert? Do You Live in One? 23.5 Million in This Country Do." Indian Country Today, April 28. https://www.ers.usda.gov/data-products/food-accessresearch-atlas/go-to-the-atlas.aspx Latour, B. 1987. Science in Action: How to Follow Scientists and Engineers through Society. Cambridge: Harvard University Press. Lawrence, J. 2000. "The Indian Health Service and the Sterilization of Native American Women." American Indian Quarterly 24 (3): 400­419. doi:10.1353/aiq.2000.0008. McKie, S. 2015. "New Cherokee Indian Hospital Opens." Cherokee One Feather, October 15. https://theonefeather.com/2015/10/new-cherokee-indian-hospital-opens/ McQuirte, T. 2016. "African American Vegan Starter Guide." http://www.farmsanctuary.org/wpcontent/uploads/2016/10/AA_VeganStarterGuide_WebVersion.pdf Mennel, E. 2014. "Payments Start for N.C. Eugenics Victims, but Many Won't Qualify." National Public Radio, October 31. http://www.npr.org/sections/health-shots/2014/10/31/360355784/ payments-start-for-n-c-eugenics-victims-but-many-wont-qualify. Mihesuah, D. 2006. "American Indian Health and Diet Project." Accessed December 3 2015. http://www.aihd.ku.edu/
+
+FOOD, CULTURE & SOCIETY
+
+447
+
+Mihesuah, D. A. 2016. "Indigenous Health Initiatives, Frybread, and the Marketing of Nontraditional `Traditional' American Indian Foods." Native American and Indigenous Studies 3 (2): 45­69. doi:10.5749/natiindistudj.3.2.0045.
+Miller, A. 2017. Soul Food: The Surprising Story of an American Cuisine, One Plate at a Time. Chapel Hill: University of North Carolina Press.
+New York Times. 2013. "Abandoned in Indian Country." July 24. http://www.nytimes.com/2013/ 07/24/opinion/abandoned-in-indian-country.html?_r=0.
+Newcomer, A. D., H. Gordon, P. J. Thomas, and D. G. McGill. 1977. "Family Studies of Lactase Deficiency in the American Indian." Gastroenterology 73: 985­988.
+Opie, F. D. 2010. Hog and Hominy: Soul Food from Africa to America. New York: Columbia University Press.
+Paxson, H. 2008. "Post-Pasteurian Cultures: The Microbiopolitics of Raw-Milk Cheese in the United States." Cultural Anthropology 23 (1): 15­47. doi:10.1111/j.1548-1360.2008.00002.x.
+Pensoneau, M. 2015. "What's the Big Deal?" Missoula Independent, April 24. http://missoula news.bigskypress.com/missoula/whats-the-big-deal/Content?oid=1986718
+Pierce, C., J. Carew, D. Pierce-Gonzalez, and D. Wills. 1977. "An Experiment in Racism." Education and Urban Society 10 (1): 61­87. doi:10.1177/001312457701000105.
+Planas, R. 2013. "Mexican Americans Sterilized Disproportionately in California Institutions, Study Says." Huffpost Latino Voices, June 9. http://www.huffingtonpost.com/2013/06/05/mex ican-americans-sterilized_n_3390305.html.
+Purdy, B. 2013. "Dine Nation Declared GMO and Pesticide-Free Zone." First Peoples Worldwide, September. http://firstpeoples.org/wp/dine-nation-declared-gmo-and-pesticidefree-zone/
+Reinhardt, M. 2015. "Spirit Food." In Indigenous Innovation, edited by E. S. Huaman and B. Sriraman, 81­105. Advances in Innovation Education. Rotterdam: SensePublishers.
+Repo, J. 2016. "Thanatopolitics or Biopolitics? Diagnosing the Racial and Sexual Politics of the European Far-Right." Contemporary Political Theory 15 (1): 110­118.
+Roberts, D. E. 1997. Killing the Black Body: Race, Reproduction, and the Meaning of Liberty. New York: Pantheon Books.
+Rylko-Bauer, B., and P. Farmer. 2002. "Managed Care or Managed Inequality? A Call for Critiques of Market-Based Medicine." Medical Anthropology Quarterly 16 (4): 476­502. doi:10.1525/maq.2002.16.issue-4.
+Samsel, A., and S. Seneff. 2013. "Glyphosate, Pathways to Modern Diseases II: Celiac Sprue and Gluten Intolerance." Interdisciplinary Toxicology 6 (4): 159­184. doi:10.2478/intox2013-0026.
+Sandelowski, M. J. 1984. Pain, Pleasure, and American Childbirth: From the Twilight Sleep to the Read Method, 1914­1960. Westport, CN: Praeger.
+Schwarz, M. T. 2013. Fighting Colonialism with Hegemonic Culture: Native American Appropriation of Indian Stereotypes. Albany: SUNY Press.
+Sherman, S. 2017. The Sioux Chef's Indigenous Kitchen. Minneapolis: University Of Minnesota Press.
+Simpson, A. 2007. "On Ethnographic Refusal: Indigeneity, `Voice' and Colonial Citizenship." Junctures 9 (December): 67­80.
+Swentzell, R., and P. M. Perea, eds. 2016. The Pueblo Food Experience Cookbook: Whole Food of Our Ancestors. Santa Fe: Museum of New Mexico Press.
+Temkin-Greener, H., S. J. Kunitz, D. Broudy, and M. Haffner. 1981. "Surgical Fertility Regulation among Women on the Navajo Indian Reservation, 1972­1978." American Journal of Public Health 71 (4): 403­407. doi:10.2105/AJPH.71.4.403.
+Terry, B. 2009. Vegan Soul Kitchen: Fresh, Healthy, and Creative African-American Cuisine. Cambridge, MA: Da Capo Press.
+Terry, B. 2014. Afro-Vegan: Farm-Fresh African, Caribbean, and Southern Flavors Remixed. Berkeley: Ten Speed Press.
+
+448
+
+C. LEWIS
+
+Todd, Z. 2016. "An Indigenous Feminist's Take On The Ontological Turn: `Ontology' Is Just Another Word For Colonialism." Journal of Historical Sociology 29 (1): 4­22. doi:10.1111/ johs.12124.
+United States Commission on Civil Rights. 2003. A Quiet Crisis. Washington, DC: U.S. Commission on Civil Rights.
+United States Commission on Civil Rights. 2004. Broken Promises: Revaluating the Native American Health Care System. Washington, DC: United States Commission on Civil Rights.
+Vizenor, G., ed. 2008. Survivance: Narratives of Native Presence. Lincoln: University of Nebraska Press.
+Wagner, A. 2005. "The Great Debate over Fry Bread." August 21. http://www.nbcnews.com/id/ 9022063/ns/us_news-life/t/icon-or-hazard-great-debate-over-fry-bread/
+Wallach, J. J. 2014. "How to Eat to Live: Black Nationalism and the Post-1964 Culinary Turn." Study the South, July 2. http://southernstudies.olemiss.edu/study-the-south/how-to-eat-to-live/
+Weber, M. 2002. The Protestant Ethic and the "Spirit" of Capitalism and Other Writings. Translated by Peter Baehr and Gordon C. Wells. New York: Penguin Books.
+Weindling, P. 1999. "International Eugenics: Swedish Sterilization in Context." Scandinavian Journal of History 24 (2): 179­197. doi:10.1080/03468759950115791.
+Witt, D. 2004. Black Hunger: Soul Food and America. Minneapolis, MN: University of Minnesota Press.
+Wolfe, P. 2006. "Settler Colonialism and the Elimination of the Native." Journal of Genocide Research 8 (4): 387­409. doi:10.1080/14623520601056240.
+Yates-Doerr, E. 2015. The Weight of Obesity: Hunger and Global Health in Postwar Guatemala. Berkeley: University of California Press.
+Yates-Doerr, E., and M. A. Carney. 2016. "Demedicalizing Health: The Kitchen as a Site of Care." Medical Anthropology 35 (4): 305­321. doi:10.1080/01459740.2015.1030402.
+
+

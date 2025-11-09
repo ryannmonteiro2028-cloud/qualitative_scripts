@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>author&colon; ryann monteiro</title>
+            <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only],
+.vscode-high-contrast:not(.vscode-high-contrast-light) img[src$=\#gh-light-mode-only],
+.vscode-high-contrast-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+</style>
+            
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+<style>
+:root {
+  --color-note: #0969da;
+  --color-tip: #1a7f37;
+  --color-warning: #9a6700;
+  --color-severe: #bc4c00;
+  --color-caution: #d1242f;
+  --color-important: #8250df;
+}
+
+</style>
+<style>
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-note: #2f81f7;
+    --color-tip: #3fb950;
+    --color-warning: #d29922;
+    --color-severe: #db6d28;
+    --color-caution: #f85149;
+    --color-important: #a371f7;
+  }
+}
+
+</style>
+<style>
+.markdown-alert {
+  padding: 0.5rem 1rem;
+  margin-bottom: 16px;
+  color: inherit;
+  border-left: .25em solid #888;
+}
+
+.markdown-alert>:first-child {
+  margin-top: 0
+}
+
+.markdown-alert>:last-child {
+  margin-bottom: 0
+}
+
+.markdown-alert .markdown-alert-title {
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  line-height: 1
+}
+
+.markdown-alert .markdown-alert-title .octicon {
+  margin-right: 0.5rem;
+  display: inline-block;
+  overflow: visible !important;
+  vertical-align: text-bottom;
+  fill: currentColor;
+}
+
+.markdown-alert.markdown-alert-note {
+  border-left-color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-note .markdown-alert-title {
+  color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-important {
+  border-left-color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-important .markdown-alert-title {
+  color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-warning {
+  border-left-color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-warning .markdown-alert-title {
+  color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-tip {
+  border-left-color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-tip .markdown-alert-title {
+  color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-caution {
+  border-left-color: var(--color-caution);
+}
+
+.markdown-alert.markdown-alert-caution .markdown-alert-title {
+  color: var(--color-caution);
+}
+
+</style>
+        
+        </head>
+        <body class="vscode-body vscode-light">
+            <p>#monteiro_compmethods_week5_homework.md</p>
+<h1 id="author-ryann-monteiro">author: ryann monteiro</h1>
+<h1 id="course-computational-methods">course: computational methods</h1>
+<h1 id="week-5">week: 5</h1>
+<h1 id="date-2025-10-17">date: 2025-10-17</h1>
+<h1 id="description-introductory-problem-set-food-studies-context">description: introductory problem set (food-studies context)</h1>
+<h1 id="1-assign-a-string">1. assign a string</h1>
+<p>primary_theme = &quot;food sovereignty&quot;</p>
+<h1 id="2-assign-a-float">2. assign a float</h1>
+<p>primary_theme = 27.4  # average number of market visitors per observation hour
+print(&quot;#2 primary_theme:&quot;, primary_theme, type(primary_theme))</p>
+<h1 id="3-assign-two-integers-with-an-operator">3. assign two integers with an operator</h1>
+<p>total_sites = 12 + 5
+print(&quot;#3 total_sites:&quot;, total_sites)</p>
+<h1 id="4-assign-concatenated-strings">4. assign concatenated strings</h1>
+<p>report_title = &quot;Qualitative Memo: &quot; + &quot;Community Food Practices&quot;
+print(&quot;#4 report_title:&quot;, report_title)</p>
+<h1 id="5-integer--string-convert-integer">5. integer + string (convert integer)</h1>
+<p>interview_count = 18
+summary_line = str(interview_count) + &quot; interviews analyzed&quot;
+print(&quot;#5 summary_line:&quot;, summary_line)</p>
+<h1 id="6-evaluate-one-number-is-equal-to-or-greater-than-another">6. evaluate: one number is equal to or greater than another</h1>
+<p>meets_min_sample = interview_count &gt;= 15
+print(&quot;#6 meets_min_sample (&gt;= 15):&quot;, meets_min_sample)</p>
+<h1 id="7-evaluate-two-numbers-are-not-equal">7. evaluate: two numbers are not equal</h1>
+<p>planned_focus_groups = 4
+actual_focus_groups = 3
+focus_group_gap = planned_focus_groups != actual_focus_groups
+print(&quot;#7 focus_group_gap (planned != actual):&quot;, focus_group_gap)</p>
+<h1 id="8-evaluate-two-previously-assigned-variables-are-equal">8. evaluate: two previously assigned variables are equal</h1>
+<p>same_number = total_sites == interview_count
+print(&quot;#8 total_sites == interview_count:&quot;, same_number)</p>
+<h1 id="9-evaluate-int-equals-same-number-as-a-string">9. evaluate: int equals same number as a string?</h1>
+<p>int_vs_str_equal = 10 == &quot;10&quot;  # False (different types)
+print(&quot;#9 10 == '10':&quot;, int_vs_str_equal)</p>
+<h1 id="10-evaluate-int-equals-same-number-as-a-float">10. evaluate: int equals same number as a float?</h1>
+<p>int_vs_float_equal = 10 == 10.0  # True (values equal)
+print(&quot;#10 10 == 10.0:&quot;, int_vs_float_equal)</p>
+<h1 id="11-evaluate-the-string-none-equals-the-none-data-type">11. evaluate: the string &quot;None&quot; equals the None data type?</h1>
+<p>string_none_vs_None = &quot;None&quot; == None  # False
+print(&quot;#11 'None' == None:&quot;, string_none_vs_None)</p>
+<h1 id="12-assign-an-array-list-to-a-variable-codes-from-an-excerpt">12. assign an array (list) to a variable (codes from an excerpt)</h1>
+<p>codes = [&quot;access&quot;, &quot;ancestry&quot;, &quot;health&quot;, &quot;mutual aid&quot;]
+print(&quot;#12 codes:&quot;, codes)</p>
+<h1 id="13-append-a-value-to-the-list-lists-are-mutable">13. append a value to the list (lists are mutable)</h1>
+<p>codes.append(&quot;seasonality&quot;)
+print(&quot;#13 codes after append:&quot;, codes)</p>
+<h1 id="14-assign-a-value-from-the-array-by-indexing">14. assign a value from the array by indexing</h1>
+<p>first_code = codes[0]  # &quot;access&quot;
+print(&quot;#14 first_code:&quot;, first_code)</p>
+<h1 id="15-assign-a-substring-of-the-variable-from-4">15. assign a substring of the variable from (4)</h1>
+<h1 id="remove-the-prefix-qualitative-memo--to-leave-just-the-title">remove the prefix &quot;Qualitative Memo: &quot; to leave just the title</h1>
+<p>trimmed_title = report_title[len(&quot;Qualitative Memo: &quot;):]
+print(&quot;#15 trimmed_title:&quot;, trimmed_title)</p>
+<h1 id="16-assign-nested-lists-mini-table-site_name-weekly_customers-accepts_ebt">16. assign nested lists (mini table): [site_name, weekly_customers, accepts_EBT]</h1>
+<p>markets = [
+[&quot;West Side Market&quot;, 850, True],
+[&quot;Southtown Pop-up&quot;, 220, False],
+[&quot;Lakeview Thursday&quot;, 430, True],
+]
+print(&quot;#16 markets[0]:&quot;, markets[0])
+print(&quot;     name:&quot;, markets[0][0], &quot;| customers:&quot;, markets[0][1], &quot;| EBT:&quot;, markets[0][2])</p>
+
+            
+            
+        </body>
+        </html>

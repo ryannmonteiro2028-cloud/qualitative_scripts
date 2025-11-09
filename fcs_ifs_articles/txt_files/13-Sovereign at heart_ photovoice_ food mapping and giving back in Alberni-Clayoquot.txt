@@ -1,0 +1,478 @@
+Food, Culture & Society
+An International Journal of Multidisciplinary Research
+ISSN: 1552-8014 (Print) 1751-7443 (Online) Journal homepage: www.tandfonline.com/journals/rffc20
+Sovereign at heart: photovoice, food mapping and giving back in Alberni-Clayoquot
+Meagan J. Curtis, Janette Bulkan & Tammara Soma
+To cite this article: Meagan J. Curtis, Janette Bulkan & Tammara Soma (2024) Sovereign at heart: photovoice, food mapping and giving back in Alberni-Clayoquot, Food, Culture & Society, 27:2, 506-536, DOI: 10.1080/15528014.2023.2284048 To link to this article: https://doi.org/10.1080/15528014.2023.2284048
+© 2023 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group. Published online: 28 Nov 2023.
+Submit your article to this journal Article views: 1038
+View related articles
+View Crossmark data
+Citing articles: 1 View citing articles
+Full Terms & Conditions of access and use can be found at https://www.tandfonline.com/action/journalInformation?journalCode=rffc20
+
+FOOD, CULTURE & SOCIETY 2024, VOL. 27, NO. 2, 506­536 https://doi.org/10.1080/15528014.2023.2284048
+
+Sovereign at heart: photovoice, food mapping and giving back in Alberni-Clayoquot
+Meagan J. Curtisa, Janette Bulkana and Tammara Somab
+aFaculty of Forestry, University of British Columbia, Vancouver, Canada; bResource and Environmental Management, Simon Fraser University, Burnaby, Canada
+
+ABSTRACT
+This article reflects on a year-long project that used both photo voice and food asset mapping methods in the Alberni-Clayoquot Region of British Columbia, Canada. Following others who empha size reciprocation in research and the application of a heartcentered approach, this work had a two-fold purpose: 1) to give back to the community in which the researcher lived and worked, and 2) to create visual material and food policy guidance for the community. The photovoice project involved participants who were growers, processors, harvesters and/or foragers of food and resulted in multiple exhibitions of their work as well as a photobook distributed within the community. Alongside these, two separate food mapping sessions were completed with 42 participants which demonstrated that many residents associated food with human health, regional ecology, localization, production methods, social relations, economics, and spirit (metaphysics). We found these associations with food appear to indicate that many envision increasing regional food production by means of increasing food sovereignty. Our results (1) confirm that the research methods of photovoice and food asset mapping complement each other, (2), demonstrate the worth of giving back and the importance of a heart-centered approach to food systems' research and change, (3) substantiate claims that the "Seven Pillars of Food Sovereignty" transcend borders and apply within Canada.
+
+ARTICLE HISTORY Received 28 February 2023 Accepted 12 November 2023
+KEYWORDS Photovoice; food governance; food mapping; food justice; food metaphysics; food sovereignty; community food security; Port Alberni; Vancouver Island; British Columbia
+
+Introduction
+Many communities and researchers have questioned what it means to give back for what we have received (Atalay and McCleary 2022; Goldberg 2014; Gupta 2014; Koster, Baccar, and Lemelin 2012; Ybarra 2014). Some have asked: When research is done in a community, about a community, or with a community, what exchange is taking place? Should researchers simply take, or should they also give? Could there be, as Diver and Higgins (2014) term it, a "dynamic reciprocity" so that a community benefits as well as the researcher?
+Alongside these, there are researchers who have advocated for a heart-centered approach to scientific work across various disciplines. Coming from the discipline of
+CONTACT Meagan J. Curtis mjcurtis@gmx.com
+© 2023 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group. This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License (http://creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial re-use, distribution, and reproduction in any med ium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way. The terms on which this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.
+
+FOOD, CULTURE & SOCIETY
+
+507
+
+archeology and inspired by their work in emerging community and Indigenous arche ologies since the early 2000s, Supernant et al. (2020), describe what a heart-centered approach to research could look like:
+We envision a heart-centered practice to be drawn together from many different theoretical and methodological veins of archaeology and other disciplines, like the entwined runners shooting out from one strawberry plant to another, creating life and vitality and intercon nection. We see an archaeology of the heart centered around care and emotion, rather than dispassion and rationality, and operating within a rigorous and relational framework. (5)
+They suggest that this framework assists in providing a new ethical space as first described by Ermine (2007) ­ a space which shows care for the living as well as the dead. Ermine's (2007) concept of an ethical space has been described as a place of engagement between two groups of contrasting identities and worldviews wherein effort is made to meet in a level playing field with the spirit of cooperation so that ethical and appropriate interaction and dialogue can proceed (Daniels and Sterzuk 2022). Although the intention of this research was not explicitly to open up a space for Indigenous and settler dialogue in relation to the food system (nor was it to theorize on this history or current relations), it is true that one of the strawberry runners of this work extends back to the concept of an ethical space as it has subsequently influenced others.
+Inspired by Ermine (2007), Supernant et al. (2020) argue that a heart-centered approach to research includes four primary elements ­ rigor, relationality, care and emotion. Rigor refers to the need to integrate the voices of many (rather than few) and the recognition of the researcher's own position and viewpoint. Relationality is the affirmation that the researcher exists in a web of relations with others that no one person can ever truly detach from. For a historian or archeologist, these relations may be with the dead. For other social scientists, it may be the people directly in front of them bearing their own hearts, while for natural scientists, the relations may be with all other life they study such as plants, fish, or soil organisms. Care includes the responsibility of the researcher to consider others while working in order to avoid causing harm. Lastly, the importance of emotion in research is affirmed as involving the heart as well as the mind as these two components guide our lives and work in tandem.
+This is the first study we know of that extends the concept of a heart-centered approach into the field of food studies. With this in mind, a research project was designed that included photovoice and food mapping methodologies in the hope that they could benefit the community by: (1) supporting local efforts to plan for food security and food system resiliency (e.g., by informing planning policy as well as residents' own belief in the potential of their food system) and, (2) encouraging community reflection and interest in the food system. Beyond these goals, we also argue this work confirmed the power and worth of taking a heart-centered approach and that our results additionally validate existing claims related to the relevance of the "Seven Pillars of Food Sovereignty" framework within Canada.
+
+Study location and context
+The westernmost province in Canada, British Columbia is bisected by multiple major mountain ranges, leaving bottomland with soils traditionally suited to agriculture as a minority feature on the landscape. The population of the province is approximately
+
+508
+
+M. J. CURTIS ET AL.
+
+5.2 million people, while Vancouver Island is home to approximately 865,000 residents. This study took place within the Alberni Clayoquot Regional District (ACRD) on Vancouver Island ­ an area encompassing approximately 6,600 km2 (~2,550 Mi2) with a population of approximately 31,000 (Figure 1). The City of Port Alberni holds the majority of the ACRD's population (approximately 17,600) and connects with the tourism-driven coastal towns of Tofino and Ucluelet by means of a long winding high way. Smaller communities in the region are accessible only by boat or logging roads.
+The traditional territories of the Hupacasath and Tseshaht First Nations overlay the City of Port Alberni while the entire region of the ACRD also includes eight additional Nuu-Chah-Nulth governments and councils: the Ditidaht, Hesquiaht, Ahousaht, Tlao-qui-aht, Yuuluilath, Toquaht, Huu-ay-aht, and Uchucklesaht First Nations. The western coastal areas of_ the region are characterized historically by fishing as their soils are generally shallow and rocky. The traditional food sources of the region are forest and marine-based and the First Nations of the area continue to hold the traditional ecological knowledge related to food practices (Atleo 2004; Coté 2010; Hupacasath First Nation 2006). During the mid-19th century, European agricultural practices were _brought to the Island and currently ~ 19, 214 acres (7,776 hectares) of land in the ACRD are zoned as "agricultural." The ACRD was calculated to have a total farmed area of ~ 3,612 acres
+
+Figure 1. Map of the ACRD (ACRD 2011; ALR indicates land zoned as farmland within the province's agricultural land Reserve).
+
+FOOD, CULTURE & SOCIETY
+
+509
+
+(1,462 hectares) in 2016, of which 97% was used for pasture and/or forage (MOA 2016). The ACRD estimates that food sufficiency (i.e., the percentage ability of regional produc tion to meet regional consumption) is between 5.3 and 11% (ACRD 2011).
+The historical context matters deeply to the contemporary food system on Vancouver Island. The province of British Columbia was proclaimed a new British Crown Colony in 1858 and of the 83 Port Alberni residents recorded in the 1887 British Columbia Directory, 81 were listed as farmers (Figure 2). This inventory not only demonstrates who was counted as a resident (and who was not), but also how fundamental were agricultural methods to the resettlement of British Columbia (Harris 1997). As settlers arrived, a vast undertaking of landscape modification began which included the clearing of forests by dynamite, the rerouting of streams and the fencing of newly planted fields. An agrarian discourse took hold which was encouraged by government who emphasized the measuring of social progress by the advance of agricultural settlement (Demeritt 1995; Murton 2008).
+
+Figure 2. Alberni Directory (Vancouver Public library, 2023 [1898]).
+
+510
+
+M. J. CURTIS ET AL.
+
+While a new food system was being introduced, numerous other pieces of legislation, such as the Indian Act (1876), and policies such as the residential school system (1883­ 1996) which removed Indigenous children from their homes and placed them in govern ment-sponsored schools, interrupted and transformed First Nations' food systems. This system has had multi-generational long-term detrimental effects on First Nations, Inuit, and Métis communities in the country (Fontaine, Craft, and and The Truth and Reconciliation Commission of Canada 2015). Immigrants to Canada were documented as frequently disdainful of Indigenous Peoples' food (Turner 2014), and in other instances, appear to have completely ignored the existence of the Indigenous food system (Ishiguro 2019).
+Within government-sponsored residential schools, Indigenous children were fed European diets, barred from speaking their native language, and instructed in settler agricultural practices (Turner 2014). Outside of the schools, Indigenous People were also often persuaded or coerced to abandon their previous food system and take up gardening, ranching or farming while certain food-related practices were outright banned (such as the potlatch) (Turner 2014). One result of these imposed punitive decrees has been the substantial loss of ethnobotanical knowledge within the province (Turner and Turner 2008). Within this study, we were honored that two Indigenous Elders, as individuals, chose to sit down and share with us some aspects of how food is meaningful in their lives. In Canada, Indigenous Elders are knowledge-keepers, healers, leaders, and mentors (Atleo 2004; Bridge and Neary 2013; Webster 1983). Both Indigenous Elders who participated in our study reflected on the lasting negative impacts of the residential school system in Canada. Elders in Port Alberni have reflected elsewhere on local sites of cultural significance and the residential school system (Divisions of Family Practice 2021).
+At the same time, there are various ways agriculture is (and has been) practiced within British Columbia. The plow and animal-based agriculture of early settlers across Canada evolved slowly over the 20th? century into a more industrialized system dependent on mechanical and chemical inputs (Wilson 2014). This transition has led to serious social, ecological, economic and ethical consequences. Although the indus trialization of agriculture often increased farm yields and revenues, since the mid1980s net incomes on farms has remained stagnant (hovering around zero) while Canadian farm debt has nearly doubled since the year 2000 (NFU 2021). Hendrickson and Harvey (2005) document how economic pressures created by this type of scenario placed on American farmers has resulted in a perceived erosion of possible ethical choices. The capacity of British Columbia's Local Health Areas (LHAs) to meet regional food self-sufficiency has been calculated to be generally poor. Of the 89 LHAs in British Columbia (which serve as administrative boundaries for the Ministry of Health), 55% are rated to have zero (or low) food self-sufficiency (Ostry and Morrision 2013). Port Alberni falls into this category and was additionally one of 24 LHAs to have both zero (or low) food self-sufficiency and a high diabetes standardized mortality ratio in conjunction with high levels of human economic hardship (Ostry and Morrision 2013). Taking a longer historical view, it seems possible to argue that the "colonization complex" (CARFMS 2023) which resulted in the attempted destruction of Indigenous culture by force and a usurpation of their ancestral land and resources by newly self-declared authorities for economic ends
+
+FOOD, CULTURE & SOCIETY
+
+511
+
+ultimately contributed to also crippling generations of farmers afterward who them selves became constrained by the destructive narrowness of this "colonization com plex" (knowingly or otherwise).
+The history of food in Alberni-Clayoquot was forever changed after the colonization of British Columbia. A new history of food began. Indigenous and imported European practices, once mutually exclusive, became entangled. Both these food histories and realities were documented within our study. To not acknowledge both would be histori cally indefensible as well as a continuation of the practice of disregarding Indigenous food realities on the landscape. Struggles and interactions still exist between these two food histories and it is hoped that future researchers will more deeply explore this important issue.
+
+Materials and methods
+Photovoice methodology
+Photovoice is a collaborative way of doing research that includes community members as co-researchers. Equipped with cameras, participants take photos of the given subject matter; in this case, the meaning of food in their lives. Some argue that the underlying logic of photovoice is to empower the voices of people (Evans-Agnew and Rosemberg 2016) and it is often done with the intention of stimulating social change. In their review of applications of the photovoice method, Strack et al. (2022) found that the method has been predominantly used for (a) photovention (i.e., to stimulate change and improve ment at an individual level), (b) community assessment, (c) community capacity build ing, and (d) advocacy for change. Similarly, Wang (2022) has argued that there are three main goals of photovoice broadly, to (1) reflect a community's concerns/strengths, (2) promote dialogue/knowledge about community issues, and (3) reach policymakers. We continued in this tradition and used photovoice to assess/reflect community values as well as possibly assist with policy development.
+Our work sits within the broader social science tradition of using visual methods to enhance representation and the participant's role in research (Power 2003; Vassenden and Jonvik 2022; Wills et al. 2016). To use the metaphor coined by Joosse and Marshall (2020), the methods of photovoice and food mapping could be seen as two additional "utensils" within the researcher's "toolbox" available for studying food practices. However, in relation to food studies, much photovoice research in the area of food systems has centered on perceptions and experiences of food insecurity, often in relation to groups defined as marginalized, unemployed, vulnerable or low income (Borron et al. 2021; Dougherty et al. 2018; Heidelberger and Smith 2015; Knowles et al. 2015; Lucke, Mamo, and Koenigstorfer 2019; Pine and de Souza 2016; Skinner et al. 2013). However, one longstanding critique of social scientific research is that it tends to focus on those considered "powerless" instead of the "powerful" (Gusterson 1997; Nader 1974 [1969]). Although some of the participants in this study could be labeled as marginalized, many also possessed a great deal of food production power as well as knowledge, experience, and wisdom.
+As noted, Indigenous and non-Indigenous participants within this project had differing personal histories related to the food system. Eight of the photovoice
+
+512
+
+M. J. CURTIS ET AL.
+
+participants were non-Indigenous and two were Indigenous. These differing food histories were also at times enmeshed. Both Indigenous participants in this study were Elders who had extensive knowledge and experience in the traditional oceanbased food system, but also valued gardening, cooking and eating with nonIndigenous foods and methods. All photovoice participants were over the age of 50 and, with the exception of one forager, the participants have spent the majority of their lives in the Alberni-Clayoquot region. As a result of the age cohort of the participants, the photobook ended up representing not just a present-day glimpse into thoughts around the Alberni-Clayoquot food system, but also substantial memories of previous decades. A full description of the photovoice participants' backgrounds, told in their own words, can be found in the Alberni-Clayoquot Photobook (Curtis et al. 2021).
+During the course of this research, the lead author was living in the community of Port Alberni, owned farmland, and worked for local food security organizations. The other two authors work on food sovereignty issues in Canada and globally. All food mapping participants were kept anonymous in the results presented here. Photovoice participants were given the opportunity to review a draft version of this article and submit their thoughts or desired changes. All eight photovoice participants had experience with growing, sharing, processing, harvesting and/or foraging food. They were asked to take photos of four broad themes, in relation to food:
+
+(1) Material (built environment, nature, places and spaces, infrastructure) (2) Meaning (culture, values, worldview, taste, identity, emotions) (3) Competence (food knowledge, skills, expertise, learning) (4) Future Vision of Food (hopes, aspirations, dreams, goals)
+
+Participants were recruited through purposive sampling based on the researcher's local network. We recruited participants who had experience in the food system from particular angles including those who had experience in Indigenous food sovereignty, wild forest foods and foraging, urban/community gardening, and commercial agri culture. In total, 14 in-depth interviews, each approximately one hour in length, were conducted. Participants were compensated at a rate of $26.58 CAD/hour (~$20.46 USD/hour). Two separate interviews with each participant occurred over the year 2020 in order to capture seasonal changes in relation to food. The foragers/wild food aspect was shared between two photographers as one moved away over the course of the research. One farm included three farmers who co-managed a farm and partici pated together during interviews. Prior to the interviews, the photographers were asked to select approximately 20 photos they wanted to share and discuss. In practice, there were often anywhere between 50 to 200 photographs to sort through by the time the interview happened, and it was difficult to decide which were most important. This meant that often 20­30 photographs were discussed. Interviews were semistructured, and the following questions were asked:
+
+(1) What does this photograph mean to you? (2) How does the photo relate to any of these categories?
+
+FOOD, CULTURE & SOCIETY
+
+513
+
+(a) The places and spaces that support food access, food security, food resiliency, past or present?
+(b) The meaning of food, meaning of food access, meaning of food culture or food resiliency, past or present?
+(c) Knowledge, skills, and or learning around accessing food, growing food, cooking food, managing food survival, past or present?
+(d) Relate to your aspiration, dreams, and goals as it relates to food security, food access, food system resiliency?
+(3) Do you have hopes or envision changes in relation to the photo?
+
+The themes that arose from this work were selected based on common interests or stories the participants related during the interviews as well as the photographs they chose to take. Participants were not given strict definitions of food security or food resiliency. A diversity of interests, philosophies, and concerns emerged from each interview, making the resulting five themes more general than specific. However, there were commonalities across all interviews. The themes highlighted spanned most, if not all, interviews (i.e., everyone mentioned social bonds and sustainability in one form or another). Any issues only one or two participants identified as important (e.g., labor and farm economics) were not selected.
+
+Food mapping methodology
+Like photovoice, community asset food mapping, or food asset mapping, has been called a method for community empowerment (Hossen 2016). As Jakes et al. (2015) argue, the exercise of mapping itself can increase a community's feeling of their own autonomy and potentially lessen their dependence on external forces. Food asset maps are also fre quently now used as an emerging tool in regional planning to document available food infrastructures in cities (Cabannes and Marocchino 2018). During mapping, the researcher takes a backseat and participants take control. In the arena of food mapping, the most commonly created maps today are Geographic Information System (GIS) generated maps which often show places where people grow, prepare, share, buy, receive or learn about food. The definition of a "food asset" is open-ended, but maps often include working farms, community kitchens, food processing locations, food banks or soup kitchens, farmers' markets, and community gardens.
+With the exception of food desert maps which map where food or food-related infrastructure is absent (De Master and Daniels 2019), one criticism of food asset maps is that they generally avoid any interrogation of critical issues within the current food system. The overt emphasis on assets means we are often presented with maps which make it appear that communities are growing, harvesting, distributing, buying and selling food abundantly and without challenges. Some argue food asset maps have also generally failed to include culturally and ecologically important food infrastructures (Soma et al. 2022) and that GIS maps may reinforce a "map tyranny" that gives primacy to scientific worldviews (Duncan 2006). In the spirit of other more critical alternative mapping movements such as critical cartography, critical GIS, counter-mapping, radical cartography, and deep mapping, we sought to enrich traditional food asset maps.
+
+514
+
+M. J. CURTIS ET AL.
+
+Figure 3. Food asset mapping table, Port Alberni, 2020.
+Two food mapping "charrettes" were held in the summer of 2019 with 42 parti cipants in total from Port Alberni and Tofino (Figure 3). A charrette is a community engagement process common in the field of planning whereby community members gather to share their visions and insights and collaborate to provide direct input on an issue. The events were open to all and advertised in the local newspaper and through local food security organizations. Participants were assumed to live within the ACRD, but anyone who had experience with food in the region was able to attend. Some participants in the Tofino session may have been seasonal or temporary residents. Their experiences were deemed just as valid (albeit distinct) as those of others who had resided there longer, as the place is marked by a high rate of seasonal workers who make up a large percentage of the population yearly.
+Given the contacts utilized in the recruitment, participation was expected to be biased toward community members with an already existing interest in the food system. It was noted that many who participated were personally invested in
+
+FOOD, CULTURE & SOCIETY
+
+515
+
+agriculture through paid or volunteer work. Others felt it important for broader reasons such as their own family histories with food, sustainability, and/or com munity well-being. The age range of mapping participants was from pre-teens to seventies. During the session, questions related to food security were written down on notecards and placed in front of each attendee's seat. Participants were also asked to place different colored dots on physical maps to indicate important food locations (e.g., a past or present food growing, processing or gathering location).
+Answers from both sessions are blended in the results, but reflections on the locational differences are provided where necessary. All written responses were coded with a term indicating the main focus or theme of the response. For instance, if family were mentioned, this was labeled as "family," or if mushroom picking was mentioned, this was coded as "foraging." Foraging could have been noted as a production challenge (e.g., forestry operations as interfering with mushroom picking) or as a source of joy or as an activity to do with friends. Depending on how it was described, some items were re-coded into other group ings which emerged. In the end, all mentions of celebrations, friends, or commu nity were grouped together under the rubric of "community." This process slowly led to the most common general themes and the quantitative results. A sample of responses is given for each category.
+A physical map was planned, but not created in the end, due to ethical considerations. An individual or community's food landscape includes locations and memories they find joyful as well as traumatic. After considering the results paired with our knowledge of the region, we decided that creating a map that included only the positive aspects of food history was inappropriate, as a denial of negative truths across a landscape can worsen the still present reverberations of them. There are many social, historical, ecological, and economic wounds in the region. A wound may scar, but it does not disappear, especially if never correctly healed. The roots of these wounds extend down generations in the region and a more culturally, ecologically, and historically rich food map would need to include them. In addition, there may be places that participants do not want to publicize which can make the public element of food mapping challenging or inappropriate at times. Assessing social, historical, ecological, and economic wounds takes discernment and an honest assessment of what one's purpose is and is not. Such an assessment is both factual and objective as well as intuitive and spiritual. While we decided a map was not suitable in this case, we found the written answers just as insightful. The following questions were asked of all attendees:
+
+(1) When you think about food, what comes to your mind? (2) What does the term "food assets" mean to you? (3) What role does food play in your life ­ both past and present? (4) What is your vision for the future of food here and in your neighborhood? (5) What are some of the most frustrating or challenging issue(s) when it comes to
+food-related matters in your community (e.g., food access, food-related sector, employment in food industry)?
+
+516
+
+M. J. CURTIS ET AL.
+
+Results
+Photovoice results
+From the land to sea to forest, the photographs taken covered a wide variety of important places, skills, and aspirations. They reflect the varying spaces occupied (e.g., the urban garden, family farm, ocean, and forest) yet the five following common themes emerged:
+
+(1) Community and social bonds (2) Learning and experimentation (3) Self-sufficiency and sustainability (4) Metaphysics/Spirit (5) Governance challenges
+
+Community and social bonds In downtown Port Alberni, one participant spoke about urban food sharing (Figure 4) and the Urban Growers Collective. Together, the Collective sold their produce and hoped for a "unity of community." He explained the importance of this,
+
+When I moved here and took a stroll around the neighborhood, I noticed two stalls. They looked like fixtures in place for decades. One was for eggs, one for vegetables. And of course, it's the honor system, and I remarked on this on Facebook. There is something special about a neighborhood that can still do that. It reflects a sense of trust and respect. (Interview no. 2, May 2020)
+At the same time, the loss of community social cohesion was noted,
+
+Figure 4. Free surplus garden vegetables, Port Alberni, 2020.
+
+FOOD, CULTURE & SOCIETY
+
+517
+
+We don't know what it means to have scarce food available. As with so many other aspects of North American culture, food has become an individual pursuit. We have lost a great deal of a sense of community that way. It's even reflected in the way we live ­ the nature of our neighborhoods and houses -- and neighbors don't generally communicate as they used to. (Interview no. 2, Port Alberni, May 2020)
+
+Another participant skilled at foraging in the forest, remarked about how she often met people while foraging. One experience was she described in detail,
+
+Last year, I was walking down the alley and saw walnuts on the ground, so I picked them up. But, I also saw lots inside the fence so I went around to the front door, knocked, met the resident and asked, "Could I clean up your yard a little?" He said, "I already picked up most of the nuts, but just a second."
+Then he came out with two big bags of walnuts for me and said, "I'm happy to share these ­ thank you for dropping by." It's easy for people to share when they can come together and talk, when they are not afraid of their neighbor. (Interview no. 1, May 2020)
+
+The decline of the practice of chewing food to introduce children to wild foods and help them develop a palate was also noted by an Indigenous photographer,
+
+For instance, I used to chew the food for them and give it to them when they were babies. You don't really see that anymore. Stuff like that is not done anymore, but it's something that my grandmother and mom taught me. It was also because that's all that there was. We couldn't really go out and get steaks from a restaurant or store because we couldn't really afford it, so we had fish heads, fish hearts, crabs and other things. (Interview no. 6, June 2020)
+
+The traditional Indigenous practice of eating fish heads requires teaching. Unlike other flesh, fish head meat gets very soft the longer you bake it (Figure 5). Other parts of the fish like the small hearts were also used in dishes that are now uncommon. The same participant reflected on introducing children to fish heads as food in the local school in an attempt at reviving food culture in spite of the unimaginable hardship and food injustice faced in the past:
+
+We are slowly trying to get the cultural practices back. Some of our Elders unfortunately were from the residential school ­ they are the ones that are coming up to be Elders now. Even myself ­ I'll be 65 in October. You know, mostly we've lost some of the cultural practices although I still remember some things that my mom, dad and grandparents taught me, but I don't live it all the time. (Interview no. 13, October 2020)
+
+Teaching the next generation may take time out of one's schedule and routine, but it was said to be nevertheless worth it. As one of the farmers shared:
+
+As our grandson grows up on the farm, we hope he will form a relationship with the land. It takes time and energy to teach him, but it's an investment in the future. He mimics what he sees others do on the farm with his toys later ­ with his tractor. We introduce him to everything including safety on the farm. I hope that the next generation takes up the challenging, but rewarding, task of growing food, and caring for the environment in all it encompasses. (Interview no. 4, June 2020)
+
+518
+
+M. J. CURTIS ET AL.
+
+Figure 5. Baked fish heads, Ucluelet, 2020.
+Learning and experimentation Intergenerational learning was discussed as frequently as an individual's journey of learning through plants and animals in all seasons and over the course of their entire life. Knowledge related to harvesting mushrooms was explained to take years to develop (Figure 6),
+Every year or so I pick up knowledge of one or two additional edibles, and I have to get really comfortable with recognizing them before gathering, especially with mushrooms. I'll find out about one, pick it and then forget about it. Then the next season comes along, and I'll spot it again in its immature form, and then maybe forget to go harvest it when it's actually mature. After a couple years of that, I'll recognize that variety with confidence, know and remember when and where to get it. (Interview no. 11, Port Alberni, October 2020)
+Forest foods, like berries, require one to become acquainted with their specific flavors: "When we use wildfoods we have to retrain our mind to be open to new tastes" (Interview no. 1, May 2020). The role of experimentation was mentioned by many. One farmer explained that when growing a plant, one should learn as the plant grows and know that this could take many years (Interview no. 3, June 2020). Another participant took pride in experimenting with various potato varieties over many years. He explained that in his approach,
+
+FOOD, CULTURE & SOCIETY
+
+519
+
+Figure 6. Wild mushroom harvest, Port Alberni, 2020.
+Everything is an experiment. They will probably put this on my gravestone. So much of what I do in the garden is me saying, "Well I don't know whether this is going to work out or not!" So you just try stuff. I was thinking the other day, the nice part about thinking of it as an experiment is that scientifically you are not supposed to have a feeling one way or another about the result. When the experiment fails, well it isn't really a failure, it just tells you what happened. (Interview no. 7, May 2020)
+Self-sufficiency and sustainability
+We are having to recover knowledge we have let go and re-establish some of our selfsufficiency. When I was first introduced to the concept of food security 30 years ago by a friend, a dietician in Kamloops, I thought, `We are food insecure! Why talk about it?' Most of us have known only an abundance [from non-local food sources](Interview no. 9, October 2020).
+All photographers wanted to see increased local food sufficiency. Connected to this were sustainable practices whether they be on ocean, farm, while gardening, or foraging. One participant explained that the goal on their farm was " . . . to be a self-contained unit, a farm which can operate within its own footprint" (Interview no. 3, June 2020). The use of manure was discussed as a key element of sustainable on-farm practices and the chal lenges with energy costs were not glossed over. A participant who gardened a small plot (Figure 7), took pride in being carbon neutral, stating "I call the garden my farm . . . It is also not only, for the most part, an organic farm, it's also a carbon neutral farm. When I go
+
+520
+
+M. J. CURTIS ET AL.
+
+Figure 7. Brussel sprouts in a garden plot, Port Alberni, 2020.
+to the "farm," I use either my electric bike or my electric car (Interview no. 7, June 2020). All-season production and preservation were highlighted by many as well. One partici pant argued that,
+Our communities should be doing more seasonal production. They should learn how to winter store and preserve food stuffs as we used to do, in order to be more sufficient without the transportation of foreign goods. Working with Mother Nature as our forefathers did. (Interview no. 8, October 2020)
+Growing choices were sometimes correlated with the ability of the produce to be frozen or preserved. On participated explained, "I've tried to do is to raise stuff that will last throughout the year. So, I'm really big on squash. I usually raise 200lbs [~91 kgs] per year. That's about 100 squash and roughly 30 plants" (Interview no. 14, October 2020). Sustainability also emerged as a theme in the practice of foraging (Figure 8). This extended even past food to wild plants, as one participant stated,
+I pick the rose petals sustainably so the bees are still attracted by the vibrant colors of the blossoms and will still come to pollinate the flowers. Responsible wildcrafters take a pledge to only pick ten percent. And that's of what they see. You can't go up to a plant and decide,
+
+FOOD, CULTURE & SOCIETY
+
+521
+
+Figure 8. Sustainable harvest of Rose Petals, Port Alberni, 2020.
+"oh here's a good patch, I'll just pick all of this because there must be more in the forest even though I don't see them". (Interview no. 1, May 2020)
+Similarly, the size and impact of farming operations was discussed in connection to sustainability. Those who farmed advocated for a "smaller is better" approach. On participant with many years of commercial farming stated,
+We have always maintained that bigger is not better. Environmentally, you are far better off to have small functioning agriculture, especially if you are going to support local sustain ability. There will be those that cater to the export market, as the province and federal government is focused on. Many in the dairy industry were told to go big or get out ­ bigger was said to be "more efficient." We had 20 dairies in the 1940's in Port Alberni, now we have two (Interview no. 8, October 2020).
+Another described how small-scale biodynamic farming (Figure 9) made the most economical sense to them,
+Agriculture is a way of life for us, not an industrial activity. We don't want to do industrial agriculture with its chemical fertilizers, toxic pesticides and intensive capital outlay . . . You have to think small is beautiful. Small is the best way ­ small does not require a huge surplus of capital (Interview no. 10, October 2020).
+Beyond the physical to the metaphysical
+Stop and savor the food and really taste it. You will notice that you will really enjoy all the food. You should never cook when you are angry because that anger will go into the food and it will not taste so good. Food was a living thing at one time (Interview no. 5, June 2020).
+
+522
+
+M. J. CURTIS ET AL.
+
+Figure 9. Biodynamic farming components, Port Alberni, 2020.
+Talk of the immaterial aspects of food occurred often. We have labeled these responses as metaphysical, and we use the term literally. Meta, a word meaning after or beyond, combined with the word physical (that which we can touch, taste, feel, see, hear). The metaphysics of food here refer to anything mentioned that was beyond physical. An emotion being transferring into food from one's physical body is a metaphysical process. Both participants skilled at foraging noted metaphysical components of plants and reality. One explained, "Look at the weeds that come up if you just let Mother Nature do her thing . . . If you allow Mother Nature to feed you, she will" (Interview no. 11, October 2020). Another told that there was an Indigenous species of hazelnut in the Alberni Valley area on the Nuu-chah-nulth traditional territory which, as the tree of knowledge, was said to "always hang around rivers so it can spread its knowledge down the river" (Interview no. 1, May 2020).
+When mixing soil on the farm, one participant explained that the process was always done collectively with a group as it was essential to get human energy incorporated. The energy of the group as well as their intentions were important. They explained, "It is the energy of the group and the people around it that matter" (Interview no. 3, June 2020). As we spoke further, a deeper theory on a metaphysical truth of growing was described,
+I can grab a piece of land and say "Ok, I'm going to put my fence around it and I'm going to plant it and I will make money!" But if I look at it from a perspective that I am growing
+
+FOOD, CULTURE & SOCIETY
+
+523
+
+because I love flowers, I love soil, I love vegetables, my intention is raised. When you approach your garden this way, the financial bounty will come anyways because you will have so many fruits and so many flowers you won't have enough people to give them to. That is the truth of growing. (Interview no. 3, June 2020)
+One photographer directly tied emotional culture to current economic behavior around food. She explained,
+Society's church is the church of overconsumption. It is our present religion. We are willing or unwilling members. Once you understand that this is our present-day religion, and that people have an emotional attachment to it, then a lot of things become clearer . . . Greed is no longer viewed as a sin. It is viewed as a virtue. The one with the most toys when they die wins. It's not based on logic. It's completely emotional. (Interview no. 10, October 2020)
+This aspect of food ­ where nature's invisible guidance directs, when hazelnut leaves imbue us with knowledge, and through which love and greed create or destroy ­ was noted by many participants. Food is not only fundamental to our bodily existence, but it also evokes and contains existential questions of how we live, exist and relate. A participant reflected on our times:
+If there is a silver lining to this pandemic [COVID-19], I think it has people thinking about the more important themes, the fundamentals in life. That's what I was kind of alluding to with the regular day-to-day grind, people having to adapt continually to change. We don't have this opportunity to pause and say, "Where are we going? We can't keep doing some of these things". (Interview no. 9, October 2020)
+
+Governance challenges None of the questions in the photovoice project directly inquired about frustrations or challenges related to food. However, all farmers and Indigenous participants mentioned negative issues arising from government actions. On the farm front, participants com plained that government disproportionately rewards large-scale farming. Some partici pants noted and rejected the stereotype of the farmer as the "dumb peasant" and expressed frustration with a system they say is structured to keep food cheap (Interview no. 10, October 2020). Overall, the government was considered to be an actor that did not understand the economics of small farms (Figure 10). As one participated stated,
+
+Family farms and other landowners are constantly having to choose how their agriculture venture can be maintained . . . Current regulations negatively affect how family farms will be able to carry on. Crown Land [government owned agricultural land] in British Columbia is not being utilized and I think that helps maintain the high cost of land. We live in a favorable climate which attracts others to our locale ­ people that may not necessarily be interested in food production, but rather investment speculation. (Interview no. 8, October 2020)
+
+Small herd of sheep at the farm, Port Alberni, 2020
+The Indigenous participants noted significant and longstanding challenges with govern ment related to fisheries. Discussing her photos of salmon (Figure 11), one photographer explained,
+
+524
+
+M. J. CURTIS ET AL.
+
+Figure 10. Small herd of sheep at the farm, Port Alberni, 2020.
+This photo represents to me the access and availability of salmon on our river for First Nations. I think sometimes it's unpredictable. Like this year, at the beginning, we didn't think we were going to get any salmon, so when my niece gave me one salmon, I was so happy because I didn't think I would get even one. Part of the challenge, I think, is how DFO [the Canadian Department of Fisheries and Oceans] don't realize that First Nations actually know more about the salmon than they do. They are the ones that dictate how things are going to go and how much salmon there is and all that kind of stuff, but First Nations have actually been doing it for years, and they know. (Interview no. 5, June 2020)
+Both Indigenous participants spoke to the long-standing historical issues around fish eries and recalled government interference with traditional food practices,
+It's like a lot of other things when it comes to First Nations and the government and colonialism. They came along and said, "Oh you can't hunt anymore. You have to have a ticket or you have to have a license." You know? All that kind of stuff. Whereas before, First Nations just went out. (Interview no. 5, June 2020)
+Likewise, another participant explained,
+I read a book about a gentleman in Ahousaht [a First Nations community on the Clayoquot Sound coast], an Elder. He said that they always fished. When they started having to do licenses, he said they never got licensed so they'd all end up in jail because nobody knew how to get licenses. The First Nations knew where to go to get fish, and not a lot of non-natives did, so they would be following the native people out to see where to go fish. (Interview no. 6, June 2020)
+Food mapping results
+In both food mapping sessions, participants' backgrounds varied. Some had direct experi ence in farming or gardening (many times intergenerational) while others were urban
+
+FOOD, CULTURE & SOCIETY
+
+525
+
+Figure 11. Smoking salmon, Port Alberni, 2020.
+dwellers interested or concerned about food security. Some were involved in food rescue (making use of unused food or food intended to be binned), food security advocacy or food redistribution, while others aspired to garden more and to see more food grown in the community. Although five questions were asked during the mapping session, many participants answered the first three together. Therefore, how people thought about food, or food assets, and the role food played in their life were combined in the results.
+The role and meaning of food: food sovereignty Seven categories were generally noted by participants when asked about the role and meaning of food in their lives (Figure 12). Food was associated with:
+(1) Localization (wherein food was associated with increasing production locally). (2) Health (wherein food was associated with the body, health, nutrition, diet, and
+survival). (3) Places (wherein food was associated with the specifics of the location/external
+environmental (sometimes known as the bioregion). (4) Production (wherein food was associated with methods, learning, and the history
+of production).
+
+526
+
+M. J. CURTIS ET AL.
+
+Figure 12. The role and meaning of food.
+(5) Community (wherein food was associated with others and its function in mediat ing the social connections we have with others).
+(6) Metaphysics (wherein food was associated with that which is beyond the physical such as emotions, spirit, energies and existential questions).
+(7) Economics (wherein food was associated with livelihoods, trade, and bartering).
+Although the word "sovereignty" was never mentioned in any responses, these resulting seven aspects of the meaning/role of food appear to align with the Seven Pillars of Food Sovereignty as described by La Via Campesina, and Canadian groups interested in transforming the food system (Desmarais and Wittman 2014; Nyéléni International Steering Committee 2007; Wiebe, Desmarais and Wittman 2011). The seventh pillar, "food is sacred", was added during the 2011 Peoples' Food Policy process by members of the Indigenous Circle (Food Secure Canada 2011). The similarity between the Seven Pillars and our results are illustrated in Table 1.
+Visions for the future of food: increasing production
+We found the following four main areas of focus in participants' responses about their visions for the future of food: 1) more production, 2) more self-reliance, 3) more interest from the community, and 4) more education for youth. Those interested in more production empha sized their wish to see the local food sector grow (either as producers or as consumers) and for local food availability to increase. Self-reliance was mentioned by those who hoped for a future wherein more people grew or stored enough food to feed themselves or their families. Other participants desired more interest from the community in food production or consumption (such as an increased interest in buying local). Lastly, youth education was considered to be a key mechanism for the realization of a better future food system.
+
+FOOD, CULTURE & SOCIETY
+
+527
+
+Table 1. Seven Pillars and Seven roles of food.
+
+The Nyéléni Forum 7 Pillars of Food Sovereignty (Nyéléni International Steering Committee 2007)
+
+Alberni-Clayoquot: The Role/ Meaning of Food
+
+Pillar 1: Focuses on Food for People
+
+Health/Survival
+
+The right to sufficient, healthy and culturally appropriate food is positioned in the
+
+center of food policies.
+
+Pillar 2: Values Food Providers
+
+Economics/Livelihoods
+
+Respects the contributions and rights of all food producers and rejects policies or
+
+actions that undervalue them or threaten their livelihoods.
+
+Pillar 3: Localises Food Systems
+
+Localization
+
+Encourages greater connectivity between food providers and consumers and
+
+protects local production.
+
+Pillar 4: Puts Control Locally
+
+Community/Production Practices
+
+Emphasizes local control of land and food and positive interactions between food
+
+providers.
+
+Pillar 5: Builds Knowledge and Skills
+
+Community/Production Practices
+
+Builds on local knowledge to develop and manage localised food systems and
+
+encourages the passing on of this wisdom to future generations.
+
+Pillar 6: Works with Nature
+
+Places/Regional Ecology
+
+Encourages production methods that maximize the contribution of ecosystems and
+
+improve resilience and adaptation.
+
+Pillar 7: Food is Sacred
+
+Emotional/Metaphysical
+
+Affirms the web of relationships within our natural world including those which
+
+transcend the material world.
+
+A minority of participants voiced a more dystopian or negative vision. This was unexpected as the question was meant to illicit idealistic responses. These answers reflected fears such as: mass production elsewhere, increased importation, environmental damage, and a lack of care about local production. When the categories of local selfreliance (i.e., the ability of an area to feed itself) and more production are combined, 73% of the responses focused on increasing local production. The remaining 27% of responses concentrated on passing their skills on to the next generation and hoped for increased community interest in local foods (see Figure 13).
+Challenges and frustrations: place and systems-based The most frustrating or challenging issue(s) noted in relation to food in the community were external and systems-based (i.e., beyond local control). In general, responses can be divided into six categories: 1) access (to food), 2) economics (e.g., the cost of food/insufficient or dissatisfactory income from producing food), 3) government (legislation and regulations), 4) local availability, 5) farmers' markets, and 6) food waste.
+In Figure 14, "access" refers to the ability of people to access land or water for food production or harvesting while "local availability" refers to the ability to buy food that is not imported (i.e., food grown locally). "Government" refers to any food regulation or legislation at any level of government in Canada and "economics" references any financial challenge related to food affordability or production. "Farmers markets" are local food producer markets in Canada, usually held once per week during the harvesting season (May until October). "Food waste" are any concerns related to the ineffective disposal of food which could be composted, fed to animals, or that is fit for human consumption.
+
+528
+
+M. J. CURTIS ET AL.
+
+Figure 13. Visions for the future of food.
+
+Figure 14. Challenges and frustrations.
+
+FOOD, CULTURE & SOCIETY
+
+529
+
+Discussion
+Combining photovoice and food mapping methods
+We found only a few articles in health research that combined photovoice and asset mapping in a way similar to ours (Florian et al. 2016; Miranda, García-Ramírez, and Albar-Marín 2020). Two others have been published by our collaborators who did similar work in Vancouver, British Columbia (Soma et al. 2022; Soma, Li, and Shulman 2022). The methods appear to complement each other as photovoice adds richness and depth to asset mapping exercises which are (by design) short-lived but include a larger sample size. Each method compensates for the other's weaknesses ­ photovoice's small sampling size and richness are mirrored inversely by food mapping's larger sampling size and superficiality (i.e., the responses were much shorter than what were elicited during hourplus interviews). This combination increases the power of the study to not only draw conclusions, but also defend them.
+The dovetailing of our results further demonstrates that these two methods can work to validate or possibly invalidate the results of both. The project was not designed to use the results from each method as a test against the other because the aim of this project was not methodological. Although our end results fortunately aligned well enough, in retrospect, from a methodological angle, it would have been preferable to pay more attention to the wording and alignment of questions across both methods. Therefore, if others combine use of these methods in future (together or over time), we suggest congruence in questions' design so that the results can be comparable.
+
+Community results
+This work also confirms that the use of photovoice is surely not just for people in our communities whom we see as marginalized or who identify as such. Our communities are formed by a multitude of voices ­ many of whom no doubt hold more power than others. As our food system is disproportionately affected by those in power ­ those who own land, control finance and investments, and those who occupy key nodes along the supply chain ­ it seems logical to also understand their visions of the world. Researchers should continue to "study up," interrogate the structures of power and vested interests, as Nader (1974 [1969]) recommended to social scientists in the mid-1970s. It seems logical that the most comprehensive analyses of the food system would be those that integrate all perspectives. Two excellent examples of researchers "studying up" include those on the financialization of agriculture (Clapp and Isakson 2018; Fairbairn 2014). Both works document the presence, viewpoints, and implications of powerful financial actors, motives, and tools within the food system.
+Our photovoice research did result in various community outcomes that we hope may potentially (indirectly or directly) inform policy in the future. An Alberni Clayoquot Photobook (Curtis et al. 2021) was published and is freely accessible online. It profiled participant photographs and their reflections (Figure 17). After securing funding, 270 copies were distributed within the community and many additional copies were purchased by the ACRD. All proceeds from the sales went to a local farming organization (the Alberni Farmers' Institute). Additionally, selected photos from the Photobook were printed in 2022 to form an ongoing yearly exhibit at the Alberni Fall Fair which draws upwards of 20,000
+
+530
+
+M. J. CURTIS ET AL.
+
+Figure 15. Visions for the future of food, Port Alberni word Cloud, 2020.
+
+Figure 16. Challenges and Visions for food, Tofino word Cloud, 2020.
+people on Vancouver Island. A one-time exhibit was held at Science World (Vancouver) in December 2021 that profiled some of the participants' photography. Finally, the findings of the food mapping exercises were distilled into word clouds and provided to local agricul tural support workers (examples of these include Figures 15 and 16). We hope these outputs can assist the community in reflecting on which actions facilitate a historically sensitive, fair, and ethical food system and which may hinder it.
+Food sovereignty The Nyéléni Declaration of 2007 defined food sovereignty as "the right of peoples to healthy and culturally appropriate food produced through ecologically sound and
+
+FOOD, CULTURE & SOCIETY
+
+531
+
+Figure 17. Meg's hand with grain, Port Alberni, 2020.
+sustainable methods, and their right to define their own food and agriculture systems" (Nyéléni 2007, 1). Our results demonstrate that the 7th Pillar, "food is sacred," is also a relevant and real part of how both Indigenous and non-Indigenous peoples in the region experience food. While there are important distinctions between Indigenous and non-Indigenous food sovereignty ­ the former has its own set of historically specific and contemporary legal, cultural, economic, philosophical and social concerns and possibi lities ­ many participants in our study referenced the intrinsic sacrality of food plants.
+Indigenous food sovereignty is a specific approach for addressing the unique issues impacting Indigenous Peoples in relation to the food system (Robin, Rotz, and Xavier 2023). The Working Group on Indigenous Food Sovereignty out of the B.C. Food Systems Network defines four key principles of Indigenous food sovereignty: sacred responsibility, cultural participation, self-determination, and policy reform (Working Group on Indigenous Food Sovereignty 2023). Topics within the general global body of work on food sovereignty may at times overlap, and at other times, differ from what scholars and practitioners in the field of Indigenous food sovereignty focus on.
+We would argue that many participants appeared to have imagined, or wished for, a future in which regional food production is increased by means of increasing food sovereignty. Furthermore, we interpret the alignment of these findings with the Seven Pillars to confirm that:
+
+532
+
+M. J. CURTIS ET AL.
+
+(1) Food sovereignty is made up of a bundle of concerns around food that transcend global borders and,
+(2) Photovoice and food mapping participants from the ACRD can be generally characterized as "Sovereign at Heart."
+
+People cannot always verbalize or write what is in their hearts. However, the totality of the results indicate that sovereignty is an undeniable aspect of what many farmers, gardeners, fishers, foragers, and food system advocates in the region strive toward. To be a sovereign person means literally to govern, control or rule oneself. As such, the term applies equally in our communities. A sovereign food system would be one with a destiny governed and controlled by its participants. Although no participant or photographer used the term "sovereignty" to describe their struggles or ideals, the term describes the essence of their values and reflections.
+Challenges faced by the ACRD, and other Regional Districts in British Columbia (of which there are 28), that stand in the way of any near realization of food sovereignty are numerous (Curtis 2023). These are legislative, rooted in unequal government policies, as well as compounded through competition in a global marketplace. For regional food sufficiency to grow past single digit percentages, this study indicates that the 7 Pillars of Food Sovereignty (Table 1) may need be attended to. That is, food policy must be written with an awareness and affirmation of the many different roles that food plays in people's lives. Policies created without integrating these realities are lopsided and may inevitably be proven ineffective in the long-term as they are built disproportionately and thus contribute to a climate of inequality and feelings of incompleteness. Perhaps the Achilles heel of Canadian agricultural food policy over the 20th century, and into the present, could be its consistent overestimation of the importance of financial returns, at the cost of social, ecological, and ethical concerns, when it comes to feeding a population.
+
+Authors' reflections on giving back and a heart-centered approach
+The results of this work affirm the value of a heart-centered approach to research and the act of giving without expectation of return ­ simply for the welfare of others. While the transformation of our food system involves governance issues, food is also fundamentally apolitical as the human act of sharing, bonding over, and growing food transcends borders and politics. One of the most celebrated writers on agricultural ethics, Wendell Berry (2010), once wrote,
+Farming by the measure of nature, which is to say the nature of the particular place, means that farmers must tend farms that they know and love, farms small enough to know and love, using tools and methods that they know and love, in the company of neighbors that they know and love. (210)
+Indeed, these words appear to align with one of the original creators of photovoice, Wang (2022), who earnestly stated, "I want to say, please look in your heart, and may your work be rooted in the goals and core values that underlie photovoice" (205). Furthermore, they also appear to work well with some of the Indigenous perspectives related to heartcentered work that inspired this research as well as Indigenous food sovereignty efforts which led the way in reminding the global community that food is sacred.
+
+FOOD, CULTURE & SOCIETY
+
+533
+
+Participants in the food mapping sessions often pointed to external factors as pre senting challenges to their local food system. However, as the history of this region illustrates, many of the food system injustices in the Alberni Valley result from both external and internal actions over the last two centuries (Curtis 2023). These choices bring consequences. They are tied to those before us, but also ours alone today. That is, the task of sovereignty is impacted both by what we inherit as well as what we now choose to create. Various paths are open before us, but paths that may lead to a food system built on reciprocity and abundance require different choices than those that lead to depriva tion and regional food poverty.
+Many of the community responses indicate a disconnect currently between what many wish to see and what is happening on the ground. Policy complexities exist, yet it is also likely that for any new food system to arise, a proper foundation need be in place that includes: 1) safeguards to ensure that all of the meanings of food are protected (so that they can be expressed and practiced), and 2) an awareness that the value of food production extends beyond short-term monetary returns and may need to integrate other ethics such as the value of unconditional giving.
+Unconditional giving is the essence of love and without that fundamental ingredient that stems from our hearts, we believe all attempts to engineer or change our food systems may be in vain. The rate at which participants mentioned love and joy was not incidental, nor was it something frivolous, cute or folksy. Life is made alive through giving. Death is the absence of life marked by taking without reciprocation, which ultimately leads to destruction; anyone who knows anything about soil knows this. Sovereign at heart can be translated in Latin as libertatem in corde and as the Latin saying cor aut mors reminds us ­ we all have a choice between heart or death. This project indicates that equality and justice in our food system will likely remain out of reach until we affirm the importance of sovereignty not just with our minds, but also through our hearts.
+
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+
+Funding
+This work was supported by the New Frontiers in Research Fund (NFRF) within the Social Sciences and Humanities Research Council (SSHRC) of Canada under Application ID NFRFE2018-00517 and by University of British Columbia's Public Scholars Initiative (2019-2021).
+References
+ACRD (Alberni-Clayoquot Regional District). 2011. Alberni Valley Agricultural Plan: 2011-2031. Port Alberni: Alberni-Clayoquot Regional District.
+Atalay, S., and A. McCleary. 2022. The Community-Based PhD: Complexities and Triumphs of Conducting CBPR. Tucson: University of Arizona Press.
+Atleo, E. R. 2004. Tsawalk: A Nuu-Chah-Nulth Worldview. Vancouver: UBC Press. Berry, W. 2010. What are People For?. Berkeley: Counterpoint.
+
+534
+
+M. J. CURTIS ET AL.
+
+Borron, S., A. Kurtz, H. Weaver, and A. Weaver. 2021. "Re-Envisioning Emergency Food Systems Using Photovoice and Concept Mapping." Journal of Mixed Methods Research 15 (1): 114­137. https://doi.org/10.1177/1558689820933778.
+Bridge, K., and K. Neary. 2013. Voices of the Elders: Huu-Ay-Aht Histories and Legends. Victoria: Heritage House.
+Cabannes, Y., and C. Marocchino, eds. 2018. Integrating Food into Urban Planning. London: UCL Press. CARFMS (Canadian Association for Refugee and Forced Migration Studies). 2023. "Colonialism."
+York University. http://rfmsot.apps01.yorku.ca/theoretical-frameworks/colonialism/. Clapp, J., and S. R. Isakson. 2018. Speculative Harvests: Financialization, Food and Agriculture.
+Halifax: Fernwood Publishing. Coté, C. 2010. Spirits of Our Whaling Ancestors: Revitalizing Makah and Nuu-Chah-Nulth
+Traditions. Seattle: University of Washington Press. Curtis, M. J., ed. 2021. "Alberni-Clayoquot Photobook. SFU Food Systems Lab: Vancouver, BC."
+https://foodsystemslab.ca/projects/photovoice/alberni-clayoquot-photobook/ . Curtis, M. J. 2023. "Agricultural food sufficiency in Alberni-Clayoquot, Canada: An Applied
+History Approach." PhD diss., University of British Columbia. https://open.library.ubc.ca/ soa/cIRcle/collections/ubctheses/24/items/1.0434226 . Daniels, B., and A. Sterzuk. 2022. "Indigenous Language Revitalization and Applied Linguistics: Conceptualizing an Ethical Space of Engagement Between Academic Fields." Canadian Journal of Applied Linguistics 25 (1): 1­18. https://doi.org/10.37213/cjal.2022.31841. De Master, K. T., and J. Daniels. 2019. "Desert Wonderings: Reimagining Food Access Mapping." Agriculture and Human Values 36 (2): 241­256. https://doi.org/10.1007/s10460-019-09914-5. Demeritt, D. 1995. "Visions of Agriculture in British Columbia." BC Studies 108:29­59. Desmarais, A. A., and H. Wittman. 2014. "Farmers, Foodies and First Nations: Getting to Food Sovereignty in Canada." The Journal of Peasant Studies 41 (6): 1153­1173. https://doi.org/10. 1080/03066150.2013.876623. Diver, S. W., and M. N. Higgins. 2014. "Giving Back Through Collaborative Research: Towards a Practice of Dynamic Reciprocity." Journal of Research Practice 10 (2). Divisions of Family Practice. 2021. Voices of the Elders. Vancouver: British Columbia Medical Association. https://divisionsbc.ca/central-island/resources/indigenous-health-resourcesphysicians/voices-elders . Dougherty, D. S., M. A. Schraedley, A. N. Gist-Mackey, and J. Wickert. 2018. "A Photovoice Study of Food (In)security, Unemployment, and the Discursive-Material Dialectic." Communication Monographs 85 (4): 443­466. https://doi.org/10.1080/03637751.2018.1500700. Duncan, S. L. 2006. "Mapping Whose Reality? Geographic Information Systems (GIS) and "Wild science"." Public Understanding of Science 15 (4): 411­434. https://doi.org/10.1177/ 0963662506061885. Ermine, W. 2007. "The Ethical Space of Engagement." Indigenous Law Journal 6:193­201. Evans-Agnew, R. A., and M. A. S. Rosemberg. 2016. "Questioning Photovoice Research: Whose Voice?" Qualitative Health Research 26 (8): 1019­1030. https://doi.org/10.1177/ 1049732315624223. Fairbairn, M. 2014. ""`Like Gold with yield': Evolving Intersections Between Farmland and Finance." The Journal of Peasant Studies 41 (5): 777­795. https://doi.org/10.1080/03066150.2013.873977. Florian, J., N. M. Roy, N. M. Omer, L. M. Quintiliani, V. Truong, Y. Feng, P. P. Bloch, Z. L. Russinova, and K. E. Lasser. 2016. "Using Photovoice and Asset Mapping to Inform a Community-Based Diabetes Intervention, Boston, Massachusetts, 2015." Preventing Chronic Disease 13:E107­E107. https://doi.org/10.5888/pcd13.160160. Fontaine, P., A. Craft, and and The Truth and Reconciliation Commission of Canada. 2015. A Knock on the Door: The Essential History of Residential Schools from the Truth and Reconciliation Commission of Canada. Winnipeg: University of Manitoba Press. Food Secure Canada. 2011. "Resetting the Table: A People's Food Policy for Canada." https:// foodsecurecanada.org/2015/06/24/peoples-food-policy-project/ . Goldberg, H. 2014. "Giving Back in Solidarity." Journal of Research Practice 10 (2). Gupta, C. 2014. "Reflections on Giving Back and Giving Thanks." Journal of Research Practice 10 (2).
+
+FOOD, CULTURE & SOCIETY
+
+535
+
+Gusterson, H. 1997. "Studying Up Revisited." PoLar: Political & Legal Anthropology Review 20 (1): 114­119. https://doi.org/10.1525/pol.1997.20.1.114.
+Harris, C. 1997. The Resettlement of British Columbia: Essays on Colonialism and Geographical Change. Vancouver: UBC Press.
+Heidelberger, L., and C. Smith. 2015. "The Food Environment Through the Camera Lenses of 9- to 13-Year-Olds Living in Urban, Low-Income, Midwestern Households: A Photovoice Project." Journal of Nutrition Education and Behavior 47 (5): 437­445.e1. https://doi.org/10.1016/j.jneb. 2015.05.005.
+Hendrickson, M. K., and J. Harvey. 2005. "The Ethics of Constrained Choice: How the Industrialization of Agriculture Impacts Farming and Farmer Behavior." Journal of Agricultural and Environmental Ethics 18 (3): 269­291. https://doi.org/10.1007/s10806-0050631-5.
+Hossen, M. A. 2016. "Participatory Mapping for Community Empowerment." Asian Geographer 33 (2): 97­113. https://doi.org/10.1080/10225706.2016.1237370.
+Hupaca sath First Nation. 2006. What the Hupacasath Did During the Four Seasons, How They Worked _on Getting Food and Tools Made from Bone_ s. Port Alberni: Hupacasath First Nation.
+Ishiguro, L. 2019. Nothing to Write Home About: British Family Correspondence_ and the Settler Colonial Everyday in British Columbia. Vancouver: UBC Press.
+Jakes, S., A. Hardison-Moody, S. Bowen, and J. Blevins. 2015. "Engaging Community Change: The Critical Role of Values in Asset Mapping." Community Development 46 (4): 392­406.
+Joosse, S., and M. Marshall. 2020. "Fridge Stories and Other Tales from the Kitchen: A Methodological Toolbox for Getting Closer to Everyday Food Practices." Food, Culture, & Society 23 (5): 608­626.
+Knowles, M., J. Rabinowich, T. Gaines-Turner, and M. Chilton. 2015. "Witnesses to Hunger: Methods for Photovoice and Participatory Action Research in Public Health." Human Organization 74 (3): 255­265. https://doi.org/10.17730/0018-7259-74.3.255.
+Koster, R. K., K. Baccar, and R. H. Lemelin. 2012. "Moving from Research ON, to Research with and for Indigenous Communities: A Critical Reflection on Community-Based Participatory Research." Canadian Geographies / Géographies canadiennes 56 (2): 195­210. https://doi.org/10. 1111/j.1541-0064.2012.00428.x.
+Lucke, S., E. Mamo, and J. Koenigstorfer. 2019. "Exploring the Meaning of Growing Food in Community Gardens to South African Township Residents: A Photovoice Study." Health and Place 55:165­176. https://doi.org/10.1016/j.healthplace.2018.11.009.
+Miranda, D. E., M. García-Ramírez, and M. J. Albar-Marín. 2020. "Building Meaningful Community Advocacy for Ethnic-Based Health Equity: The RoAd4health Experience." American Journal of Community Psychology 66 (3­4): 347­357. https://doi.org/10.1002/ajcp.12443.
+MOA (Ministry of Agriculture, Food and Fisheries). 2016. Agricultural Land Use Inventory: Alberni-Clayoquot Regional District, Summer 2016. Victoria: Government of British Columbia.
+Murton, J. 2008. Creating a Modern Countryside: Liberalism and Land Resettlement in British Columbia. Vancouver: UBC Press.
+Nader, L. 1974 [1969]. "Up the Anthropologist -- Perspectives Gained from Studying Up." In Reinventing Anthropology, edited by D. Hymes, 284­311. New York: Vintage Books.
+NFU (National Farmers Union). 2021. Tackling the Farm Income Crisis. Saskatchewan: National Farmers Union. https://www.nfu.ca/wp-content/uploads/2020/02/Farm-Income-Crisis.25.02. pdf .
+Nyéléni. 2007. "Nyéléni Declaration." Spain: Nyéléni International Movement for Food Sovereignty. https://nyeleni.org/en/declaration-of-nyeleni/.
+Nyéléni International Steering Committee. 2007. Synthesis Report: Nyeleni 2007 - Forum for Food Sovereignty. Spain: Nyéléni International Movement for Food Sovereignty. https://nyeleni.org/ IMG/pdf/31Mar2007NyeleniSynthesisReport-en.pdf .
+Ostry, A., and K. Morrision. 2013. "A Method for Estimating the Extent of Regional Food Self-Sufficiency and Dietary Ill Health in the Province of British Columbia, Canada." Sustainability 5 (11): 4949­4960. https://doi.org/10.3390/su5114949.
+
+536
+
+M. J. CURTIS ET AL.
+
+Pine, A., and R. de Souza. 2016. "Including the Voices of Communities in Food Insecurity Research: An Empowerment-Based Agenda for Food Scholarship." Journal of Agriculture, Food Systems, and Community Development 3 (4): 71­79. https://doi.org/10.5304/jafscd.2013. 034.007
+Power, E. M. 2003. "De-Centering the Text: Exploring the Potential for Visual Methods in the Sociology of Food." Journal for the Study of Food and Society 6 (2): 9­20. https://doi.org/10. 2752/152897903786769670.
+Robin, T., S. Rotz, and A. Xavier. 2023. Indigenous Food Sovereignty in Ontario: A Study of Exclusion at the Ministry of Agriculture, Food & Rural Affairs. Ontario: Yellowhead Institute.
+Skinner, K., R. M. Hanning, E. Desjardins, and L. J. S. Tsuji. 2013. "Giving Voice to Food Insecurity in a Remote Indigenous Community in Subarctic Ontario, Canada: Traditional Ways, Ways to Cope, Ways Forward." BMC Public Health 13 (1). https://doi.org/10.1186/ 1471-2458-13-42.
+Soma, T., B. Li, and T. Shulman. 2022. "A Citizen Science and Photovoice Approach to Food Asset Mapping and Food System Planning." Journal of Planning Education & Research 1­13. https:// doi.org/10.1177/0739456X2210889 .
+Soma, T., T. Shulman, B. Li, J. Bulkan, and M. J. Curtis. 2022. "Food Assets for Whom? Community Perspectives on Food Asset Mapping in Canada." Journal of Urbanism 15 (3): 322­339. https://doi.org/10.1080/17549175.2021.1918750.
+Strack, R. W., M. M. Orsini, and D. R. Ewald. 2022. "Revisiting the Roots and Aims of Photovoice." Health Promotion Practice 23 (2): 221­229.
+Supernant, K. J. Eva Baxter, N. Lyons, and S. Atalay. 2020. Archaeologies of the Heart. Switzerland: Springer Nature.
+Turner, N. J. 2014. Ancient Pathways, Ancestral Knowledge: Ethnobotany and Ecological Wisdom of Indigenous Peoples of Northwestern North America. Montreal: McGill-Queens University Press.
+Turner, N. J., and K. L. Turner. 2008. "Where Our Women Used to Get the food": Cumulative Effects and Loss of Ethnobotanical Knowledge and Practice; Case Study from Coastal British Columbia." Botany 86 (2): 103­115. https://doi.org/10.1139/B07-020.
+Vassenden, A., and M. Jonvik. 2022. "Photo Elicitation and the Sociology of Taste: A Review of the Field, Empirical Illustrations, Arguments for a "Return to Photography." The Sociological Quarterly 63 (1): 154­174. https://doi.org/10.1080/00380253.2020.1834464.
+Wang, C. C. 2022. "The Tai Qi of Photovoice." Health Promotion Practice 23 (2): 205­210. Webster, P. S. 1983. As Far as I Know: Reminiscences of an Ahousaht Elder. Campbell River:
+Campbell River Museum and Archives. Wiebe, N., A. A. Desmarais, and H. Wittman. 2011. Food Sovereignty in Canada: Creating Just and
+Sustainable Food Systems. Halifax: Fernwood Pub. Wills, W. J., A. M. Dickinson, A. Meah, and F. Short. 2016. "Reflections on the Use of Visual
+Methods in a Qualitative Study of Domestic Kitchen Practices." Sociology (Oxford) 50 (3): 470­485. Wilson, C. A. 2014. "A Manly Art: Plowing, Plowing Matches, and Rural Masculinity in Ontario, 1800­1930." The Canadian Historical Review 95 (2): 157­186. Working Group on Indigenous Food Sovereignty. 2023. Indigenous Food Sovereignty. B.C. Food Systems Network. https://www.indigenousfoodsystems.org/food-sovereignty. Ybarra, M. 2014. "Don't Just Pay It Back, Pay It Forward: From Accountability to Reciprocity in Research Relationships." Journal of Research Practice 10 (2). http://jrp.icaap.org/index.php/jrp/ article/view/407/358.
+
+
